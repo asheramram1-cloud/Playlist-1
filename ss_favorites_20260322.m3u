@@ -1,0 +1,121 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4854", Kan 11
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2332/index.m3u8
+#EXTINF:0 type="stream" channelId="4852", Keshet 12
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2329/index.m3u8
+#EXTINF:0 type="stream" channelId="4856", Reshet 13
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2330/index.m3u8
+#EXTINF:0 type="stream" channelId="2311", i24
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2386/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://tv10.co.il/wp-content/uploads/2025/09/1.jpg", ערוץ הכלכלה
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4895", Yes TV Comedy
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2345/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/he/0/08/HOTComedyCentral.svg", HOT Comedy Central
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12217/index.m3u8
+#EXTINF:0 type="stream" channelId="3228", TBS
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/1103/index.m3u8
+#EXTINF:0 type="stream" channelId="4896", yes דוקו
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12258/index.m3u8
+#EXTINF:0 type="stream" channelId="4920", HOT8
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12216/index.m3u8
+#EXTINF:100 type="stream" channelId="56", National Geographic
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12247/index.m3u8
+#EXTINF:0 type="stream" channelId="164", NAT GEO WILD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12248/index.m3u8
+#EXTINF:0 type="stream" channelId="50" name="Animal Planet FHD" group="US Channels" logo="https://i.ibb.co/k6hCxknW/Animal-Planet.png", Animal Planet
+https://a1xs.vip/300035
+#EXTINF:0 type="stream" channelId="57", DISCOVERY CHANNEL
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12241/index.m3u8
+#EXTINF:0 type="stream" channelId="58", Discovery Science
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/136/index.m3u8
+#EXTINF:82 type="stream" channelId="1455", HISTORY
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12265/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://media3.reshet.tv/image/upload/t_main_large/v1677501192/uploads/2023/903443910.webp", ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:0 type="stream" channelId="4441", travelxp  4K
+http://8kpy7f0c.ottclub.xyz/iptv/VC8YDT3RNCGUL2/20031/index.m3u8
+#EXTINF:0 type="stream" channelId="4439" name="SLING| TRAVELXP HD ᴿᴬᵂ" group="US| SLING ᴿᴬᵂ ⁶⁰ᶠᵖˢ" logo="http://51.158.145.100/picons/logos/USA/SLING.png", travelxp HD
+http://u8k-pro-iptvstore.cc:80/play/live.php?mac=00:1A:79:BC:99:2A&stream=1951210&extension=ts&play_token=dCUp3ezBZ6
+#EXTINF:0 type="stream" channelId="-1" group="Channels" logo="https://s3.aynaott.com/storage/6ccc7357c3d8d35770732126dd819596", 4k Travel TV
+https://streams2.sofast.tv/sofastplayout/33c31ac4-51fa-46ae-afd0-0d1fe5e60a80_0_HLS/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Channels" logo="https://s3.aynaott.com/storage/b35e9c1bcde3e6876892a22f91a9c4b5", InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4921", HOT CINEMA 1
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12245/index.m3u8
+#EXTINF:0 type="stream" channelId="4922", HOT CINEMA 2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12215/index.m3u8
+#EXTINF:0 type="stream" channelId="4923", HOT CINEMA 3
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12220/index.m3u8
+#EXTINF:0 type="stream" channelId="4924", HOT CINEMA 4
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2356/index.m3u8
+#EXTINF:0 type="stream" channelId="4891", YES MOVIES COMEDY
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12271/index.m3u8
+#EXTINF:0 type="stream" channelId="4889", YES MOVIES DRAMA
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12272/index.m3u8
+#EXTINF:0 type="stream" channelId="4890", YES MOVIES ACTION
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12270/index.m3u8
+#EXTINF:0 type="stream" channelId="4892", Yes Israeli Cinema
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2342/index.m3u8
+#EXTINF:0 type="stream" channelId="4878", Sport 5
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2391/index.m3u8
+#EXTINF:0 type="stream" channelId="4881", SPORT 5 LIVE
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12255/index.m3u8
+#EXTINF:0 type="stream" channelId="4882", SPORT5 STARS
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12278/index.m3u8
+#EXTINF:0 type="stream" channelId="4880", SPORT 5 GOLD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12254/index.m3u8
+#EXTINF:0 type="stream" channelId="4874", ספורט 1
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12249/index.m3u8
+#EXTINF:0 type="stream" channelId="4875", SPORT 2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12250/index.m3u8
+#EXTINF:0 type="stream" channelId="4876", SPORT 3
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12251/index.m3u8
+#EXTINF:0 type="stream" channelId="4877", SPORT 4
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12252/index.m3u8
+#EXTINF:0 type="stream" channelId="4872", ONE
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/2340/index.m3u8
+#EXTINF:0 type="stream" channelId="4873", ONE 2
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/12231/index.m3u8
+#EXTINF:0 type="stream" channelId="225", Eurosport 1 HD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/5075/index.m3u8
+#EXTINF:0 type="stream" channelId="933", Eurosport 2 HD
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/7203/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 1 FHD" group="UK Sports" logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS1.png", TNT Sports 1 FHD
+https://a1xs.vip/2000021
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 2 FHD" group="UK Sports" logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS2.png", TNT Sports 2 FHD
+https://a1xs.vip/2000022
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 3 FHD" group="UK Sports" logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS3.png", TNT Sports 3 FHD
+https://a1xs.vip/2000023
+#EXTINF:0 type="stream" channelId="-1" name="TNT Sports 4 FHD" group="UK Sports" logo="https://raw.githubusercontent.com/a1xmedia/m3u/refs/heads/main/img/TNTS4.png", TNT Sports 4 FHD
+https://a1xs.vip/2000024
+#EXTINF:0 type="stream" channelId="-1" name="UK: TNT Sports Ultimate UHD" group="UHD | 4K" logo="https://i.ibb.co/QqGdJnM/TNTSprts-U.png", TNT Sports Ultimate UHD
+https://a1xs.vip/2000031
+#EXTINF:0 type="stream" channelId="-1" name="UK: Sky Sports Main Event UHD" group="UHD | 4K" logo="https://i.ibb.co/gwCk7Bc/sky-m-event-uhd.png", Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:0 type="stream" channelId="1263" name="ESPN HD" group="US Sports" logo="https://i.ibb.co/gbhcvFKG/ESPN.png", ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:0 type="stream" channelId="4555" name="US| ESPN NEWS HD" group="US| SPORTS NETWORK" logo="http://51.158.145.100/picons/logos/USA/45578.png", ESPN NEWS HD
+http://u8k-pro-iptvstore.cc:80/play/live.php?mac=00:1A:79:BC:99:2A&stream=45578&extension=ts&play_token=1RduTkX5B8
+#EXTINF:0 type="stream" channelId="1119" name="BBC Two FHD" group="UK Channels" logo="https://i.ibb.co/7vG6Nvz/BBC-Two.png", BBC Two
+https://a1xs.vip/1000002
+#EXTINF:0 type="stream" channelId="2534" group="Animation;General;Kids" logo="https://i.imgur.com/aH0PCPy.png", BBC Four HD
+https://viamotionhsi.netplus.ch/live/eds/bbc4cbeebies/browser-HLS8/bbc4cbeebies.m3u8
+#EXTINF:0 type="stream" channelId="3205" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b0/CBS_News_247_logo.svg/560px-CBS_News_247_logo.svg.png", CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:0 type="stream" channelId="1442" group="News" logo="https://i.imgur.com/JZt2qh5.png", NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo_channelId=99984003
+#EXTINF:0 type="stream" channelId="1317" name="CA| FOX NEWS HD" logo="http://51.158.145.100/picons/logos/CANADA/176823.png", FOX NEWS HD
+http://u8k-pro-iptvstore.cc:80/play/live.php?mac=00:1A:79:BC:99:2A&stream=176823&extension=ts&play_token=mLfgOMllDs
+#EXTINF:0 type="stream" channelId="2883" name="CNN (US)" group="NEWS INTERNASIONAL", CNN
+https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8
+#EXTINF:0 type="stream" channelId="363" name="Aljazeera" group="English News", Aljazeera
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4829", 4ever Music
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/15278/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="MusicTV" group="Music", MusicTV
+http://bitcdn-kronehit.bitmovin.com/v2/hls/chunklist_b3128000.m3u8
+#EXTINF:0 type="stream" channelId="4456" name="Now 80s" tvg-country="GB", that's 80s
+https://lightning-now80s-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4515", Home 4K
+http://qnh9pyox.russtv.net/iptv/BQG985S7RZNZCG/4002/index.m3u8
