@@ -1,0 +1,37 @@
+#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/il.xml"
+
+#EXTINF:-1 tvg-id="ONE1.il" tvg-name="ONE 1" group-title="Sports",ONE 1
+http://185.132.134.159:80/one/index.m3u8
+
+#EXTINF:-1 tvg-id="ONE2.il" tvg-name="ONE 2" group-title="Sports",ONE 2
+http://185.132.134.159:80/one2/index.m3u8
+
+#EXTINF:-1 tvg-id="HOT3.il" tvg-name="HOT 3" group-title="Entertainment",HOT 3
+http://185.132.134.159:80/hot3/index.m3u8
+
+#EXTINF:-1 tvg-id="KAN11.il" tvg-name="KAN 11" group-title="Israel",KAN 11
+http://185.132.134.159:80/kan11/index.m3u8
+
+#EXTINF:-1 tvg-id="Keshet12.il" tvg-name="Keshet 12" group-title="Israel",Keshet 12
+http://185.132.134.159:80/keshet12/index.m3u8
+
+#EXTINF:-1 tvg-id="Reshet13.il" tvg-name="Reshet 13" group-title="Israel",Reshet 13
+http://185.132.134.159:80/reshet13/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport1.il" tvg-name="Sport 1" group-title="Sports",Sport 1
+http://185.132.134.159:80/sport1/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport2.il" tvg-name="Sport 2" group-title="Sports",Sport 2
+http://185.132.134.159:80/sport2/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport3.il" tvg-name="Sport 3" group-title="Sports",Sport 3
+http://185.132.134.159:80/sport3/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport4.il" tvg-name="Sport 4" group-title="Sports",Sport 4
+http://185.132.134.159:80/sport4/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport5.il" tvg-name="Sport 5" group-title="Sports",Sport 5
+http://185.132.134.159:80/sport5/index.m3u8
+
+#EXTINF:-1 tvg-id="Sport6.il" tvg-name="Sport 6" group-title="Sports",Sport 6
+http://185.132.134.159:80/sport6/index.m3u8
