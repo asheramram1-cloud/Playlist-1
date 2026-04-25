@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://iptv-org.github.io/epg/guides/il.xml"
+#EXTM3U 
 
 #EXTINF:-1 tvg-id="ONE1.il" tvg-name="ONE 1" group-title="Sports",ONE 1
 http://185.132.134.159:80/one/index.m3u8
