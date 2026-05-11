@@ -1,0 +1,57 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="4854", כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4852", קשת 12
+http://185.132.134.159:80/keshet12/index.m3u8
+#EXTINF:0 type="stream" channelId="4856" name="רשת 13" logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/4a/Reshet_13_logo.svg/512px-Reshet_13_logo.svg.png", רשת 13
+http://185.132.134.159:80/reshet13/index.m3u8
+#EXTINF:0 type="stream" channelId="2311" group="News" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24 News
+https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/playlist-hls.m3u8?__nn__=5476555825001&hdnea=st=1767895200~exp=1767898800~acl=/6386790215112/eu-central-1/5377161796001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiZXJmajYzLmVncmVzcy53YzQ3bTEiLCJhY2NvdW50X2lkIjoiNTM3NzE2MTc5NjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyI1Mzc3MTYxNzk2MDAxIl0sImp0aSI6IjYzODY3OTAyMTUxMTIifQ.8ZawImK7DfcrrXeAT2OVZ62qQJrJiBaoc7Y1DNNq1bg/*~hmac=59be9c55159d8b6167ec5d5a7528df6b7bf144a4d8fe71dd486a93e5032f20a2
+#EXTINF:0 type="stream" channelId="-1" name="כלכלה 10" logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/02/Channel_10_logo.svg/512px-Channel_10_logo.svg.png", כלכלה 10
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="3988" name="Sport 5" group="Sports", 5SPORT
+http://185.132.134.159:80/sport5/index.m3u8
+#EXTINF:0 type="stream" channelId="1190" name="Comedy Central" group="美国综合" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/500px-Comedy_Central_2018.svg.png", Comedy Central
+http://23.237.104.106:8080/USA_COMEDY_CENTRAL/index.m3u8
+#EXTINF:0 type="stream" channelId="56" name="CELLCOM TV NATIONAL GEOGRAPHIC" group="CELLCOM TV BOXES", NATIONAL GEOGRAPHIC
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828877&extension=ts&play_token=B04GYysXqW
+#EXTINF:0 type="stream" channelId="206" name="NAT GEO WILD HD" group="ISRAEL VIP" logo="http://picons.cmshulk.com/picons/37703.png", NAT GEO WILD HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=37703&extension=ts&play_token=hIqxILSjkY
+#EXTINF:0 type="stream" channelId="341" name="CELLCOM TV DISCOVERY HD" group="CELLCOM TV BOXES", DISCOVERY HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828874&extension=ts&play_token=T3LNKYdLLF
+#EXTINF:0 type="stream" channelId="1508" name="DISCOVERY SCIENCE HD" group="DENMARK HD & HEVC" logo="http://picons.cmshulk.com/picons/1549679.png", DISCOVERY SCIENCE HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1549679&extension=ts&play_token=aFtz97JfA0
+#EXTINF:0 type="stream" channelId="-1" group="UK| GENERAL", BBC EARTH UK
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1556637&extension=ts&play_token=3QX8Hp8YPt
+#EXTINF:0 type="stream" channelId="-1" name="BBC EARTH HD" group="CA| ENGLISH", BBC EARTH HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=176867&extension=ts&play_token=DqXzml7bAm
+#EXTINF:0 type="stream" channelId="50" name="YES ANIMAL PLANET" group="ISRAEL HD", ANIMAL PLANET
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1035238&extension=ts&play_token=IFrWjFifjY
+#EXTINF:0 type="stream" channelId="4439" name="TRAVELXP" group="AFR| AZAM NETWORK VIP" logo="http://51.158.145.100/picons/logos/AFRICA/1916214.png", AZ| TRAVELXP
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1916214&extension=ts&play_token=fymEbHzIO7
+#EXTINF:0 type="stream" channelId="-1" group="Channels" logo="https://cdn.uc.assets.prezly.com/1dc3d680-a66d-43f7-a8c5-78ad495dbffd/INTRAVELPortraitBlack.jpg", InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="ערוץ הנופש" logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Travel_channel_logo.svg/512px-Travel_channel_logo.svg.png", ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5fd7b8bf927e090007685853/featuredImage.jpg", Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg", Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg", Vevo 2K
+https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://i.imgur.com/dZHktKR.png", Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" group="Music" logo="https://12core-tus-ingestion.s3.amazonaws.com/7a72465bafeb3727ee15821eb3cbfd67", XITE Hits
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:0 type="stream" channelId="-1" name="STINGRAY HITS" group="CA| STINGRAY" logo="http://51.158.145.100/picons/logos/CANADA/1423349.png", STINGRAY HITS
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1423349&extension=ts&play_token=57C1Pqixxf
+#EXTINF:0 type="stream" channelId="-1" name="STINGRAY NOW 4K" group="CA| STINGRAY" logo="http://51.158.145.100/picons/logos/CANADA/1423348.png", STINGRAY NOW 4K
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1423348&extension=ts&play_token=D6YwC4nSaO
+#EXTINF:0 type="stream" channelId="1483" name="ICONCERTS HD" group="GR| ΜΟΥΣΙΚΗ/MUSIC" logo="http://103.176.90.95/images/978735.png", ICONCERTS HD
+http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=978735&extension=ts&play_token=5FQbU9JGPa
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.prosto.tv/storage/channel/logo/ch00310.png", Kamin
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.prosto.tv/storage/channel/logo/ch00318.png", Stream City
+http://iptv.prosto.tv:7000/ch321/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg", Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
