@@ -1,0 +1,35 @@
+#EXTM3U x-tvg-url="https://epg.streamstv.me/epg/guide-IL.xml.gz,https://epg.pw/api/epg.xml?channel_id=DiscoveryScience.us,https://iptv.epg.pw/api/epg.xml"
+#EXTINF:0 type="stream" channelId="4854" tvg-id="Kan11.il" tvg-name="Kan 11" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-country="IL", Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="4852" tvg-id="Keshet12.il" tvg-name="Keshet 12" name="CHANNEL 12 HD" logo="http://picons.cmshulk.com/picons/59336.png" tvg-country="IL", Keshet 12
+http://77.137.40.221:8000/play/t017
+#EXTINF:0 type="stream" channelId="4856" tvg-id="Reshet13.il" tvg-name="Reshet 13" group="News" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" subtitles="IL", Reshet 13
+https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:0 type="stream" channelId="2311" tvg-id="i24NewsHebrew.il" tvg-name="i24 News" group="News" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" tvg-country="IL", i24 News
+https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-id="Calcala.il" tvg-name="כלכלה 10" name="כלכלה 10" logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png", כלכלה 10
+https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:0 type="stream" channelId="1508" tvg-id="DiscoveryScience.us" tvg-name="Discovery Science HD" tvg-country="US", Discovery Science HD
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=176877&extension=ts&play_token=gjas5ImRI1
+#EXTINF:0 type="stream" channelId="4441" tvg-id="TravelXP.us" tvg-name="travelxp 4K" name="TRAVEL XP ⱽᴵᴾ ᴿᴬᵂ" logo="http://picons.cmshulk.com/picons/travelxp.png", travelxp 4K
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://cdn.uc.assets.prezly.com/1dc3d680-a66d-43f7-a8c5-78ad495dbffd/INTRAVELPortraitBlack.jpg", InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-id="MTVLive.uk" tvg-name="MTV Live" logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png", MTV Live
+http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&extension=ts&play_token=1WGuLgLigF
+#EXTINF:0 type="stream" channelId="-1" tvg-id="XITE.nl" tvg-name="XITE" logo="https://i.imgur.com/N51Rp7E.png", XITE
+https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png", Vevo Pop
+https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vevo_2016_Logo.svg", Vevo 80s
+https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg", Vevo 90s
+https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg", Vevo 2K
+https://d1s6jz67jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" tvg-country="US" size="Small", Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.prosto.tv/storage/channel/logo/ch00310.png", Kamin
+http://iptv.prosto.tv:7000/ch318/video.m3u8
+#EXTINF:0 type="stream" channelId="-1" logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg", Relaxon
+http://iptv.prosto.tv:7000/ch317/video.m3u8
