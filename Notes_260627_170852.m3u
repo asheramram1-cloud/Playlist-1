@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/bac3evzjrtfs08vj9981i/m3u4u-206621-731059-EPG-Playlist.xml?rlkey=m3fc7e9jnndd5rjnq840pe0ix&st=vcj8pdr0&dl=0"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/globetvapp/epg/refs/heads/main/Israel/israel1.xml"
 
 #EXTINF:0 tvg-name="channel11.il" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-country="IL" group-title="Israel", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
