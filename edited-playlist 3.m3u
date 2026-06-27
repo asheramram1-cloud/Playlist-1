@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/refs/heads/master/EPG/WGP/guide.xml"
-#EXTINF:-1 tvg-name="KAN 11" group-title="-",KAN 11 HD
+#EXTINF:-1 tvg-name="KAN 11" group-title="-",KAN 11
 http://77.137.40.221:8000/play/a05b
-#EXTINF:-1 tvg-name="CH Keshet 12 HD" group-title="-",CH Keshet 12 HD
+#EXTINF:-1 tvg-name="Keshet 12" group-title="-",CH Keshet 12 HD
 http://77.137.40.221:8000/play/t017
 #EXTINF:-1 tvg-name="CH Reshet 13 HD" group-title="-",CH Reshet 13 HD
 http://77.137.40.221:8000/play/t018
