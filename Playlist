@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iawsc/SSIPTV-EPG/main/il.xml"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/deepspace221/xmltv-israel/master/webgrab/IsraelWebGrab.xml"
 
 #EXTINF:0 tvg-id="channel12.il" tvg-name="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" country="IL" group-title="Israel", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
