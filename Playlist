@@ -1,25 +1,25 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com"
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/iawsc/SSIPTV-EPG/main/il.xml"
 
-#EXTINF:0 tvg-name="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" country="IL" group-title="Israel", Kan 11
+#EXTINF:0 tvg-id="channel12.il" tvg-name="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" country="IL" group-title="Israel", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:0 tvg-name="channel12.il" tvg-logo="http://picons.cmshulk.com/picons/59336.png" country="IL" group-title="Israel", Keshet 12
+#EXTINF:0 tvg-id="channel12.il" tvg-name="channel12.il" tvg-logo="http://picons.cmshulk.com/picons/59336.png" country="IL" group-title="Israel", Keshet 12
 http://77.137.40.221:8000/play/t017
 
-#EXTINF:0 tvg-name="channel13.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" country="IL" group-title="Israel", Reshet 13
+#EXTINF:0 tvg-id="channel13.il" tvg-name="channel13.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" country="IL" group-title="Israel", Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 
-#EXTINF:0 tvg-name="i24hebrew.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" country="IL" group-title="Israel", i24 News
+#EXTINF:0 tvg-id="i24hebrew.il" tvg-name="i24hebrew.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" country="IL" group-title="Israel", i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
-#EXTINF:0 tvg-name="finance.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png" country="IL" group-title="Israel", כלכלה 10
+#EXTINF:0 tvg-id="finance.il" tvg-name="finance.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png" country="IL" group-title="Israel", כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 
-#EXTINF:0 tvg-name="discovery.il" country="US" group-title="Science & Documentaries", Discovery Science HD
+#EXTINF:0 tvg-id="discovery.il" tvg-name="discovery.il" country="US" group-title="Science & Documentaries", Discovery Science HD
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=176877&extension=ts&play_token=gjas5ImRI1
 
-#EXTINF:0 tvg-name="travelplus.il" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" country="INT" group-title="Travel & Lifestyle", travelxp 4K
+#EXTINF:0 tvg-id="travelplus.il" tvg-name="travelplus.il" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" country="INT" group-title="Travel & Lifestyle", travelxp 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 
-#EXTINF:0 tvg-name="mtv.il" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" country="UK" group-title="Music", MTV Live
+#EXTINF:0 tvg-id="mtv.il" tvg-name="mtv.il" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" country="UK" group-title="Music", MTV Live
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&extension=ts&play_token=1WGuLgLigF
