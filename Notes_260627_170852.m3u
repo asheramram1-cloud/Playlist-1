@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/refs/heads/master/EPG/WGP/guide.xml"
 
-#EXTINF:0 tvg-name="kan11" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-country="IL" group-title="Israel", Kan 11
+#EXTINF:0 tvg-name="Kan 11" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-country="IL" group-title="Israel", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:0 tvg-name="channel 12" logo="http://picons.cmshulk.com/picons/59336.png" tvg-country="IL" group-title="Israel", Keshet 12
