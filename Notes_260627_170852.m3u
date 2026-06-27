@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://iptvx.one/EPG"
+#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260627&channel_id=55949"
 
 #EXTINF:0 tvg-name="channel11.il" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-country="IL" group-title="Israel", Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
