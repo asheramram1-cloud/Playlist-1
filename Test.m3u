@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U url-tvg="https://iptv-epg.org/files/epg-is.xml"
 
 #EXTINF:-1 tvg-chno="11" group-title="News" tvg-id="465150" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
 # EPG: https://www.open-epg.com/generate/fVjzmBVvNc.xml
