@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="https://www.open-epg.com/files/israel.xml"
+#EXTM3U url-tvg="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/refs/heads/master/EPG/WGP/Kan%2011.json"
 
 #EXTINF:-1 tvg-name="channel11.il"
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
