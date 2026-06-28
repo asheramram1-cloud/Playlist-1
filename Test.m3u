@@ -1,3 +1,7 @@
 #EXTM3U: x-tvg-url="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/refs/heads/master/EPG/WGP/guide.xml", Access-Control-Allow-Origin: *
+Access-Control-Allow-Methods: "GET, POST, OPTIONS, HEAD"
+Access-Control-Allow-Headers: "Range"
+Access-Control-Expose-Headers: "Accept-Ranges, Content-Encoding, Content-Length, Content-Range"
+
 #EXTINF:0 tvg-id="Kan 11"
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
