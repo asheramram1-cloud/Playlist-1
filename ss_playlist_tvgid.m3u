@@ -1,4 +1,5 @@
 #EXTM3U
+x-tvg-url="https://www.open-epg.com/files/israel.xml"
 #EXTINF:-1 tvg-id="yestvaction.il" tvg-name="Yes ACTION HD IL" group-title="Uncategorized",Yes ACTION HD IL
 http://c3acbb0c.ucomist.net/iptv/ESMHU7B3S7N5NW/2346/index.m3u8
 #EXTINF:-1 tvg-id="yestvcomedy.il" tvg-name="Yes COMEDY HD IL" group-title="Uncategorized",Yes COMEDY HD IL
