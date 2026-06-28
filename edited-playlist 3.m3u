@@ -1,6 +1,6 @@
 #EXTM3U
 x-tvg-url="https://www.open-epg.com/generate/fVjzmBVvNc.xml"
-#EXTINF:-1 tvg-name="KAN  11" group-title="-",KAN 11
+#EXTINF:-1 tvg-name="channel11.il" group-title="-",KAN 11
 http://77.137.40.221:8000/play/a05b
 #EXTINF:-1 tvg-name="Keshet 12" group-title="-",Keshet12"
 http://77.137.40.221:8000/play/t017
