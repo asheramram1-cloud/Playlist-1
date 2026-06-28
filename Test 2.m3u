@@ -2,7 +2,7 @@
 x-tvg-url="https://www.open-epg.com/generate/fVjzmBVvNc.xml"
 #EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" group-title="-",KAN 11
 http://77.137.40.221:8000/play/a05b
-#EXTINF:-1 tvg-id="channel12.il" tvg-name="Keshet 12" group-title="-",Keshet12"
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" group-title="-",Keshet12"
 http://77.137.40.221:8000/play/t017
 #EXTINF:-1 tvg-name="CH Reshet 13 HD" group-title="-",CH Reshet 13 HD
 http://77.137.40.221:8000/play/t018
