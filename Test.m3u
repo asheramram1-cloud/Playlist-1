@@ -1,54 +1,62 @@
 #EXTM3U
 
-
-#EXTINF:0 tvg-id="465150" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u
+#EXTINF:-1 tvg-chno="11" group-title="News" tvg-id="466150" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan 11
 # EPG: https://epg.pw/api/epg.xml?channel_id=465150
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:0 tvg-name="Keshet12" logo="http://picons.cmshulk.com/picons/59336.png" tvg-country="IL" group-title="Israel", Keshet 12
-http://77.137.40.221:8000/play/t017
+#EXTINF:-1 tvg-chno="12" group-title="News" tvg-id="Keshet 12" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png", Keshet 12
+# https://zekonew.newkso.ru/zeko/premium549/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0 
+https://mako-streaming.akamaized.net/index.m3u8|referer=none&origin=none
 
-#EXTINF:0 tvg-name="channel13.il" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" tvg-country="IL" group-title="Israel", Reshet 13
+#EXTINF:-1 tvg-chno="13" group-title="News" tvg-id="Reshet 13" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg", Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 
-#EXTINF:0 tvg-name="i24hebrew.il" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" tvg-country="IL" group-title="Israel", i24 News
+#EXTINF:-1 tvg-chno="14" group-title="News" tvg-id="i24" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
-#EXTINF:0 tvg-name="finance.il" logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png" tvg-country="IL" group-title="Israel", כלכלה 10
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 tvg-chno="21" group-title="News" tvg-id="465021" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png", CNN
+# EPG: https://epg.pw/api/epg.xml?channel_id=465021
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 
-#EXTINF:0 tvg-name="55949" tvg-country="US" group-title="Documentaries", Discovery Science HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=176877&extension=ts&play_token=gjas5ImRI1
+#EXTINF:-1 tvg-chno="22" group-title="News" tvg-id="465150" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg", ABC News
+# EPG: https://epg.pw/api/epg.xml?channel_id=465150
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
 
-#EXTINF:0 tvg-name="travelxp.il" logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="Travel", travelxp 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+#EXTINF:-1 tvg-chno="23" group-title="News" tvg-id="NBC News NOW" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png", NBC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
 
-#EXTINF:0 tvg-name="travel.il" logo="https://cdn.uc.assets.prezly.com/1dc3d680-a66d-43f7-a8c5-78ad495dbffd/INTRAVELPortraitBlack.jpg" group-title="Travel", InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 tvg-chno="24" group-title="News" tvg-id="465372" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png", Fox News
+# EPG: https://epg.pw/api/epg.xml?channel_id=465372
+https://s6.usnlive.com/stream/foxnews.m3u8|referer=https://usnewson.com/&origin=https://usnewson.com
 
-#EXTINF:0 tvg-name="mtv.il" logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="Music", MTV Live
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&extension=ts&play_token=1WGuLgLigF
+#EXTINF:-1 tvg-chno="25" group-title="News" tvg-id="464941" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNews.png", CBS News
+# EPG: https://epg.pw/api/epg.xml?channel_id=464941
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 
-#EXTINF:0 logo="https://i.imgur.com/N51Rp7E.png" group-title="Music", XITE
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+#EXTINF:-1 tvg-chno="31" group-title="Sports" tvg-id="465311" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NFLNetwork.png", NFL Network
+# EPG: https://epg.pw/api/epg.xml?channel_id=465311
+# https://tvpass.org/live/NFLNetwork/sd
 
-#EXTINF:0 logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600008WY_20240924T011028SQUARE.png" group-title="Music", Vevo Pop
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="32" group-title="Sports" tvg-id="465198" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN.png", ESPN
+# EPG: https://epg.pw/api/epg.xml?channel_id=465198
+# https://tvpass.org/live/ESPN/sd
 
-#EXTINF:0 logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/Vevo_2016_Logo.svg" group-title="Music", Vevo 80s
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="33" group-title="Sports" tvg-id="465373" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ESPN2.png", ESPN 2
+# EPG: https://epg.pw/api/epg.xml?channel_id=465373
+# https://tvpass.org/live/ESPN2/sd
 
-#EXTINF:0 logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="Music", Vevo 90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="41" group-title="Local" tvg-id="467679" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNY.png", ABC NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=467679
+# https://tvpass.org/live/WABCDT1/sd
 
-#EXTINF:0 logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="Music", Vevo 2K
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTINF:-1 tvg-chno="42" group-title="Local" tvg-id="467015" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNY.png", NBC NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=467015
+# https://tvpass.org/live/WNBCDT1/sd
 
-#EXTINF:0 logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" tvg-country="US" group-title="Music", Qello Concerts
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1 tvg-chno="43" group-title="Local" tvg-id="468311" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNY.png", CBS NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=468311
+# https://tvpass.org/live/WCBSDT1/sd
 
-#EXTINF:0 logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="Relax", Kamin
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-
-#EXTINF:0 logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="Relax", Relaxon
-http://iptv.prosto.tv:7000/ch317/video.m3u8
+#EXTINF:-1 tvg-chno="44" group-title="Local" tvg-id="469143" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FOXNY.png", Fox NY
+# EPG: https://epg.pw/api/epg.xml?channel_id=469143
+# https://cbsn-ny.cbsnstream.cbsnews.com/out/v1/ec3897d58a9b45129a77d67aa247d136/master.m3u8
