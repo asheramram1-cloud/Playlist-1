@@ -1,4 +1,4 @@
 #EXTM3U: x-tvg-url="https://www.open-epg.com/generate/fVjzmBVvNc.xml"
-#EXTINF:-1 tvg-id="kan 11" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Kan_11_logo.svg/512px-Kan_11_logo.svg.png",כאן 11
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Kan_11_logo.svg/512px-Kan_11_logo.svg.png",כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
