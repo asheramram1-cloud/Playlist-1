@@ -1,5 +1,4 @@
 #EXTM3U
-x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
 x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260629&channel_id=76687"
 
 #EXTINF:0 type="stream" tvgid="כאן11.il" logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" country="IL", Kan 11
