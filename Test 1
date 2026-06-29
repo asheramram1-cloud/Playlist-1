@@ -1,56 +1,56 @@
 #EXTM3U
 x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
 
-#EXTINF:-1 tvg-id="channel11.il" tvg-name="KAN 11" group-title="-",KAN 11
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" group-title="-",KAN 11
 http://77.137.40.221:8000/play/a05b
 
-#EXTINF:-1 tvg-id="channel12.il" tvg-name="Keshet 12" group-title="-",Keshet 12
+#EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" group-title="-",Keshet12
 http://77.137.40.221:8000/play/t017
 
-#EXTINF:-1 tvg-id="channel13.il" tvg-name="Reshet 13" group-title="-",CH Reshet 13 HD
+#EXTINF:-1 tvg-id="channel13.il" tvg-name="channel13.il" group-title="-",CH Reshet 13 HD
 http://77.137.40.221:8000/play/t018
 
-#EXTINF:-1 tvg-id="NationalGeographic.us" tvg-name="National Geographic HD" group-title="-",National_Geographic_HD
+#EXTINF:-1 tvg-id="nationalgeographic.il" tvg-name="nationalgeographic.il" group-title="-",National_Geographic_HD
 http://77.137.40.221:8000/play/a00k
 
-#EXTINF:-1 tvg-id="NatGeoWild.us" tvg-name="Nat Geo Wild HD" group-title="-",Nat Geo Wild HD
+#EXTINF:-1 tvg-id="natgeowild.il" tvg-name="natgeowild.il" group-title="-",Nat Geo Wild HD
 http://77.137.40.221:8000/play/a01t
 
-#EXTINF:-1 tvg-id="AnimalPlanet.us" tvg-name="Animal Planet HD" group-title="-",Animal_Planet_HD
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="animalplanet.il" group-title="-",Animal_Planet_HD
 http://77.137.40.221:8000/play/a00l
 
-#EXTINF:-1 tvg-id="DiscoveryChannel.us" tvg-name="Discovery HD" group-title="-",Discovery_HD
+#EXTINF:-1 tvg-id="discovery.il" tvg-name="discovery.il" group-title="-",Discovery_HD
 http://77.137.40.221:8000/play/a00j
 
-#EXTINF:-1 tvg-id="HistoryChannel.us" tvg-name="History Channel HD" group-title="-",History_Channel_HD
+#EXTINF:-1 tvg-id="history.il" tvg-name="history.il" group-title="-",History_Channel_HD
 http://77.137.40.221:8000/play/t00m
 
-#EXTINF:-1 tvg-id="5Sport.il" tvg-name="SPORT 5 HD" group-title="-",SPORT 5 HD
+#EXTINF:-1 tvg-id="sport5.il" tvg-name="sport5.il" group-title="-",SPORT 5 HD
 http://77.137.40.221:8000/play/k01c
 
-#EXTINF:-1 tvg-id="5Live.il" tvg-name="SPORT5LIVEHD" group-title="-",SPORT5LIVEHD
+#EXTINF:-1 tvg-id="sport5live.il" tvg-name="sport5live.il" group-title="-",SPORT5LIVEHD
 http://77.137.40.221:8000/play/k00i
 
-#EXTINF:-1 tvg-id="5Plus.il" tvg-name="SPORT5PLUSHD" group-title="-",SPORT5PLUSHD
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il" group-title="-",SPORT5PLUSHD
 http://77.137.40.221:8000/play/k001
 
-#EXTINF:-1 tvg-id="Sport1.il" tvg-name="SPORT 1 HD" group-title="-",SPORT 1 HD
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il" group-title="-",SPORT 1 HD
 http://77.137.40.221:8000/play/k016
 
-#EXTINF:-1 tvg-id="Sport2.il" tvg-name="SPORT 2 HD" group-title="-",SPORT 2 HD
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il" group-title="-",SPORT 2 HD
 http://77.137.40.221:8000/play/k019
 
-#EXTINF:-1 tvg-id="Sport3.il" tvg-name="SPORT 3 HD" group-title="-",SPORT 3 HD
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il" group-title="-",SPORT 3 HD
 http://77.137.40.221:8000/play/k01a
 
-#EXTINF:-1 tvg-id="Sport4.il" tvg-name="SPORT 4 HD" group-title="-",SPORT 4 HD
+#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il" group-title="-",SPORT 4 HD
 http://77.137.40.221:8000/play/k01b
 
-#EXTINF:-1 tvg-id="5Stars.il" tvg-name="SPORT 6 HD" group-title="-",SPORT 6 HD
+#EXTINF:-1 tvg-id="sport6.il" tvg-name="sport6.il" group-title="-",SPORT 6 HD
 http://77.137.40.221:8000/play/k03w
 
-#EXTINF:-1 tvg-id="One.il" tvg-name="SPORT ONE HD" group-title="-",SPORT ONE HD
+#EXTINF:-1 tvg-id="sportone.il" tvg-name="sportone.il" group-title="-",SPORT ONE HD
 http://77.137.40.221:8000/play/k01d
 
-#EXTINF:-1 tvg-id="One2.il" tvg-name="SPORT ONE 2 HD" group-title="-",SPORT ONE 2 HD
+#EXTINF:-1 tvg-id="sportone2.il" tvg-name="sportone2.il" group-title="-",SPORT ONE 2 HD
 http://77.137.40.221:8000/play/k01f
