@@ -1,5 +1,5 @@
 #EXTM3U:
-x-tvg-url="https://www.open-epg.com/files/israel.xml"
+x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
 
 #EXTINF:-1 tvg-id="channnel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="ישראל",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
