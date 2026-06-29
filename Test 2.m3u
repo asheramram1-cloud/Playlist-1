@@ -1,5 +1,5 @@
 #EXTM3U
-x-tvg-url="https://www.open-epg.com/files/israel.xml"
+x-tvg-url="https://iptv-epg.org/files/epg-il.xml"
 #EXTINF:-1 tvg-id="channel11.il" tvg-name="channel11.il" group-title="-",KAN 11
 http://77.137.40.221:8000/play/a05b
 #EXTINF:-1 tvg-id="channel12.il" tvg-name="channel12.il" group-title="-",Keshet12"
