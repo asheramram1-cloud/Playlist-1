@@ -10,7 +10,7 @@ http://77.137.40.221:8000/play/t017
 #EXTINF:-1 tvg-id="channel13.il" tvg-name="channel13.il" group-title="-",CH Reshet 13 HD
 http://77.137.40.221:8000/play/t018
 
-#EXTINF:-1 tvg-id="nationalgeographic.il" tvg-name="nationalgeographic.il" group-title="-",National_Geographic_HD
+#EXTINF:-1 tvg-id="NationalGeographic.is" tvg-name="nationalgeographic.il" group-title="-",National_Geographic_HD
 http://77.137.40.221:8000/play/a00k
 
 #EXTINF:-1 tvg-id="natgeowild.il" tvg-name="natgeowild.il" group-title="-",Nat Geo Wild HD
