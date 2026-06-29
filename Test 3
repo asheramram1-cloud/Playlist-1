@@ -1,5 +1,5 @@
 #EXTM3U
 x-tvg-url="https://epg.pw/api/epg.xml?channel_id=76687"
 
-#EXTINF:-1 tvg-id="76687" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png",Travelxp 4K
+#EXTINF:-1 tvg-id="76687" tvg-name="travelxp" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png",Travelxp 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
