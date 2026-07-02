@@ -1,4 +1,5 @@
-#EXTM3U x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260702&channel_id=471413"
+#EXTM3U
+x-tvg-url="https://epg.pw/api/epg.xml?lang=en&date=20260702&channel_id=471413"
 
 #EXTINF:-1 tvg-id="Travelxp4K.de" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Travelxp 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
@@ -27,7 +28,7 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="מוזיקה",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
-#EXTINF:-1 tvg-id="SQELEUE.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
+#EXTINF:-1 tvg-id="471413" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="מוזיקה",Kamin
