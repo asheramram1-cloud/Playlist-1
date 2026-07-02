@@ -17,9 +17,6 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&e
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="מוזיקה",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
 
-#EXTINF:-1 tvg-id="Qello Concerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png",Qello Concerts
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" group-title="מוזיקה",Vevo Pop
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
@@ -32,6 +29,9 @@ https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-v
 #EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="מוזיקה",Vevo 2K
 https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
 
+
+#EXTINF:-1 tvg-id="Qello Concerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
 https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 
