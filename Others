@@ -3,9 +3,6 @@ x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
 
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates9.xml"
 
-#EXTINF:-1 tvg-id="Qello Concerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png",Qello Concerts
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-
 #EXTINF:-1 tvg-id="Travelxp4K.de" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Travelxp 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 
@@ -20,6 +17,9 @@ http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&e
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="מוזיקה",XITE Hits
 https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
+
+#EXTINF:-1 tvg-id="Qello Concerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png",Qello Concerts
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" group-title="מוזיקה",Vevo Pop
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
