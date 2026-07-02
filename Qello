@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates9.xml"
 
-#EXTINF:-1 tvg-id="Qello Concerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
+#EXTINF:-1 tvg-id="QelloConcerts.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
 https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
 
 
