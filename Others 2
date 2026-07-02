@@ -1,44 +1,6 @@
-#EXTM3U
- 
-x-tvg-url="http://m3u4u.com/xml/3wk1y2p6ppf6z4rwygz7"
-
-#EXTINF:-1 tvg-id="espn.nl" tvg-name="NL| ESPN UHD 4K" tvg-logo="http://51.158.145.100/picons/logos/NETHERLANDNEW/ESPN.png" group-title="NL| NEDERLAND ULTRA 4K",NL| ESPN UHD 4K
-http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283327
-
-#EXTINF:-1 tvg-id="Travelxp4K.de" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Travelxp 4K
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
- 
-#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Discovery Science HD
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=176877&extension=ts&play_token=gjas5ImRI1
-
-#EXTINF:-1 tvg-id="InTravel.au" tvg-logo="https://cdn.uc.assets.prezly.com/1dc3d680-a66d-43f7-a8c5-78ad495dbffd/INTRAVELPortraitBlack.jpg" group-title="בינלאומי",InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="מוזיקה",MTV Live
-http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&extension=ts&play_token=1WGuLgLigF
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="מוזיקה",XITE Hits
-https://d726x48n2pd5h.cloudfront.net/XITE_Hits.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBC3600015GF_20240910T003719SQUARE.png" group-title="מוזיקה",Vevo Pop
-https://d128y56w6v2kax.cloudfront.net/playlist/amg00056-vevotv-vevopopau-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD300012YC_20240910T003724SQUARE.png" group-title="מוזיקה",Vevo 80s
-https://amg00056-vevotv-vevo80saunz-samsungau-rp5e3.amagi.tv/playlist/amg00056-vevotv-vevo80saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5fd7bb1f86d94a000796e2c2/featuredImage.jpg" group-title="מוזיקה",Vevo 90s
-https://amg00056-vevotv-vevo90saunz-samsungau-n6a0d.amagi.tv/playlist/amg00056-vevotv-vevo90saunz-samsungau/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://images.pluto.tv/channels/5fd7bca3e0a4ee0007a38e8c/featuredImage.jpg" group-title="מוזיקה",Vevo 2K
-https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
 
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png" group-title="מוזיקה",Qello Concerts
-https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png" group-title="מוזיקה",Kamin
-http://iptv.prosto.tv:7000/ch318/video.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00307.jpg" group-title="מוזיקה",Relaxon
-http://iptv.prosto.tv:7000/ch317/video.m3u8
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
 
 
