@@ -2,6 +2,7 @@
 x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
 
 #EXTINF:-1 tvg-id="QelloConcertsbyStingray.us" tvg-logo="https://getvectorlogo.com/wp-content/uploads/2018/12/stingray-iconcerts-vector-logo.png",Qello Concerts
-https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883052
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8
+
 
 
