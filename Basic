@@ -13,7 +13,7 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/in
 #EXTINF:-1 tvg-id="i24hebrew.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" group-title="ישראל",i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png" group-title="ישראל",כלכלה 10
+#EXTINF:-1 tvg-id="finance.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png" group-title="ישראל",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="nationalgeographic.il" tvg-name="NationalGeographic.il" group-title="-",National_Geographic_HD
