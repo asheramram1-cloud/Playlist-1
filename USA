@@ -1,0 +1,130 @@
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/unitedstates4.xml"
+
+#EXTINF:-1 tvg-id="'40s Junction.us" tvg-name="'40s Junction" group-title="Music",'40s Junction
+http://your-server-address/40s_junction.m3u8
+
+#EXTINF:-1 tvg-id="AAG International.us" tvg-name="AAG International" group-title="International",AAG International
+http://your-server-address/aag_international.m3u8
+
+#EXTINF:-1 tvg-id="AAJ TAK.us" tvg-name="AAJ TAK" group-title="International",AAJ TAK
+http://your-server-address/aaj_tak.m3u8
+
+#EXTINF:-1 tvg-id="AAndE Network HDTV.us" tvg-name="A&E HD" group-title="Entertainment",A&E Network HDTV
+http://your-server-address/a_and_e.m3u8
+
+#EXTINF:-1 tvg-id="Aapka Colors.us" tvg-name="Aapka Colors" group-title="International",Aapka Colors
+http://your-server-address/aapka_colors.m3u8
+
+#EXTINF:-1 tvg-id="Aastha.us" tvg-name="Aastha" group-title="International",Aastha
+http://your-server-address/aastha.m3u8
+
+#EXTINF:-1 tvg-id="Abu Dhabi TV.us" tvg-name="Abu Dhabi TV" group-title="International",Abu Dhabi TV
+http://your-server-address/abu_dhabi_tv.m3u8
+
+#EXTINF:-1 tvg-id="Al Arabiya.us" tvg-name="Al Arabiya" group-title="News",Al Arabiya
+http://your-server-address/al_arabiya.m3u8
+
+#EXTINF:-1 tvg-id="Al Hayah 1.us" tvg-name="Al Hayah 1" group-title="International",Al Hayah 1
+http://your-server-address/al_hayah_1.m3u8
+
+#EXTINF:-1 tvg-id="Al Jazeera (English  North America).us" tvg-name="Al Jazeera English" group-title="News",Al Jazeera English
+http://your-server-address/al_jazeera_eng.m3u8
+
+#EXTINF:-1 tvg-id="AMC HDTV (East).us" tvg-name="AMC East HD" group-title="Movies & Series",AMC HDTV (East)
+http://your-server-address/amc_east.m3u8
+
+#EXTINF:-1 tvg-id="Animal Planet HDTV (East).us" tvg-name="Animal Planet East HD" group-title="Documentaries",Animal Planet HDTV (East)
+http://your-server-address/animal_planet_east.m3u8
+
+#EXTINF:-1 tvg-id="BBC America HDTV (East).us" tvg-name="BBC America East HD" group-title="Entertainment",BBC America HDTV (East)
+http://your-server-address/bbc_america_east.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports HDTV (English).us" tvg-name="beIN Sports English HD" group-title="Sports",beIN Sports HDTV (English)
+http://your-server-address/bein_sports_eng.m3u8
+
+#EXTINF:-1 tvg-id="beIN Sports HDTV (Spanish).us" tvg-name="beIN Sports Spanish HD" group-title="Sports",beIN Sports HDTV (Spanish)
+http://your-server-address/bein_sports_esp.m3u8
+
+#EXTINF:-1 tvg-id="Bloomberg in HDTV.us" tvg-name="Bloomberg HD" group-title="News",Bloomberg in HDTV
+http://your-server-address/bloomberg.m3u8
+
+#EXTINF:-1 tvg-id="Bravo HDTV (East).us" tvg-name="Bravo East HD" group-title="Entertainment",Bravo HDTV (East)
+http://your-server-address/bravo_east.m3u8
+
+#EXTINF:-1 tvg-id="Cable News Network HDTV.us" tvg-name="CNN HD" group-title="News",Cable News Network HDTV
+http://your-server-address/cnn.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon Network HDTV (East).us" tvg-name="Cartoon Network East HD" group-title="Kids",Cartoon Network HDTV (East)
+http://your-server-address/cartoon_network_east.m3u8
+
+#EXTINF:-1 tvg-id="Cinemax HDTV (East).us" tvg-name="Cinemax East HD" group-title="Movies",Cinemax HDTV (East)
+http://your-server-address/cinemax_east.m3u8
+
+#EXTINF:-1 tvg-id="Comedy Central HDTV (East).us" tvg-name="Comedy Central East HD" group-title="Entertainment",Comedy Central HDTV (East)
+http://your-server-address/comedy_central_east.m3u8
+
+#EXTINF:-1 tvg-id="Discovery Family Channel HDTV.us" tvg-name="Discovery Family HD" group-title="Kids & Family",Discovery Family Channel HDTV
+http://your-server-address/discovery_family.m3u8
+
+#EXTINF:-1 tvg-id="Disney XD (East).us" tvg-name="Disney XD East" group-title="Kids",Disney XD (East)
+http://your-server-address/disney_xd_east.m3u8
+
+#EXTINF:-1 tvg-id="ESPN HDTV.us" tvg-name="ESPN HD" group-title="Sports",ESPN HDTV
+http://your-server-address/espn.m3u8
+
+#EXTINF:-1 tvg-id="Fox News Channel HDTV (East).us" tvg-name="Fox News East HD" group-title="News",Fox News Channel HDTV (East)
+http://your-server-address/fox_news_east.m3u8
+
+#EXTINF:-1 tvg-id="Fox Sports 1 HDTV.us" tvg-name="Fox Sports 1 HD" group-title="Sports",Fox Sports 1 HDTV
+http://your-server-address/fs1.m3u8
+
+#EXTINF:-1 tvg-id="FX HDTV (East).us" tvg-name="FX East HD" group-title="Movies & Series",FX HDTV (East)
+http://your-server-address/fx_east.m3u8
+
+#EXTINF:-1 tvg-id="HBO HDTV (East).us" tvg-name="HBO East HD" group-title="Movies & Series",HBO HDTV (East)
+http://your-server-address/hbo_east.m3u8
+
+#EXTINF:-1 tvg-id="History HDTV (East).us" tvg-name="History Channel East HD" group-title="Documentaries",History HDTV (East)
+http://your-server-address/history_east.m3u8
+
+#EXTINF:-1 tvg-id="MTV HDTV (East).us" tvg-name="MTV East HD" group-title="Music & Reality",MTV HDTV (East)
+http://your-server-address/mtv_east.m3u8
+
+#EXTINF:-1 tvg-id="National Geographic Channel HDTV.us" tvg-name="National Geographic HD" group-title="Documentaries",National Geographic Channel HDTV
+http://your-server-address/nat_geo.m3u8
+
+#EXTINF:-1 tvg-id="NBA TV HDTV.us" tvg-name="NBA TV HD" group-title="Sports",NBA TV HDTV
+http://your-server-address/nba_tv.m3u8
+
+#EXTINF:-1 tvg-id="Paramount+ with SHOWTIME HDTV (East).us" tvg-name="Paramount+ Showtime East HD" group-title="Movies & Series",Paramount+ with SHOWTIME HDTV (East)
+http://your-server-address/showtime_east.m3u8
+
+#EXTINF:-1 tvg-id="STARZ HD (East).us" tvg-name="STARZ East HD" group-title="Movies",STARZ HD (East)
+http://your-server-address/starz_east.m3u8
+
+#EXTINF:-1 tvg-id="Syfy HDTV.us" tvg-name="Syfy HD" group-title="Movies & Series",Syfy HDTV
+http://your-server-address/syfy.m3u8
+
+#EXTINF:-1 tvg-id="TBS Superstation HDTV (East).us" tvg-name="TBS East HD" group-title="Entertainment",TBS Superstation HDTV (East)
+http://your-server-address/tbs_east.m3u8
+
+#EXTINF:-1 tvg-id="The Discovery Channel HDTV (East).us" tvg-name="Discovery Channel East HD" group-title="Documentaries",The Discovery Channel HDTV (East)
+http://your-server-address/discovery_east.m3u8
+
+#EXTINF:-1 tvg-id="The Disney Channel (East).us" tvg-name="Disney Channel East" group-title="Kids",The Disney Channel (East)
+http://your-server-address/disney_channel_east.m3u8
+
+#EXTINF:-1 tvg-id="The NFL Network HDTV.us" tvg-name="NFL Network HD" group-title="Sports",The NFL Network HDTV
+http://your-server-address/nfl_network.m3u8
+
+#EXTINF:-1 tvg-id="The Weather Channel HDTV.us" tvg-name="The Weather Channel HD" group-title="News & Weather",The Weather Channel HDTV
+http://your-server-address/weather_channel.m3u8
+
+#EXTINF:-1 tvg-id="Turner Classic Movies HDTV.us" tvg-name="TCM HD" group-title="Movies",Turner Classic Movies HDTV
+http://your-server-address/tcm.m3u8
+
+#EXTINF:-1 tvg-id="Turner Network Television HDTV (East).us" tvg-name="TNT East HD" group-title="Movies & Sports",Turner Network Television HDTV (East)
+http://your-server-address/tnt_east.m3u8
+
+#EXTINF:-1 tvg-id="USA Network HDTV (East).us" tvg-name="USA Network East HD" group-title="Entertainment",USA Network HDTV (East)
+http://your-server-address/usa_east.m3u8
