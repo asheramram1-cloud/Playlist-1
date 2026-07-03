@@ -1,15 +1,4 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
-#=================================
-# 🖥 Developed by: Abu SAEEID X Noob
-# 🔗 GitHub/Telegram: @abusaeeidx
-# 📡 IPTV Telegram Channels: @xfireflixbd
-# 🕒 Last Updated: 2026-06-19 08:40 AM (BD Time)
-# 📜 Disclaimer:
-# 🎯 This tool does NOT host any content.
-# 📌 It aggregates publicly available data for informational purposes only.
-# 📩 For any issues or concerns, please contact the developer.
-#==================================
-
 
 #EXTINF:-1 tvg-id="Pluto TV Trending Now" tvg-chno="5" tvg-name="Pluto TV Trending Now" tvg-logo="https://images.pluto.tv/channels/673247127d5da5000817b4d6/colorLogoPNG_1732662634386.png" group-title="Movies",Pluto TV Trending Now
 https://jmp2.uk/plu-673247127d5da5000817b4d6.m3u8
