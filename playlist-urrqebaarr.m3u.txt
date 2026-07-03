@@ -1,4 +1,5 @@
 #EXTM3U
+x-tvg-url="https://iptv-epg.org/files/epg-us.xml"
 #EXTINF:-1 tvg-id="2057" tvg-name="" tvg-logo="[img]http://epg.one/img/2057.png[/img]" group-title="США | USA",Food Network HD US
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/1107/index.m3u8
 #EXTINF:-1 tvg-id="88028" tvg-name="" tvg-logo="[img]http://epg.one/img/88028.png[/img]" group-title="США | USA",Cinemax Hits HD US
