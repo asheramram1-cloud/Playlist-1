@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/fVjzmBVvNc.xml"
 
-#EXTINF:-1 tvg-id="Discovery Science" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Discovery Science HD
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Discovery Science HD
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 
 #EXTINF:-1 tvg-id="Travelxp4K.de" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Travelxp 4K
