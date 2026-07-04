@@ -1,11 +1,6 @@
 #EXTM3U
 x-tvg-url="https://www.open-epg.com/files/israel.xml"
 
-Access-Control-Allow-Origin: *
-Access-Control-Allow-Methods: "GET, POST, OPTIONS, HEAD"
-Access-Control-Allow-Headers: "Range"
-Access-Control-Expose-Headers: "Accept-Ranges, Content-Encoding, Content-Length, Content-Range"
-
 #EXTINF:-1 tvg-id="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="ישראל",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
