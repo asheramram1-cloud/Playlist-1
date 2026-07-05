@@ -1,1 +1,4 @@
-https://iptv-epg.org/files/epg-gb.xml
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-gb.xml"
+
+#EXTINF:-1 tvg-id="DiscoveryScience.uk" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" group-title="בינלאומי",Discovery Science HD
+http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
