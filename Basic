@@ -55,8 +55,8 @@ http://77.137.40.221:8000/play/k01b
 #EXTINF:-1 tvg-id="sport6.il" tvg-name="sport6.il", SPORT6 
 http://77.137.40.221:8000/play/k03w
 
-#EXTINF:-1 tvg-id="one.il" tvg-name="one.il", ONE 1
+#EXTINF:-1 tvg-id="one.il" tvg-name="one.il", ONE-il 
 http://77.137.40.221:8000/play/k01d
 
-#EXTINF:-1 tvg-id="one2.il" tvg-name="one2.il", ONE 2 
+#EXTINF:-1 tvg-id="one2.il" tvg-name="one2.il", ONE2 
 http://77.137.40.221:8000/play/k01f
