@@ -34,16 +34,16 @@ http://77.137.40.221:8000/play/t00m
 #EXTINF:-1 tvg-id="sport5.il" tvg-name="sport5.il", 5SPORT 
 http://77.137.40.221:8000/play/k01c
 
-#EXTINF:-1 tvg-id="sport5live.il" tvg-name="sport5live.il", 5SPORTLIVE 
+#EXTINF:-1 tvg-id="sport5live.il" tvg-name="sport5live.il", 5LIVE 
 http://77.137.40.221:8000/play/k00i
 
-#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il", 5SPORTPLUS 
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il", 5PLUS 
 http://77.137.40.221:8000/play/k001
 
-#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il", SPORT1 
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il", SPORT1il 
 http://77.137.40.221:8000/play/k016
 
-#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", SPORT2 
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", SPORT2-il
 http://77.137.40.221:8000/play/k019
 
 #EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", SPORT3 
