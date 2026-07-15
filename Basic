@@ -37,22 +37,22 @@ http://77.137.40.221:8000/play/k01c
 #EXTINF:-1 tvg-id="sport5live.il" tvg-name="sport5live.il", 5LIVE 
 http://77.137.40.221:8000/play/k00i
 
-#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il", 5 PLUS 
+#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il", 5sportPLUS 
 http://77.137.40.221:8000/play/k001
 
-#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il", Sport 1 Israel
+#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il", ספורט 1
 http://77.137.40.221:8000/play/k016
 
-#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", Sport 2
+#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", ספורט 2
 http://77.137.40.221:8000/play/k019
 
-#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", Sport 3 
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", ספורט 3
 http://77.137.40.221:8000/play/k01a
 
-#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il", Sport 4
+#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il", ספורט 4
 http://77.137.40.221:8000/play/k01b
 
-#EXTINF:-1 tvg-id="sport6.il" tvg-name="sport6.il", Sport 6 
+#EXTINF:-1 tvg-id="sport6.il" tvg-name="sport6.il", ספורט 6
 http://77.137.40.221:8000/play/k03w
 
 #EXTINF:-1 tvg-id="one.il" tvg-name="one.il", ONE-il 
