@@ -46,7 +46,7 @@ http://77.137.40.221:8000/play/k016
 #EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", SPORT2-il
 http://77.137.40.221:8000/play/k019
 
-#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", SPORT3 
+#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", SPORT 3 
 http://77.137.40.221:8000/play/k01a
 
 #EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il", SPORT4
