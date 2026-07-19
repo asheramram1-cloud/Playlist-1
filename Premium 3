@@ -1,40 +1,10 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml"
-#EXTINF:-1 tvg-id="dramaturkey3.il" tvg-name="Turkish Dramas 3 HD IL" group-title="IL",Turkish Dramas 3 HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/14220/index.m3u8
-#EXTINF:-1 tvg-id="dramaturkey2.il" tvg-name="Turkish Dramas 2 HD IL" group-title="IL",Turkish Dramas 2 HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31916/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Женский Журнал" group-title="IL",Женский Журнал
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31932/index.m3u8
-#EXTINF:-1 tvg-id="vivavintage.il" tvg-name="Viva Vintage HD IL" group-title="IL",Viva Vintage HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31937/index.m3u8
-#EXTINF:-1 tvg-id="hotisraelentertainment.il" tvg-name="HOT Bidur FHD IL" group-title="IL",HOT Bidur FHD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31938/index.m3u8
-#EXTINF:-1 tvg-id="hotluli.il" tvg-name="Luli SD IL" group-title="IL",Luli SD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31939/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HOT Senior HD IL" group-title="IL",HOT Senior HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31932/index.m3u8
-#EXTINF:-1 tvg-id="vivavintage.il" tvg-name="Viva Vintage HD IL" group-title="IL",Viva Vintage HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31937/index.m3u8
-#EXTINF:-1 tvg-id="hotisraelentertainment.il" tvg-name="HOT Bidur FHD IL" group-title="IL",HOT Bidur FHD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31938/index.m3u8
-#EXTINF:-1 tvg-id="hotluli.il" tvg-name="Luli SD IL" group-title="IL",Luli SD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31939/index.m3u8
+#EXTINF:-1 tvg-id="channel11.il" tvg-name="Kan 11 HD IL" group-title="IL",Kan 11 HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
 #EXTINF:-1 tvg-id="channel12.il" tvg-name="Keshet 12 HD IL" group-title="IL",Keshet 12 HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2329/index.m3u8
 #EXTINF:-1 tvg-id="channel13.il" tvg-name="Reshet 13 HD IL" group-title="IL",Reshet 13 HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2330/index.m3u8
-#EXTINF:-1 tvg-id="channel9.il" tvg-name="Channel 9 FHD IL" group-title="IL",Channel 9 FHD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2331/index.m3u8
-#EXTINF:-1 tvg-id="channel11.il" tvg-name="Kan 11 HD IL" group-title="IL",Kan 11 HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. IL" group-title="IL",Nick Jr. IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2337/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Hop! IL" group-title="IL",Hop! IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2338/index.m3u8
-#EXTINF:-1 tvg-id="homeplus.il" tvg-name="Home Plus IL" group-title="IL",Home Plus IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2339/index.m3u8
-#EXTINF:-1 tvg-id="one.il" tvg-name="One HD IL" group-title="IL",One HD IL
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2340/index.m3u8
 #EXTINF:-1 tvg-id="sport5hd.il" tvg-name="5Sport FHD IL" group-title="IL",5Sport FHD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2341/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Yes Israeli IL" group-title="IL",Yes Israeli IL
@@ -69,6 +39,8 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2359/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2360/index.m3u8
 #EXTINF:-1 tvg-id="sport5live.il" tvg-name="5Sport Live FHD IL" group-title="IL",5Sport Live FHD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2362/index.m3u8
+#EXTINF:-1 tvg-id="one.il" tvg-name="One HD IL" group-title="IL",One HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2340/index.m3u8
 #EXTINF:-1 tvg-id="dramaturkeyplus.il" tvg-name="Turkish Dramas Plus IL" group-title="IL",Turkish Dramas Plus IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2363/index.m3u8
 #EXTINF:-1 tvg-id="hotluli.il" tvg-name="Luli IL" group-title="IL",Luli IL
@@ -85,6 +57,8 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2369/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2370/index.m3u8
 #EXTINF:-1 tvg-id="hotcinema3.il" tvg-name="HOT Cinema 3 FHD IL" group-title="IL",HOT Cinema 3 FHD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2372/index.m3u8
+#EXTINF:-1 tvg-id="one.il" tvg-name="One HD IL" group-title="IL",One HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2340/index.m3u8
 #EXTINF:-1 tvg-id="one2.il" tvg-name="One 2 IL" group-title="IL",One 2 IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2373/index.m3u8
 #EXTINF:-1 tvg-id="channel9.il" tvg-name="Channel 9 HD IL" group-title="IL",Channel 9 HD IL
@@ -295,3 +269,31 @@ http://leon55.xyz:80/1472870781733517/7F0A390BF521/63946
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/63952
 #EXTINF:-1 tvg-id="" tvg-name="Sport 6 HD" group-title="IL",Sport 6 HD
 http://s08.wsbof.com:8090/s/dc2d537d/sport6-il-hd/video.m3u8
+#EXTINF:-1 tvg-id="dramaturkey3.il" tvg-name="Turkish Dramas 3 HD IL" group-title="IL",Turkish Dramas 3 HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/14220/index.m3u8
+#EXTINF:-1 tvg-id="dramaturkey2.il" tvg-name="Turkish Dramas 2 HD IL" group-title="IL",Turkish Dramas 2 HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31916/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Женский Журнал" group-title="IL",Женский Журнал
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31932/index.m3u8
+#EXTINF:-1 tvg-id="vivavintage.il" tvg-name="Viva Vintage HD IL" group-title="IL",Viva Vintage HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31937/index.m3u8
+#EXTINF:-1 tvg-id="hotisraelentertainment.il" tvg-name="HOT Bidur FHD IL" group-title="IL",HOT Bidur FHD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31938/index.m3u8
+#EXTINF:-1 tvg-id="hotluli.il" tvg-name="Luli SD IL" group-title="IL",Luli SD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31939/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="HOT Senior HD IL" group-title="IL",HOT Senior HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31932/index.m3u8
+#EXTINF:-1 tvg-id="vivavintage.il" tvg-name="Viva Vintage HD IL" group-title="IL",Viva Vintage HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31937/index.m3u8
+#EXTINF:-1 tvg-id="hotisraelentertainment.il" tvg-name="HOT Bidur FHD IL" group-title="IL",HOT Bidur FHD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31938/index.m3u8
+#EXTINF:-1 tvg-id="hotluli.il" tvg-name="Luli SD IL" group-title="IL",Luli SD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/31939/index.m3u8
+#EXTINF:-1 tvg-id="channel9.il" tvg-name="Channel 9 FHD IL" group-title="IL",Channel 9 FHD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2331/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr. IL" group-title="IL",Nick Jr. IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2337/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Hop! IL" group-title="IL",Hop! IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2338/index.m3u8
+#EXTINF:-1 tvg-id="homeplus.il" tvg-name="Home Plus IL" group-title="IL",Home Plus IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2339/index.m3u8
