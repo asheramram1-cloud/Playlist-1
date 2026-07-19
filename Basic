@@ -2,16 +2,16 @@
 x-tvg-url="https://www.open-epg.com/files/israel.xml"
  
 #EXTINF:-1 tvg-id="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png", Kan11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
 
 #EXTINF:-1 tvg-id="channel12.il" tvg-logo="http://picons.cmshulk.com/picons/59336.png", Keshet12
-http://77.137.40.221:8000/play/t017
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2329/index.m3u8
 
 #EXTINF:-1 tvg-id="channel13.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg", Reshet13
-https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2330/index.m3u8
 
 #EXTINF:-1 tvg-id="i24hebrew.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg", i24News
-https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2386/index.m3u8
 
 #EXTINF:-1 tvg-id="finance.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png",כלכלה10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
