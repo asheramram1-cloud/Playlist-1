@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml, https://iptv-epg.org/files/epg-il.xml"
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml, https://iptv-epg.org/files/epg-il.xml" 
 #EXTINF:-1 tvg-id="channel11.il" tvg-name="" tvg-logo="" group-title="IL",Kan 11 HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
 #EXTINF:-1 tvg-id="channel12.il" tvg-name="" tvg-logo="" group-title="IL",Keshet 12 HD IL
