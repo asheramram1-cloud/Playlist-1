@@ -889,7 +889,7 @@ http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1789843&exte
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1789844&extension=ts&play_token=tuE0KILyu3
 #EXTINF:-1 tvg-id="yesmoviescomedy.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?89028" tvg-name="YES MOVIES COMEDY ᴴᴰ ◉" group-title="HOT & YES",YES MOVIES COMEDY ᴴᴰ ◉
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1789889&extension=ts&play_token=MnmM11JCLk
-#EXTINF:-1 tvg-id="yesmoviesdrama.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?89028" tvg-name="YES MOVIES DRAMA ᴴᴰ ◉" group-title="HOT & YES",YES MOVIES DRAMA ᴴᴰ ◉
+#EXTINF:-1 tvg-id="yesMOVIESDRAMA.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?89028" tvg-name="YES MOVIES DRAMA ᴴᴰ ◉" group-title="HOT & YES",YES MOVIES DRAMA ᴴᴰ ◉
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1789891&extension=ts&play_token=RLNMz7wFRI
 #EXTINF:-1 tvg-id="yesmovieskids.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14744.png?89028" tvg-name="YES MOVIES KIDS ᴴᴰ ◉" group-title="HOT & YES",YES MOVIES KIDS ᴴᴰ ◉
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=1789888&extension=ts&play_token=gUdq67QhUM
