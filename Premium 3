@@ -43,13 +43,13 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12223/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12265/index.m3u8
 #EXTINF:-1 tvg-id="homeplus.il" tvg-name="" tvg-logo="" group-title="IL",Home Plus IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2339/index.m3u8
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3 FHD IL
+#EXTINF:-1 tvg-id="hot3 .il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3 FHD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2367/index.m3u8
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3 HD IL
+#EXTINF:-1 tvg-id="hot 3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3 HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12214/index.m3u8
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",IL - HOT3 HD
+#EXTINF:-1 tvg-id="HOT3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",IL - HOT3 HD
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/63987
-#EXTINF:-1 tvg-id="hot3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",IL - HOT MOVIES 3 HD
+#EXTINF:-1 tvg-id="HOT 3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",IL - HOT MOVIES 3 HD
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/63992
 #EXTINF:-1 tvg-id="hot8.il" tvg-name="IL - HOT 8" tvg-logo="https://iptv-epg.org/images/nLZJOGkQWlXQxxLLvUFzu-bBU2kfz4UBrKeEvVrsLw6cmjjgr6gP44Z2RBNyEPkqJJ1GsSMEsD0om2SFjsOLArzDGgYDHyE9jeOUhbU" group-title="IL",HOT 8 IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12216/index.m3u8
@@ -67,7 +67,7 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12220/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2356/index.m3u8
 #EXTINF:-1 tvg-id="hotcinema4.il" tvg-name="IL - HOT Cinema 4" tvg-logo="https://iptv-epg.org/images/baLUrrp2t9fYsol2Kqp3ArLW3ibg8aY5HG50f9YNHxFIOu7V5EEBFn7fqSAw1q1puTyH48hTvLSb8Y-yvFMv842BAn-Za3GiP2ppiRZvraTtSIw" group-title="IL",IL - HOT CINEMA 4 HD
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/63993
-#EXTINF:-1 tvg-id="hotcomedycentral.il" tvg-name="IL - HOT Comedy Central" tvg-logo="https://iptv-epg.org/images/5CgBkXqn5adSsbVa21QM1wN7A9Rs1sXcGlraGUFl0Wnxd93rGWHl4Ux8uniF788pFuG26enBAQhgjw9eqnRfQXF9Xse39QD7k5IbakWIXnc9IPS583KayIM" group-title="IL",HOT Comedy HD IL
+#EXTINF:-1 tvg-id="hotcomedycentral.il" tvg-logo="https://iptv-epg.org/images/5CgBkXqn5adSsbVa21QM1wN7A9Rs1sXcGlraGUFl0Wnxd93rGWHl4Ux8uniF788pFuG26enBAQhgjw9eqnRfQXF9Xse39QD7k5IbakWIXnc9IPS583KayIM" group-title="IL",HOT Comedy HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12217/index.m3u8
 #EXTINF:-1 tvg-id="hot3.il.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT Bidur HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12219/index.m3u8
