@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml"
 #EXTINF:-1 tvg-logo="https://iptv-epg.org/images/oifhoMGddxpGAzNHtyOX3PpLHvP_fkolnntWDoNQ1FCXs3-VxdzvQSvhqfGbkGGaB88IWvtKLivWTUoYiq9tP45p-ew0J4Ycg9fN7STqNa4a" tvg-name="IL - 5SPORT 4K" group-title="IL",IL - 5SPORT 4K
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2362/index.m3u8
 #EXTINF:-1 tvg-name="IL - SPORT 5  LIVE HD" group-title="IL",IL - SPORT 5  LIVE HD
