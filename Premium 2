@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il.xml.gz"
 #EXTINF:-1 tvg-id="11כאן.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13318.jpg?64344" tvg-name="11 ᴴᴰ" group-title="CELLCOM",11 ᴴᴰ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=832349&extension=ts&play_token=S8KlGZuZQZ
-#EXTINF:-1 tvg-id="channel13.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9746.png?33427" tvg-name="13 ᴴᴰ" group-title="CELLCOM",13 ᴴᴰ
+#EXTINF:-1 tvg-id="channel12.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/9746.png?33427" tvg-name="13 ᴴᴰ" group-title="CELLCOM",12 ᴴᴰ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=832348&extension=ts&play_token=5iNnQD9yWY
 #EXTINF:-1 tvg-id="channel13.il" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13315.jpg?8440" tvg-name="13 ᴴᴰ" group-title="CELLCOM",13 ᴴᴰ
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:83:E6:2C&stream=832347&extension=ts&play_token=QVNtOSTWut
