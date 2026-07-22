@@ -151,7 +151,7 @@ http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828776&ext
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828791&extension=ts&play_token=CtyJy5H5E4
 #EXTINF:-1 tvg-id="yoyo.il" tvg-logo="http://picons.cmshulk.com/picons/1828777.png" tvg-name="FREE YOYO" group-title="FREE TV BOXES",FREE YOYO
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828777&extension=ts&play_token=ivVVWUnDXH
-#EXTINF:-1 tvg-id="hot3.il" tvg-logo="http://picons.cmshulk.com/picons/1828923.png" tvg-name="HOT 3" group-title="HOT BOXES",HOT 3
+#EXTINF:-1 tvg-id="HOT3.il" tvg-logo="http://picons.cmshulk.com/picons/1828923.png" tvg-name="HOT 3" group-title="HOT BOXES",HOT 3
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828923&extension=ts&play_token=2yzzDXz8Vl
 #EXTINF:-1 tvg-id="hot8.il" tvg-logo="http://picons.cmshulk.com/picons/1828925.png" tvg-name="HOT 8" group-title="HOT BOXES",HOT 8
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1828925&extension=ts&play_token=bxsyvz4s1a
@@ -239,7 +239,7 @@ http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1163261&ext
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1035279&extension=ts&play_token=gUM3ISmk7W
 #EXTINF:-1 tvg-id="hidabrot.il" tvg-logo="http://103.176.90.118/picons/logos/EUROPE/HIDABROUT.png" tvg-name="HIDABROOT" group-title="ISRAEL HD",HIDABROOT
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1035277&extension=ts&play_token=COjVaZvEdY
-#EXTINF:-1 tvg-id="hot3.il" tvg-logo="http://picons.cmshulk.com/picons/1035276.png" tvg-name="HOT 3 FHD" group-title="ISRAEL HD",HOT 3 FHD
+#EXTINF:-1 tvg-id="HOT3.il" tvg-logo="http://picons.cmshulk.com/picons/1035276.png" tvg-name="HOT 3 FHD" group-title="ISRAEL HD",HOT 3 FHD
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1035276&extension=ts&play_token=OgIbguuXAI
 #EXTINF:-1 tvg-id="yesbollywood.il" tvg-logo="http://picons.cmshulk.com/picons/1035273.png" tvg-name="HOT BOLYWOOD FHD" group-title="ISRAEL HD",HOT BOLYWOOD FHD
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=1035273&extension=ts&play_token=4JKiIRT3wr
@@ -473,7 +473,7 @@ http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=59325&exten
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=37714&extension=ts&play_token=xLEfhaCvkX
 #EXTINF:-1 tvg-id="childhood.il" tvg-logo="http://picons.cmshulk.com/picons/59324.png" tvg-name="HOP HD" group-title="ISRAEL VIP",HOP HD
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=59324&extension=ts&play_token=ikyZhGg5XO
-#EXTINF:-1 tvg-id="hot3.il" tvg-logo="http://picons.cmshulk.com/picons/37683.png" tvg-name="HOT 3 HD" group-title="ISRAEL VIP",HOT 3 HD
+#EXTINF:-1 tvg-id="HOT3.il" tvg-logo="http://picons.cmshulk.com/picons/37683.png" tvg-name="HOT 3 HD" group-title="ISRAEL VIP",HOT 3 HD
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=37683&extension=ts&play_token=8DQSegLklI
 #EXTINF:-1 tvg-id="yesbollywood.il" tvg-logo="http://103.176.90.118/picons/logos/ASIA/HOT-BOLLYWOOD.png" tvg-name="HOT BOLLYWOOD HD" group-title="ISRAEL VIP",HOT BOLLYWOOD HD
 http://line.vueott.com:80/play/live.php?mac=00:1A:79:80:59:2E&stream=79241&extension=ts&play_token=PdwHHZbydU
