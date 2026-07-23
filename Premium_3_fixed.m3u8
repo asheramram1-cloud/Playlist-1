@@ -17,12 +17,12 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12247/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12265/index.m3u8
 #EXTINF:-1 tvg-id="yesדוקו.il" tvg-name="IL - yes קולנוע ישראלי" tvg-logo="https://iptv-epg.org/images/u93VHN7bJsJ1TdBEUwJMns0YTSvf1oszyjkCtn9R4_cvzDnNltEIy__SL5dRbDBTgol8YTakq_Lgz1m2mkAybXYAqoNc6N6rsVI3n50G5ay9PRLyobWV7NKRwampZfpQMjtnYVihv7x3rnHgnvcSMnhXiRAO0VZvMsmemjonveN3nzbIj2uRZlmZKL1yVY9YoveRyw" group-title="IL",Yes דוקו
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12258/index.m3u8
-#EXTINF:-1 tvg-id="HOT3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2367/index.m3u8
 #EXTINF:-1 tvg-id="HOT8.il" tvg-name="IL - HOT 8" tvg-logo="https://iptv-epg.org/images/nLZJOGkQWlXQxxLLvUFzu-bBU2kfz4UBrKeEvVrsLw6cmjjgr6gP44Z2RBNyEPkqJJ1GsSMEsD0om2SFjsOLArzDGgYDHyE9jeOUhbU" group-title="IL",HOT 8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12216/index.m3u8
 #EXTINF:-1 tvg-id="HOTComedyCentral.il" tvg-logo="https://iptv-epg.org/images/5CgBkXqn5adSsbVa21QM1wN7A9Rs1sXcGlraGUFl0Wnxd93rGWHl4Ux8uniF788pFuG26enBAQhgjw9eqnRfQXF9Xse39QD7k5IbakWIXnc9IPS583KayIM" group-title="IL",HOT Comedy
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12217/index.m3u8
+#EXTINF:-1 tvg-id="HOT3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2367/index.m3u8
 #EXTINF:-1 tvg-id="HOTHBO.il" tvg-name="IL - HOT HBO" tvg-logo="https://iptv-epg.org/images/blIlLNuEcvex7yutTAtTQm8pfcKbekscXtoECgruo4HZfESWKOO6NkxcdJWTUoVbRJ0wz7bDqmL67AlFESzrk7sssPfdnYtwdjtw-M3BGg" group-title="IL",HOT HBO
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2354/index.m3u8
 #EXTINF:-1 tvg-id="HOTZone.il" tvg-name="IL - HOT Zone" tvg-logo="https://iptv-epg.org/images/DvHEtgTYYxj5f2UE1v-6e1E9AY4jaiZQZksm-hhl_pxHqGoHfszPpqv_TzZKEacHk6PmhHpCXHtHv1GDG98YZOf6udeCRCxpv2JOJIe6X2o" group-title="IL",HOT Zone
@@ -77,8 +77,6 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12243/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2339/index.m3u8
 #EXTINF:-1 tvg-id="החייםהטובים.il" tvg-name="" tvg-logo="" group-title="IL",Good Life
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2355/index.m3u8
-#EXTINF:-1 tvg-id="יםתיכוני.il" tvg-name="" tvg-logo="" group-title="IL",Yam Tichoni
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12211/index.m3u8
 #EXTINF:-1 tvg-id="ערוץ14.il" tvg-name="IL - ערוץ 14" tvg-logo="" group-title="IL",CHANNEL 14
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/64000
 #EXTINF:-1 tvg-id="ערוץ23חינוכית.il" tvg-name="" tvg-logo="" group-title="IL",Kan Educational
