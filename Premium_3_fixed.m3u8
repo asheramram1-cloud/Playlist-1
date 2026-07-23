@@ -1,21 +1,21 @@
-#EXTM3U x-tvg-url="https://www.open-epg.com/files/israel.xml"
-#EXTINF:-1 tvg-id="כאן11.il" tvg-name="" tvg-logo="" group-title="IL",Kan 11 HD IL
+#EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il.xml.gz"
+#EXTINF:-1 tvg-id="כאן11.il" tvg-name="" tvg-logo="" group-title="IL", כאן 11
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
-#EXTINF:-1 tvg-id="קשת.il" tvg-name="" tvg-logo="" group-title="IL",Keshet 12 FHD IL
+#EXTINF:-1 tvg-id="קשת.il" tvg-name="" tvg-logo="" group-title="IL", קשת 12
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2349/index.m3u8
-#EXTINF:-1 tvg-id="רשת.il" tvg-name="" tvg-logo="" group-title="IL",Reshet 13 HD IL
+#EXTINF:-1 tvg-id="רשת.il" tvg-name="" tvg-logo="" group-title="IL", רשת 13
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2330/index.m3u8
-#EXTINF:-1 tvg-id="i24hebrew.il" tvg-name="" tvg-logo="" group-title="IL",i24 News IL
+#EXTINF:-1 tvg-id="i24hebrew.il" tvg-name="" tvg-logo="" group-title="IL",i24News
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2386/index.m3u8
-#EXTINF:-1 tvg-id="DiscoveryScience.il" tvg-name="IL - Discovery Science" tvg-logo="https://iptv-epg.org/images/o0b5yM8UJihgcarqExBLBAZ41ypfoFI7M4qIGLwIXrGMJncaxQfBAZYfidPgh6LTWNNdvYdmfTeHkNXVqtKgu5lgQhHvthxqtoSUFGIvCYW2sJuSc26RmLs" group-title="IL",Discovery Channel FHD IL
+#EXTINF:-1 tvg-id="DiscoveryScience.il" tvg-name="IL - Discovery Science" tvg-logo="https://iptv-epg.org/images/o0b5yM8UJihgcarqExBLBAZ41ypfoFI7M4qIGLwIXrGMJncaxQfBAZYfidPgh6LTWNNdvYdmfTeHkNXVqtKgu5lgQhHvthxqtoSUFGIvCYW2sJuSc26RmLs" group-title="IL",Discovery Channel 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2358/index.m3u8
-#EXTINF:-1 tvg-id="NGWILD.il" tvg-name="IL - National Geographic" tvg-logo="https://iptv-epg.org/images/nO9yKVTU7cIqfz6uw5iM2vIMoF1IBTBawY5R_i0Bw-bQt2LcWMq88wRFAWuRtFtGp_nUAdvCxR5yQqXUAzIxlB33S5NO36ILKxlx2cfjLbl2bl0ipG7aq-pqww" group-title="IL",National Geographic Wild FHD IL
+#EXTINF:-1 tvg-id="NGWILD.il" tvg-name="IL - National Geographic" tvg-logo="https://iptv-epg.org/images/nO9yKVTU7cIqfz6uw5iM2vIMoF1IBTBawY5R_i0Bw-bQt2LcWMq88wRFAWuRtFtGp_nUAdvCxR5yQqXUAzIxlB33S5NO36ILKxlx2cfjLbl2bl0ipG7aq-pqww" group-title="IL",National Geographic Wild 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12248/index.m3u8
-#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="IL - National Geographic" tvg-logo="https://iptv-epg.org/images/nO9yKVTU7cIqfz6uw5iM2vIMoF1IBTBawY5R_i0Bw-bQt2LcWMq88wRFAWuRtFtGp_nUAdvCxR5yQqXUAzIxlB33S5NO36ILKxlx2cfjLbl2bl0ipG7aq-pqww" group-title="IL",National Geographic HD IL
+#EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="IL - National Geographic" tvg-logo="https://iptv-epg.org/images/nO9yKVTU7cIqfz6uw5iM2vIMoF1IBTBawY5R_i0Bw-bQt2LcWMq88wRFAWuRtFtGp_nUAdvCxR5yQqXUAzIxlB33S5NO36ILKxlx2cfjLbl2bl0ipG7aq-pqww" group-title="IL",National Geographic 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12247/index.m3u8
-#EXTINF:-1 tvg-id="היסטוריהHD.il" tvg-name="" tvg-logo="" group-title="IL",History FHD IL
+#EXTINF:-1 tvg-id="היסטוריהHD.il" tvg-name="" tvg-logo="" group-title="IL",History 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12265/index.m3u8
-#EXTINF:-1 tvg-id="yesדוקו.il" tvg-name="IL - yes קולנוע ישראלי" tvg-logo="https://iptv-epg.org/images/u93VHN7bJsJ1TdBEUwJMns0YTSvf1oszyjkCtn9R4_cvzDnNltEIy__SL5dRbDBTgol8YTakq_Lgz1m2mkAybXYAqoNc6N6rsVI3n50G5ay9PRLyobWV7NKRwampZfpQMjtnYVihv7x3rnHgnvcSMnhXiRAO0VZvMsmemjonveN3nzbIj2uRZlmZKL1yVY9YoveRyw" group-title="IL",Yes Docu HD IL
+#EXTINF:-1 tvg-id="yesדוקו.il" tvg-name="IL - yes קולנוע ישראלי" tvg-logo="https://iptv-epg.org/images/u93VHN7bJsJ1TdBEUwJMns0YTSvf1oszyjkCtn9R4_cvzDnNltEIy__SL5dRbDBTgol8YTakq_Lgz1m2mkAybXYAqoNc6N6rsVI3n50G5ay9PRLyobWV7NKRwampZfpQMjtnYVihv7x3rnHgnvcSMnhXiRAO0VZvMsmemjonveN3nzbIj2uRZlmZKL1yVY9YoveRyw" group-title="IL",Yes Docu
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12258/index.m3u8
 #EXTINF:-1 tvg-id="ONE.il" tvg-name="IL - ONE" tvg-logo="https://iptv-epg.org/images/7LDwJO4U04mlGFhTiF1Yt1EkYO0ZujNzhT_RXoCrkMK8EeET-QjNVUT-WXbMzhhA2nTFCh5uLQ7HoQF0Kkftohnv8qQqjum1c0udww" group-title="IL",One HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2340/index.m3u8
@@ -71,9 +71,9 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12254/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12255/index.m3u8
 #EXTINF:-1 tvg-id="5STARS.il" tvg-name="IL - 5SPORT 4K" tvg-logo="https://iptv-epg.org/images/oifhoMGddxpGAzNHtyOX3PpLHvP_fkolnntWDoNQ1FCXs3-VxdzvQSvhqfGbkGGaB88IWvtKLivWTUoYiq9tP45p-ew0J4Ycg9fN7STqNa4a" group-title="IL",5Sport Stars FHD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12278/index.m3u8
-#EXTINF:-1 tvg-id="EUROSPORT.il" tvg-name="IL - EUROSPORT" tvg-logo="https://iptv-epg.org/images/3f9hYpG30wVxNQ3OTPUt2LzlJaiwoZ5kM81Dm6SIkWndIsnVDT856DEkbFcCzd8HIQCZgm7j_pWTwbgF3je8XvH9zDkLGEaBV3rOVpRxlmy2oQ" group-title="IL",IL - EUROSPORT
+#EXTINF:-1 tvg-id="EUROSPORT.il" tvg-name="IL - EUROSPORT" tvg-logo="https://iptv-epg.org/images/3f9hYpG30wVxNQ3OTPUt2LzlJaiwoZ5kM81Dm6SIkWndIsnVDT856DEkbFcCzd8HIQCZgm7j_pWTwbgF3je8XvH9zDkLGEaBV3rOVpRxlmy2oQ" group-title="IL",IL - EUROSPORT 1
 http://leon55.xyz:80/1472870781733517/7F0A390BF521/329420
-#EXTINF:-1 tvg-id="EUROSPORT2.il" tvg-name="IL - EUROSPORT 2" tvg-logo="https://iptv-epg.org/images/eXlhT1dJmDQjgPMrR30V6BHOzmpfcQfJ9wWM3jQwVSkMuF3e8g1By5_ZoNbGUR1ioj5OfxrvVjEje-EPayGAaXvDTb0erRB5bj8vITcqhhGIpRs" group-title="IL",Eurosport 2 orig
+#EXTINF:-1 tvg-id="EUROSPORT2.il" tvg-name="IL - EUROSPORT 2" tvg-logo="https://iptv-epg.org/images/eXlhT1dJmDQjgPMrR30V6BHOzmpfcQfJ9wWM3jQwVSkMuF3e8g1By5_ZoNbGUR1ioj5OfxrvVjEje-EPayGAaXvDTb0erRB5bj8vITcqhhGIpRs" group-title="IL",Eurosport 2
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/7203/index.m3u8
 #EXTINF:-1 tvg-id="E!.il" tvg-name="IL - E!" tvg-logo="https://iptv-epg.org/images/P1z14DQa5NlWsl2T96dE0vYHM6tgclDmFgnFYn76E0uQQGr6Mt5qryFGSY_Yixu48MFhHr_Z-yQpnQ4Tg8exzsSyWiEKTdCD0mU4MUA" group-title="IL",E! HD IL
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12243/index.m3u8
