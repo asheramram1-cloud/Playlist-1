@@ -37,6 +37,12 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12215/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2372/index.m3u8
 #EXTINF:-1 tvg-id="HOTCinema4.il" tvg-name="IL - HOT Cinema 4" tvg-logo="https://iptv-epg.org/images/baLUrrp2t9fYsol2Kqp3ArLW3ibg8aY5HG50f9YNHxFIOu7V5EEBFn7fqSAw1q1puTyH48hTvLSb8Y-yvFMv842BAn-Za3GiP2ppiRZvraTtSIw" group-title="IL",HOT Cinema 4
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2356/index.m3u8
+#EXTINF:-1 tvg-id="yestvaction.il" tvg-name="IL - yes MOVIES ACTION" tvg-logo="https://iptv-epg.org/images/i00xp1xMX8MhsOp9BFoTLtxD_80oYjYJjOyHimIoHVRfppYdPx17qk_G0p5-Yiq_vy-lG4gCF4unfMZXJgmyW6wIs4y2eLS1EjGBEutbreawQJc0DUINDQ" group-title="IL",Yes TV Action HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2346/index.m3u8
+#EXTINF:-1 tvg-id="yestvcomedy.il" tvg-name="IL - yes MOVIES COMEDY" tvg-logo="https://iptv-epg.org/images/HVyHU9_3xDJCa-2ossSPaUfnwEdI3xfwJGw4vGcfcb6bG8mxutUkIkknIOYUDcR5cX9mBev5fdK6khrBvbTquRxL3RMhgqVOkNug5fgUZqKaMfSZG2Ppow" group-title="IL",Yes TV Comedy HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2345/index.m3u8
+#EXTINF:-1 tvg-id="yestvdrama.il" tvg-name="IL - yes MOVIES DRAMA" tvg-logo="https://iptv-epg.org/images/t90jgL1ReMIi8U1Go90yDAQy8Vq-W1daKKrFwG9jQkMH00ppdXrMQRB8LVWkCkHuvjVqpgNqCBYStpoO3AaXUfPHtqpyHaqFpJhCaiJVkd1w19oo_-pI" group-title="IL",Yes TV Drama HD IL
+http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2343/index.m3u8
 #EXTINF:-1 tvg-id="yesMOVIESACTION.il" tvg-name="IL - yes MOVIES ACTION" tvg-logo="https://iptv-epg.org/images/i00xp1xMX8MhsOp9BFoTLtxD_80oYjYJjOyHimIoHVRfppYdPx17qk_G0p5-Yiq_vy-lG4gCF4unfMZXJgmyW6wIs4y2eLS1EjGBEutbreawQJc0DUINDQ" group-title="IL",Yes Movies Action
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12270/index.m3u8
 #EXTINF:-1 tvg-id="yesMOVIESCOMEDY.il" tvg-name="IL - yes MOVIES COMEDY" tvg-logo="https://iptv-epg.org/images/HVyHU9_3xDJCa-2ossSPaUfnwEdI3xfwJGw4vGcfcb6bG8mxutUkIkknIOYUDcR5cX9mBev5fdK6khrBvbTquRxL3RMhgqVOkNug5fgUZqKaMfSZG2Ppow" group-title="IL",Yes Movies Comedy
