@@ -1,0 +1,3 @@
+#EXTM3U
+#EXTINF:0 type="stream" channelId="-1", Item 1
+http://m3u4u.com/m3u/5z3end2e22fpp7kmnqpk
