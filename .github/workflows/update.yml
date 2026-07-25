@@ -1,0 +1,25 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # ירוץ אוטומטית כל 12 שעות
+  workflow_dispatch: # מאפשר הרצה ידנית בלחיצת כפתור
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Download M3U from external site
+        run: |
+          curl -s "http://m3u4u.com/m3u/5z3end2e22fpp7kmnqpk" -o playlist.m3u
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git commit -m "Auto-update playlist" || exit 0
+          git push
