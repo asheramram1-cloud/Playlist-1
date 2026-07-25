@@ -14,7 +14,7 @@ jobs:
 
       - name: Download M3U from external site
         run: |
-          curl -s "http://m3u4u.com/m3u/5z3end2e22fpp7kmnqpk" -o playlist.m3u
+          curl -s "https://www.dropbox.com/scl/fi/8wkxsm735g7u8jds21i0v/m3u4u-206621-738857-Playlist-World.m3u?rlkey=uogflk1yq4uo7g5a1fgufu5yv&st=w393omdb&dl=0" -o playlist.m3u
 
       - name: Commit and Push changes
         run: |
