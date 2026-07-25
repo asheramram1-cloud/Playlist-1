@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnjgeggc33524yv15xsURn3_6WL2zxKpAVexfrzbh5tHB8GY4qcw8-Me3HWLzX_V0yLQU3YQQXORh_qxsP4-KNVo/file#"
+#EXTM3U x-tvg-url="http://m3u4u.com/epg/4z2xnjgeggc33524yv15"
 
 #EXTINF:-1 tvg-id="kan11" tvg-name="כאן 11" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Kan_11_logo.svg/512px-Kan_11_logo.svg.png",כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
