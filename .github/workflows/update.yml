@@ -2,8 +2,8 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # ירוץ אוטומטית כל 12 שעות
-  workflow_dispatch: # מאפשר הרצה ידנית בלחיצת כפתור
+    - cron: '0 */12 * * *'
+  workflow_dispatch:
 
 jobs:
   update-playlist:
@@ -14,7 +14,14 @@ jobs:
 
       - name: Download M3U from external site
         run: |
-          curl -s "http://m3u4u.com/m3u/5z3end2e22fpp7kmnqpk" -o playlist.m3u
+          # שימוש ב-User-Agent של דפדפן ומעקב אחרי הפניות (-L)
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" "http://m3u4u.com/m3u/5z3end2e22fpp7kmnqpk" -o playlist.m3u
+
+          # בדיקה שהקובץ אינו ריק
+          if [ ! -s playlist.m3u ]; then
+            echo "הורדת הקובץ נכשלה או שהקובץ הוחזר ריק!"
+            exit 1
+          fi
 
       - name: Commit and Push changes
         run: |
