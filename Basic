@@ -3,8 +3,9 @@
 #EXTINF:-1 tvg-id="channel11.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" group-title="×™×©×¨××œ",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="channel12.il" tvg-name="קשת 12" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/53/Keshet_12_logo.svg/512px-Keshet_12_logo.svg.png",קשת 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1776714362~acl=%2f*~data=hdntl~hmac=ca58531dba787ebaa1250d1bdb7a750262b9d66e99d5bfce07badaf0f3ed3483/profileManifest.m3u8?_uid=3b54c001-6b1b-41d0-85bc-0d609b401551&rK=b7&_did=b35d1d61-d36b-40f0-86c9-446724222f66
+#EXTINF:-1 tvg-chno="12" group-title="News" tvg-id="channe12.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png", Keshet 12
+# https://zekonew.newkso.ru/zeko/premium549/mono.m3u8|referer=https://forcedtoplay.xyz/&origin=https://forcedtoplay.xyz&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0 
+https://mako-streaming.akamaized.net/index.m3u8
 
 #EXTINF:-1 tvg-id="channel13.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="×™×©×¨××œ",Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
