@@ -1,0 +1,32 @@
+name: Update M3U Playlist from Dropbox
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # ירוץ אוטומטית כל 6 שעות
+  workflow_dispatch: # מאפשר הרצה ידנית בכל רגע
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Download M3U from Dropbox
+        run: |
+          # החלף את הקישור למטה בקישור ה-Dropbox האמיתי שלך (עם raw=1 בסוף)
+          curl -sL "https://www.dropbox.com/scl/fi/5cprsp6bmj2m4vepjcxj4/m3u4u-206621-739422-Playlist-World-2.m3u?rlkey=4bxt28g3nav6yao2qi9ujr4p4&st=vcpegg5w&raw=1" -o playlist.m3u
+
+          # בדיקה שהקובץ אינו ריק
+          if [ ! -s playlist.m3u ]; then
+            echo "הורדת הקובץ נכשלה!"
+            exit 1
+          fi
+
+      - name: Commit and Push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add playlist.m3u
+          git commit -m "Auto-update playlist from Dropbox" || exit 0
+          git push
