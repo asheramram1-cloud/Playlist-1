@@ -21,6 +21,94 @@ https://d25w9q07b2mtmw.cloudfront.net/live/master_3.m3u8,
 https://linear417-gb-hls1-prd-ak.cdn.skycdp.com/100e/Content/HLS_001_1080_30/Live/channel(skynews)/05_1080-30.m3u8
 #EXTINF:-1 group-title="UKTV" tvg-logo="" tvg-id="BBCLDE.de (m3u4u)" tvg-chno="21",BBC Lifestyle
 https://thinkkast.dpdns.org/tkk-ph/i7/bbc_lstylehd/bbc-lifestyle.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="FOX.us (src09)",FOX
+http://84.17.50.102/fox/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="FS1.us (src09)",FS1
+http://41.223.30.230/FOXSPORTS1/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-id="Fox Sports 2 HD.us (src09)",Fox Sports 2
+http://23.237.104.106:8080/USA_FS2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",FOX NY
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOX (WLUK) Green Bay, WI HD.us (src09)",FOX 11 Green Bay WI (WLUK)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-id="fox soccer plus.us (src09)",FOX Soccer Plus
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.imgur.com/oG7HzEf.png" tvg-id="Fox Sports 2 HD.us (src09)",FOX Sports 2 (2)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
+#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
+https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="",RTBGO
+#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
+#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="",FOX ESP
+http://190.61.101.11:7050/play/a09z/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="FOX Sports.us (src09)",FOX Sports ESP
+http://190.61.101.11:7050/play/a08t/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="Fox Sports 2 HD.us (src09)",FOX Sports 2 ESP
+http://190.61.101.11:7050/play/a08v/index.m3u8?hls
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOXE2.us (m3u4u)",FOX (2)
+http://164.52.224.212:5004/auto/v53.1
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="Telemundo.us (src09)",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",Telemundo 2
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOX Deportes.us (src09)",Fox Deportes
+http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",Bein US
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN2C.ca (m3u4u)",Dazn 2
+http://23.237.104.106:8080/DAZN_2/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN3C.ca (m3u4u)",Dazn 3
+http://23.237.104.106:8080/DAZN_3/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN4C.ca (m3u4u)",Dazn 4
+http://23.237.104.106:8080/DAZN_4/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN5C.ca (m3u4u)",Dazn 5
+http://23.237.104.106:8080/DAZN_5/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN6C.ca (m3u4u)",Dazn 6
+http://23.237.104.106:8080/DAZN_6/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="ZDFGERH.uk (m3u4u)",ZDF
+http://169.150.223.25/ZDF/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",Telemundo (2)
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="" tvg-id="",Golive
+https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",WiN Sports
+https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" tvg-id="B2HDANZ.us (m3u4u)",Bein Sports 2 Arabic
+https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports
+https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 1)
+http://190.108.83.69:8000/play/a05w/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 2)
+http://148.222.230.201:8000/play/a0pk/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 3)
+http://148.222.230.197:8000/play/a0mm/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 4)
+http://181.64.27.65:8000/play/a0dq/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports" ",DSports (Opción 5)
+http://38.187.7.252:8000/play/a03d/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 6)
+http://190.223.48.46:8000/play/a028/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 7)
+http://191.97.59.33:8000/play/a09t/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 8)
+http://190.117.20.37:8000/play/a08d/index.m3u
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 9)
+http://177.53.152.117:8000/play/a07d/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 10)
+http://8.243.126.131:8000/play/a05a/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 11)
+http://177.10.184.193:8000/play/a0fc/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 12)
+http://217.26.190.76:8888/play/a0co/index.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",Telefe
+http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp" tvg-id="FOX ONE",Fox One
+https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-id="TNTSPORT1.uk (m3u4u)" tvg-chno="20",TNT Sports 1 (720)
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
 #EXTINF:-1 group-title="Sports" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fubo-sports-network-us.png?raw=true" tvg-id="FUBOSNX.us (m3u4u)" tvg-chno="78",Fubo Sports Network (720)
@@ -458,148 +546,6 @@ http://201.151.118.136:1234/stream/mundial2026/cazetvop2/master.m3u8
 https://zati5.hasanhabibmottakin.workers.dev/0-9-channel_2105335046/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",World Cup 2026
 http://46.101.169.21/ch299/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="FOX.us (src09)",FOX
-http://84.17.50.102/fox/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="FS1.us (src09)",FS1
-http://41.223.30.230/FOXSPORTS1/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-2-us.png" tvg-id="Fox Sports 2 HD.us (src09)",Fox Sports 2
-http://23.237.104.106:8080/USA_FS2/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",FOX NY
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOX (WLUK) Green Bay, WI HD.us (src09)",FOX 11 Green Bay WI (WLUK)
-https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/FOX_Sports_logo.svg/960px-FOX_Sports_logo.svg.png" tvg-id="fox soccer plus.us (src09)",FOX Soccer Plus
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/57/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://i.imgur.com/oG7HzEf.png" tvg-id="Fox Sports 2 HD.us (src09)",FOX Sports 2 (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-https://1nyaler.streamhostingcdn.top/stream/26/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="",RTBGO
-#EXTVLCOPT:http-referrer=https://www.rtbgo.bn/
-#EXTVLCOPT:http-user-agent=RTBGo/2.0.21 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/playlist.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="",FOX ESP
-http://190.61.101.11:7050/play/a09z/index.m3u8?hls
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="FOX Sports.us (src09)",FOX Sports ESP
-http://190.61.101.11:7050/play/a08t/index.m3u8?hls
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="Fox Sports 2 HD.us (src09)",FOX Sports 2 ESP
-http://190.61.101.11:7050/play/a08v/index.m3u8?hls
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOXE2.us (m3u4u)",FOX (2)
-http://164.52.224.212:5004/auto/v53.1
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="Telemundo.us (src09)",Telemundo
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",Telemundo 2
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="FOX Deportes.us (src09)",Fox Deportes
-http://23.237.104.106:8080/USA_FOX_DEPORTES/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="",Bein US
-http://23.237.104.106:8080/USA_BEIN/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN2C.ca (m3u4u)",Dazn 2
-http://23.237.104.106:8080/DAZN_2/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN3C.ca (m3u4u)",Dazn 3
-http://23.237.104.106:8080/DAZN_3/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN4C.ca (m3u4u)",Dazn 4
-http://23.237.104.106:8080/DAZN_4/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN5C.ca (m3u4u)",Dazn 5
-http://23.237.104.106:8080/DAZN_5/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://assets.football-logos.cc/logos/tournaments/1500x1500/fifa-world-cup-2026--white.10e0b37b.png" tvg-id="DAZN6C.ca (m3u4u)",Dazn 6
-http://23.237.104.106:8080/DAZN_6/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="",TUDN [2]
-https://telegratuita.net/cors-proxy.php?url=https://streaming-live-fcdn.api.prd.univisionnow.com/tudn/tudn.isml/hls/tudn.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="ZDFGERH.uk (m3u4u)",ZDF
-http://169.150.223.25/ZDF/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",ZDF (2)
-http://23.88.66.93/ZDF/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",ZDF (3)
-http://83.228.75.166:8000/play/a0da
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",ZDF (4)
-http://smarterstv99.dyndns.tv:25461/live/IselaGranad24/CbgVfaaXAqSj/494201.ts
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",Telemundo (2)
-https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="" tvg-id="",Golive
-https://d1211whpimeups.cloudfront.net/smil:rtbgo/chunklist_b4096000_slENG.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",WiN Sports
-https://1nyaler.streamhostingcdn.top/stream/32/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://play-lh.googleusercontent.com/jBDZq3aBmCXuvtuJHEasqsdYPRxMBGzYmEha4dMlgoIk19Zlh6BGQC08Zt6Ifrmzhg" tvg-id="B2HDANZ.us (m3u4u)",Bein Sports 2 Arabic
-https://1nyaler.streamhostingcdn.top/stream/21/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports
-https://cors-proxy.cooks.fyi/http://147.135.114.221:8001/play/a00m/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 1)
-http://190.108.83.69:8000/play/a05w/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 2)
-http://148.222.230.201:8000/play/a0pk/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 3)
-http://148.222.230.197:8000/play/a0mm/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 4)
-http://181.64.27.65:8000/play/a0dq/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports" ",DSports (Opción 5)
-http://38.187.7.252:8000/play/a03d/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 6)
-http://190.223.48.46:8000/play/a028/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 7)
-http://191.97.59.33:8000/play/a09t/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 8)
-http://190.117.20.37:8000/play/a08d/index.m3u
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 9)
-http://177.53.152.117:8000/play/a07d/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 10)
-http://8.243.126.131:8000/play/a05a/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 11)
-http://177.10.184.193:8000/play/a0fc/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="DSports",DSports (Opción 12)
-http://217.26.190.76:8888/play/a0co/index.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4b/DSports_logo.svg" tvg-id="",Telefe
-http://45.225.40.206:12080/Live/eab080bb8da84db1cd89ee8233571041/telefe_480.m3u8
-#EXTINF:-1 group-title="WC 2026" tvg-logo="https://i.postimg.cc/XpSD2cdh/FOX-t-290x163.webp" tvg-id="FOX ONE",Fox One
-https://aegis-cloudfront-1.tubi.video/62883227-8fc8-4992-97ff-614d283b4789/playlist720p.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",CTV
-http://stream.cammonitorplus.net/1720/index.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TV CANADA CTV
-http://stream.cammonitorplus.net/1724/index.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11182_dark_360w_270h.png" tvg-id="",TSN1
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn1.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s61474_dark_360w_270h.png" tvg-id="",TSN2
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn2.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TSN3
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn3.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TSN4
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn4.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TSN5
-https://raw.githubusercontent.com/kusnadipepenk/ntn/refs/heads/master/tsn5.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="https://i.imgur.com/sbooXpg.png" tvg-id="",CTV (2)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-http://stream.cammonitorplus.net/1712/index.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="https://i.imgur.com/sbooXpg.png" tvg-id="",CTV 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36 Edg/145.0.0.0
-#EXTVLCOPT:http-referrer=https://www.partidoshoy.live/
-http://stream.cammonitorplus.net/1731/index.m3u
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TSN 1
-https://ataide0.elugohome.com/tsn.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="https://i.gyazo.com/4a5e9fa2525808ee4b65002b56d3450e.png" tvg-id="",TSN 1 (2)
-http://85.237.89.160:9590/usa-s/TSN-HD-1/index.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="https://r2.thesportsdb.com/images/media/channel/banner/sealcf1700573094.jpg" tvg-id="",TSN 4
-http://85.237.89.160:-9590/usa-s/TSN4/index.m3u8
-#EXTINF:-1 group-title="CATV" tvg-logo="" tvg-id="",TSN5 (2)
-http://185.246.209.113:80/TSN5HD/index.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",France 2
-http://69.64.57.208/france2/mono.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",France 5
-http://69.64.57.208/france5/mono.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",CNA Originals
-https://amg01082-cna-amg01082c1-rlaxx-us-11304.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",Trace Vanilla HD
-https://channels.trace.plus/Traceprod/VANILLA.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",Trace Caribbean HD
-https://channels.trace.plus/Traceprod/CARIBBEAN.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",Trace Latina HD
-https://channels.trace.plus/Traceprod/LATINA.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",Trace Brazil HD
-https://channels.trace.plus/Traceprod/BRAZIL/.m3u8
-#EXTINF:-1 group-title="TV" tvg-logo="" tvg-id="",1TV GE
-https://tv.cdn.xsg.ge/gpb-1tv/index.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/qQ33TVM.png" tvg-id="ABCAustralia.au" tvg-chno="51",ABC Australia News (720)
 https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index_5.m3u8
 #EXTINF:-1 group-title="News" tvg-logo="https://i.imgur.com/7bRVpnu.png" tvg-id="AlJazeera.qa" tvg-chno="52",Al Jazeera
