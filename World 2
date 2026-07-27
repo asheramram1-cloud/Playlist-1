@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://m3u4u.com/epg/3m97ypr6rrf33715ydxq" x-generator="https://m3u4u.com/"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/nu52t6dvz30ek4f6qzffg/m3u4u-206621-739422-EPG-World-2.xml?rlkey=8aiu714mm1firnqtcygdiq5vx&st=xin1cdwb&dl=1" x-generator="https://m3u4u.com/"
 #EXTINF:-1 group-title="ZATV" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-id="SABC.1.HD.za" tvg-chno="1",SABC 1 (720)
 https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/chunklist_b1600000_t64NzIwcA==.m3u8
 #EXTINF:-1 group-title="ZATV" tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-id="SABC.2.HD.za" tvg-chno="2",SABC 2 (720)
