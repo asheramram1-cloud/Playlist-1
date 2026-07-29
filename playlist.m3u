@@ -60,11 +60,13 @@ https://amg00488-foxdigital-wfld-lgus-easfb.amagi.tv/ts-us-w2-n2/playlist/amg004
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="USTV" tvg-logo="" tvg-id="",Telemundo 20 Utah
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="Telemundo.us (src09)",Telemundo
+https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="" grouptitle="USTV",CBS TV
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="HGTV.us (src09)",HGTV
 https://mediapackage-hgtv-source.fullscreen.nz/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",TNT Sports ARG
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="TNTSPUHD.uk (m3u4u)",TNT Sports ARG
 https://1nyaler.streamhostingcdn.top/stream/30/index.m3u8
 #EXTINF:-1 group-title="Nature & Travel" tvg-logo="" tvg-id="WILDTV.ca (m3u4u)",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
