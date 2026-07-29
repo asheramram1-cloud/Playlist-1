@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypr6rrf33715ydxq" x-generator="https://m3u4u.com/"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/nu52t6dvz30ek4f6qzffg/m3u4u-206621-739422-EPG-World-2.xml?rlkey=8aiu714mm1firnqtcygdiq5vx&st=z44yfdal&dl=1"
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="" tvg-chno="32",ABC TV
 http://45.7.237.109:9000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="AMC.us (m3u4u)" tvg-chno="45",AMC+
