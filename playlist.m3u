@@ -50,6 +50,8 @@ https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_7
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true" tvg-id="TNTSPORT1.uk (m3u4u)" tvg-chno="20",TNT Sports 1 (720)
 https://bl.rutube.ru/livestream/3aa782bace452e7c4b9f81d767512147/index.m3u8?s=pXrTdWNG4s0INeKOsblzrA&e=2074182240&scheme=https
+#EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="",Travel Escapes
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-states/usa-us.png?raw=true" tvg-id="USA Network.us (src09)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="",Wellbeing TV/My Zen
