@@ -1,7 +1,5 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/3ndcy9ajgld4dyf2utwwt/m3u4u-206621-740190-EPG-Sports.xml.gz?rlkey=xopb3lzxr0r8davtkhrpaw633&st=rxtufx3v&dl=1"
 #EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
-#EXTINF:-1 group-title="UHD" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" tvg-id="beIN Sports.us (src09)",Bein Sports UHD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
 #EXTINF:-1 group-title="EPL" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" tvg-id="",SkySports PL
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/394557.m3u8
@@ -53,37 +51,3 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
 #EXTINF:-1 group-title="SKYSPORTS NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144108" tvg-id="",SkySports Selet NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-id="BSHDANZ.us (m3u4u)",BEIN SPORTS 1 FR
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=425570&extension=ts&play_token=luo28wigZT
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c9/Logo_bein_sports_2.png" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 2 FR
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=425571&extension=ts&play_token=jL314KeC2x
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" tvg-id="B3HDANZ.us (m3u4u)",BEIN SPORTS 3 FR
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=425572&extension=ts&play_token=wPVv6tkLQf
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-id="BSHDANZ.us (m3u4u)",BEIN SPORTS 1
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917224&extension=ts&play_token=jAKn26NnnQ
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 2
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917223&extension=ts&play_token=QpjrV5xecY
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" tvg-id="B3HDANZ.us (m3u4u)",BEIN SPORTS 3
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917222&extension=ts&play_token=f1uQonAg8B
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" tvg-id="BEINHD4.us (m3u4u)",BEIN SPORTS 4
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917221&extension=ts&play_token=OIFSBcs82k
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624527%27&EntityType=%27Item%27&EntityId=%27572409%27&Width=1920&Height=1080" tvg-id="BEINHD5.us (m3u4u)",BEIN SPORTS 5
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917220&extension=ts&play_token=ZtX8yyHHmN
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_425_305" tvg-id="BEINHD6.us (m3u4u)",BEIN SPORTS 6
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917219&extension=ts&play_token=yWZU7mXKpm
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aV8CDCcI_vL6w3TI6oxUihq92RhKGrkvuOXkEugW&s=10" tvg-id="BEINHD7.us (m3u4u)",BEIN SPORTS 7
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1917218&extension=ts&play_token=nEPnIF5CW5
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e5/Logo_bein_sports_1.png" tvg-id="BSHDANZ.us (m3u4u)",BEIN SPORTS 1(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/106757.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 2(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/123959.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c4/Logo_bein_sports_3.png" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 3(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/142297.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/96/Logo_bein_sports_4.png" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 4(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/49915.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://prod98.togglestatic.com/shain/v1/dataservice/ResizeImage/$value?Format=%27png%27&Quality=85&ImageId=%279624527%27&EntityType=%27Item%27&EntityId=%27572409%27&Width=1920&Height=1080" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 5(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/158311.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_425_305" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 6(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/88493.ts
-#EXTINF:-1 group-title="BEIN SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9aV8CDCcI_vL6w3TI6oxUihq92RhKGrkvuOXkEugW&s=10" tvg-id="B2HDANZ.us (m3u4u)",BEIN SPORTS 7(2)
-http://eurvip.xyz:2095/live/mesutbalaban/mst0310dd00/119804.ts
