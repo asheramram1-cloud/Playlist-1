@@ -1,7 +1,7 @@
 #EXTM3U x-tvg-url="https://iptv-epg.org/files/epg-il.xml.gz"
-#EXTINF:-1 tvg-id="כאן11.il" tvg-name="" tvg-logo="" group-title="IL", kan11
+#EXTINF:-1 tvg-id="כאן11.il" tvg-name="" tvg-logo="" group-title="IL", כאן11
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2332/index.m3u8
-#EXTINF:-1 tvg-id="קשת.il" tvg-name="" tvg-logo="" group-title="IL", keshet12
+#EXTINF:-1 tvg-id="קשת.il" tvg-name="" tvg-logo="" group-title="IL", קשת 12
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2349/index.m3u8
 #EXTINF:-1 tvg-id="רשת.il" tvg-name="" tvg-logo="" group-title="IL", רשת 13
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2330/index.m3u8
