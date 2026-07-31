@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypr6rrf33715ydxq" x-generator="https://m3u4u.com/"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/m9kyzk983rekfi9waw71v/m3u4u-206621-739422-EPG-World-2.xml.gz?rlkey=u2fk7tvo7s61plh3q4u2gzi7j&st=93oogd63&dl=1"
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DiscoveryScience.uk",Discovery Science
