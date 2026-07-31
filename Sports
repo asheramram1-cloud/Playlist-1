@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/3ndcy9ajgld4dyf2utwwt/m3u4u-206621-740190-EPG-Sports.xml.gz?rlkey=xopb3lzxr0r8davtkhrpaw633&st=rxtufx3v&dl=1"
 #EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
 #EXTINF:-1 group-title="EPL" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" tvg-id="",SkySports PL
 https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/394557.m3u8
 #EXTINF:-1 group-title="EPL" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="Viaplay1.uk (src01)",Hub Premier 1
