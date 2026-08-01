@@ -23,11 +23,11 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12216/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12217/index.m3u8
 #EXTINF:-1 tvg-id="HOT3.il" tvg-name="IL - HOT 3" tvg-logo="https://iptv-epg.org/images/N_HD_EILtHsL97e-lmrIK6usa1f32VuhebpKvaAakWSzyZa4qoT463lg7rplrCAlW6k0vNoyOzPMCUxGYsGO0S9eQJC49aE4ioWoGts" group-title="IL",HOT 3
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2367/index.m3u8
-#EXTINF:-1 tvg-id="HOTHBO.il" tvg-name="IL - HOT HBO" tvg-logo="https://iptv-epg.org/images/blIlLNuEcvex7yutTAtTQm8pfcKbekscXtoECgruo4HZfESWKOO6NkxcdJWTUoVbRJ0wz7bDqmL67AlFESzrk7sssPfdnYtwdjtw-M3BGg" group-title="IL",HOT HBO
+#EXTINF:-1 tvg-id="HOTDrama.il" tvg-name="IL - HOT Drama" tvg-logo="https://iptv-epg.org/images/blIlLNuEcvex7yutTAtTQm8pfcKbekscXtoECgruo4HZfESWKOO6NkxcdJWTUoVbRJ0wz7bDqmL67AlFESzrk7sssPfdnYtwdjtw-M3BGg" group-title="IL",HOT Drama
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2354/index.m3u8
 #EXTINF:-1 tvg-id="HOTZone.il" tvg-name="IL - HOT Zone" tvg-logo="https://iptv-epg.org/images/DvHEtgTYYxj5f2UE1v-6e1E9AY4jaiZQZksm-hhl_pxHqGoHfszPpqv_TzZKEacHk6PmhHpCXHtHv1GDG98YZOf6udeCRCxpv2JOJIe6X2o" group-title="IL",HOT Zone
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2360/index.m3u8
-#EXTINF:-1 tvg-id="HOTReal.il" tvg-name="IL - HOT Real" tvg-logo="" group-title="IL",HOT Real
+#EXTINF:-1 tvg-id="HOTStars.il" tvg-name="IL - HOT stars" tvg-logo="" group-title="IL",HOT Stars
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12274/index.m3u8
 #EXTINF:-1 tvg-id="HOTCinema1.il" tvg-name="IL - HOT Cinema 1" tvg-logo="https://iptv-epg.org/images/dbtNllv6NHkt5AFBY4C4cyyv-WtkqP0Z3KhrDNiYCbwbIjAeNvDoOr5Od_t8GB6ZgqMJlbSy29bCwf7a6JJqCXl3Hs00prYGnjkJGlXu6GU0pB8" group-title="IL",HOT Cinema 1
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2357/index.m3u8
@@ -45,7 +45,7 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12271/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12272/index.m3u8
 #EXTINF:-1 tvg-id="yesMOVIESKIDS.il" tvg-name="IL - yes MOVIES KIDS" tvg-logo="https://iptv-epg.org/images/IBSL2q4GZiC7wuPODZWOwpd0mmJ00Pn6VkS1Hcs2M28VCCqKP1KsRmqGJFM-QlrvTuX5PolmpsYU39y-XyxOpJDYfdRo-FDGg3-q8EK8s_FKvbeuh-k" group-title="IL",Yes Movies Kids
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12273/index.m3u8
-#EXTINF:-1 tvg-id="yesקולנועישראלי.il" tvg-name="IL - yes קולנוע ישראלי" tvg-logo="" group-title="IL",Yes Israeli
+#EXTINF:-1 tvg-id="yesקולנועישראלי.il" tvg-name="IL - yes קולנוע ישראלי" tvg-logo="" group-title="IL",Yes ישראלי
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2342/index.m3u8
 #EXTINF:-1 tvg-id="ספורט1HD.il" tvg-name="" tvg-logo="" group-title="IL",ספורט1
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12249/index.m3u8
