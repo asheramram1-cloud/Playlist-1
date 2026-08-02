@@ -54,7 +54,7 @@ https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png" tvg-id="Telemundo.us (src09)",Telemundo
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png" tvg-id="TELDEPA.us (m3u4u)",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="Telemundo (KEJT) Salt Lake City, UT HD.us (src09)",Telemundo Utah
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
