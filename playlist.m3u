@@ -1,13 +1,13 @@
 #EXTM3U url-tvg="http://m3u4u.com/epg/3m97ypr6rrf33715ydxq" x-generator="https://m3u4u.com/"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="Discovery.HD.il (src05)",Discovery Channel
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="DiscoveryChannel.de (src09)",Discovery Channel
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2358/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au",InTravel
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DiscoveryScience.uk",Discovery Science
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" tvg-id="Travelxp4K.de",Travelxp 4k
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="ABC.us (src09)" tvg-chno="32",ABC TV
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="ANSDANZ.au (m3u4u)" tvg-chno="32",abc news
 http://45.7.237.109:9000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.us (m3u4u)" tvg-chno="45",AMC+
 http://40.160.24.52/AMC_PLUS/index.m3u8
@@ -21,16 +21,16 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
 http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032TPNF.png_light_360w_270h.png" tvg-id="BBCLDE.de (m3u4u)" tvg-chno="21",BBC Lifestyle
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032TPNF.png_light_360w_270h.png" tvg-id="BBCLifestyle.de (src09)" tvg-chno="21",BBC Lifestyle
 https://thinkkast.dpdns.org/tkk-ph/i7/bbc_lstylehd/bbc-lifestyle.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.uk (m3u4u)" tvg-chno="17",BBC News (720)
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.de (m3u4u)" tvg-chno="17",BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="BET Cinema.us (src09)",BET Cinema
 https://jmp2.uk/plu-58af4c093a41ca9d4ecabe96.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-id="CBS.us (src09)" tvg-chno="33",CBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 CrKey/1.44.191160
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855366&extension=ts
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-chno="75",CBS News
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBS News Baltimore.us (src09)" tvg-chno="75",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="" grouptitle="USTV",CBS TV
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
@@ -48,11 +48,11 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-id="MSNBC.HD.us2.us (src05)" tvg-chno="74",NBC HD
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-id="MSNBC.HD.us2.us (src05)" tvg-chno="74",MSNBC
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBCCVLT.us (m3u4u)",NBC Comedy Vault
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA Network.us (src09)" tvg-chno="37",USA Network
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png" tvg-id="Telemundo.us (src09)",Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
