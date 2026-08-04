@@ -1,12 +1,5 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/b5z5lamh0hy4ufq7bbjvd/m3u4u-206621-739422-EPG-Foreign.xml.gz?rlkey=x2n096qlbgm8h69364hmafwui&st=c2jn99rz&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="DiscoveryChannel.de (src09)",Discovery Channel
-http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2358/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
-http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" tvg-id="Travelxp4k.de (src05)",Travelxp 4k
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="ANSDANZ.au (m3u4u)" tvg-chno="32",abc news
 http://45.7.237.109:9000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.us (m3u4u)" tvg-chno="45",AMC+
@@ -59,5 +52,9 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45324_light_360w_270h.png" tvg-id="WILDTV.ca (m3u4u)",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s89155_dark_360w_270h.png" tvg-id="MYZENC.ca (m3u4u)",My Zen TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01255-secomcofites-my-myzen-en-plex/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
+http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" tvg-id="Travelxp4k.de (src05)",Travelxp 4k
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
