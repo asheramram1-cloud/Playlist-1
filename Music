@@ -1,6 +1,6 @@
 #EXTM3U x-tvg-url="https://www.open-epg.com/generate/fVjzmBVvNc.xml"
 
-#EXTINF:-1 tvg-id="" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="מוזיקה",MTV Live
+#EXTINF:-1 tvg-id="MTV Live.us" tvg-logo="http://51.158.145.100/picons/logos/UKNEW/MTVLIVE.png" group-title="מוזיקה",MTV Live
 http://stalker.ugoiptv.com:80/play/live.php?mac=00:1A:79:AC:19:9D&stream=45325&extension=ts&play_token=1WGuLgLigF
 
 #EXTINF:-1 tvg-id="XITEHits.de" tvg-logo="https://tvpnlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/00/02/34/USBD3300004RH_20241105T024203SQUARE.png" group-title="מוזיקה",XITE Hits
