@@ -25,10 +25,8 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 https://thinkkast.dpdns.org/tkk-ph/i7/bbc_lstylehd/bbc-lifestyle.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.de (m3u4u)" tvg-chno="17",BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBS News 24/7.us (src09)" tvg-chno="33",CBS news
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBS (KSWT) Yuma, AZ HD.us (src09)" tvg-chno="33",CBS news
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="" grouptitle="USTV",CBS TV
-http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="Comedy TV.us (src09)" tvg-chno="41",Comedy TV
 http://40.160.24.52/COMEDY_TV/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&h=270" tvg-id="CW.us2.us (src05)" tvg-chno="36",CW
