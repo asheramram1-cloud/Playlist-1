@@ -28,8 +28,6 @@ https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_ch
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10098_dark_360w_270h.png" tvg-id="CBS.us (src09)" tvg-chno="33",CBS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/135.0.0.0 Safari/537.36 Edg/134.0.0.0 CrKey/1.44.191160
 http://line.tvdsz.cc:80/play/live.php?mac=A0:BB:3E:7F:CD:D7&stream=855366&extension=ts
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBS News Baltimore.us (src09)" tvg-chno="75",CBS News
-https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="" grouptitle="USTV",CBS TV
 http://4.30.180.36:8420/cbs/index.m3u8?token=test
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="Comedy TV.us (src09)" tvg-chno="41",Comedy TV
@@ -46,13 +44,13 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="", ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-id="NBCNN.us (m3u4u)" tvg-chno="74",NBC News Now
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/nbc-logo-2013-us.png?raw=true" tvg-id="NBCNN.us (m3u4u)" tvg-chno="74", NBC News Now
 https://xumo-drct-nbcnn-ir8ze.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)", NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37", USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png" tvg-id="TELDEPA.us (m3u4u)",Telemundo
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TEP.png" tvg-id="TELDEPA.us (m3u4u)", Telemundo
 https://nbculocallive.akamaized.net/hls/live/2037499/puertorico/stream1/master_720.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="Telemundo (KEJT) Salt Lake City, UT HD.us (src09)", Telemundo Utah
 https://i1.ut770.freelocaltv.org/hls/ktmw-20_hls/ktmw-20_master.m3u8
