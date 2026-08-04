@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/b5z5lamh0hy4ufq7bbjvd/m3u4u-206621-739422-EPG-Foreign.xml.gz?rlkey=x2n096qlbgm8h69364hmafwui&st=c2jn99rz&dl=1"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/b5z5lamh0hy4ufq7bbjvd/m3u4u-206621-739422-EPG-Foreign.xml.gz?rlkey=x2n096qlbgm8h69364hmafwui&st=nd8z9qta&dl=1"
 
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="ABCNL.us (m3u4u)" tvg-chno="32",abc news
 http://45.7.237.109:9000/play/a03r/index.m3u8
