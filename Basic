@@ -4,10 +4,10 @@
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 
 #EXTINF:-1 tvg-id="channel12.il" tvg-logo="http://picons.cmshulk.com/picons/59336.png" group-title="×™×©×¨××œ",Keshet 12
-http://77.137.40.221:8000/play/t017
+http://stream.mcquack.net/294/index.m3u8
 
 #EXTINF:-1 tvg-id="channel13.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" group-title="×™×©×¨××œ",Reshet 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 
 #EXTINF:-1 tvg-id="i24hebrew.il" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" group-title="×™×©×¨××œ",i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
