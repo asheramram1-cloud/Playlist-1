@@ -1,5 +1,6 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/b5z5lamh0hy4ufq7bbjvd/m3u4u-206621-739422-EPG-Foreign.xml.gz?rlkey=x2n096qlbgm8h69364hmafwui&st=nd8z9qta&dl=1"
-
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
+http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10003_dark_360w_270h.png" tvg-id="ABCNL.us (m3u4u)" tvg-chno="32",abc news
 http://45.7.237.109:9000/play/a03r/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.us (m3u4u)" tvg-chno="45",AMC+
@@ -12,8 +13,6 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
 http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0032TPNF.png_light_360w_270h.png" tvg-id="BBCLifestyle.de (src09)" tvg-chno="21",BBC Lifestyle
-https://thinkkast.dpdns.org/tkk-ph/i7/bbc_lstylehd/bbc-lifestyle.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.de (m3u4u)" tvg-chno="17",BBC News (720)
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBS (KSWT) Yuma, AZ HD.us (src09)" tvg-chno="33",CBS news
@@ -50,7 +49,5 @@ https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
-http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/travelxp.png" tvg-id="Travelxp4k.de (src05)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
