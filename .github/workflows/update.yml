@@ -15,7 +15,7 @@ jobs:
       - name: Download M3U from Dropbox
         run: |
           # החלף את הקישור למטה בקישור ה-Dropbox האמיתי שלך (עם raw=1 בסוף)
-          curl -sL "http://m3u4u.com/m3u/3m97ypr6rrf33715ydxq" -o playlist.m3u
+          curl -sL "http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984" -o playlist.m3u
 
           # בדיקה שהקובץ אינו ריק
           if [ ! -s playlist.m3u ]; then
