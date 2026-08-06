@@ -39,23 +39,3 @@ http://77.137.40.221:8000/play/k00i
 #EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il" tvg-logo="http://iptv-content.rv77.pw/336x192/21508.png", 5SPORTPLUS 
 http://77.137.40.221:8000/play/k001
 
-#EXTINF:-1 tvg-id="sport1.il" tvg-name="sport1.il", ספורט 1
-http://77.137.40.221:8000/play/k016
-
-#EXTINF:-1 tvg-id="sport2.il" tvg-name="sport2.il", ספורט 2
-http://77.137.40.221:8000/play/k019
-
-#EXTINF:-1 tvg-id="sport3.il" tvg-name="sport3.il", ספורט 3
-http://77.137.40.221:8000/play/k01a
-
-#EXTINF:-1 tvg-id="sport4.il" tvg-name="sport4.il", ספורט 4
-http://77.137.40.221:8000/play/k01b
-
-#EXTINF:-1 tvg-id="sport6.il" tvg-name="sport6.il", ספורט 6
-http://77.137.40.221:8000/play/k03w
-
-#EXTINF:-1 tvg-id="one.il" tvg-name="one.il", ONE-il 
-http://77.137.40.221:8000/play/k01d
-
-#EXTINF:-1 tvg-id="one2.il," tvg-name="one2.il", ONE2 
-http://77.137.40.221:8000/play/k01f
