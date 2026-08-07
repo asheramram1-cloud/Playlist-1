@@ -25,7 +25,7 @@ http://40.160.24.52/COMEDY_TV/index.m3u8
 http://40.160.24.52/CW/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117329_dark_360w_270h.png" tvg-id="ITV.uk (src01)" tvg-chno="13" cuid="", ITV
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19185/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14" cuid="" ", ITV 2
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14" cuid="", ITV 2
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" tvg-id="ITV3.uk (src01)" tvg-chno="15" cuid="", ITV 3
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
