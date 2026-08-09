@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw2m22fwwx83nx1w" x-generator="https://m3u4u.com/"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/3ndcy9ajgld4dyf2utwwt/m3u4u-206621-740190-EPG-Sports.xml.gz?rlkey=xopb3lzxr0r8davtkhrpaw633&st=coyryv6s&dl=1"
 #EXTINF:-1 group-title="UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN4K.us (m3u4u)",4K: ESPN ᵁᴴᴰ ³⁸⁴⁰ᴾ
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
 #EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
