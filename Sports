@@ -1,5 +1,5 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/3ndcy9ajgld4dyf2utwwt/m3u4u-206621-740190-EPG-Sports.xml.gz?rlkey=xopb3lzxr0r8davtkhrpaw633&st=hr7mixca&dl=1" 
-#EXTINF:-1 group-title="UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN4K.us (m3u4u)",4K: ESPN ᵁᴴᴰ ³⁸⁴⁰ᴾ
+#EXTINF:-1 group-title="UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN4K.us (m3u4u)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
 #EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
@@ -37,10 +37,8 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=156
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325020&extension=ts&play_token=hfaiq8JQoy
 #EXTINF:-1 group-title="Others" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?68747" tvg-id="ESPN News.us (src09)",ESPN NEWS HD
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325019&extension=ts&play_token=k7LOqWv8xB
-#EXTINF:-1 group-title="Others" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255" tvg-id="",ESPN USA HD
+#EXTINF:-1 group-title="Others" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255" tvg-id="",ESPNU
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=437219&extension=ts&play_token=CA8HivRkd7
-#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_light_360w_270h.png" tvg-id="ESPNU.us (src09)",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
 #EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_white_360w_270h.png" tvg-id="PK22.us (m3u4u)",NBC Sports NOW
 https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
 #EXTINF:-1 group-title="Others" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="Viaplay1.uk (src01)",Hub Premier 1
