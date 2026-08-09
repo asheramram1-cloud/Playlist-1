@@ -1,30 +1,6 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/3ndcy9ajgld4dyf2utwwt/m3u4u-206621-740190-EPG-Sports.xml.gz?rlkey=xopb3lzxr0r8davtkhrpaw633&st=i7x9fez1&dl=1"
 #EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
-#EXTINF:-1 group-title="EPL" tvg-logo="https://cdn.skymedia.co.uk/wp-content/uploads/2020/09/Sky-Sports-PL-2020-logo-250.png" tvg-id="",SkySports PL
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/394557.m3u8
-#EXTINF:-1 group-title="EPL" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="Viaplay1.uk (src01)",Hub Premier 1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620786&extension=ts&play_token=zWgXFhfpFs
-#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="Viaplay2.uk (src01)",Hub Premier 2
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620785&extension=ts&play_token=klZaIDF1jr
-#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="",Hub Premier 3
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620784&extension=ts&play_token=wpUlwD38cV
-#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="",Hub Premier 4
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620783&extension=ts&play_token=BuLIniwSX0
-#EXTINF:-1 group-title="EPL" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" tvg-id="",Hub Premier 5
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620782&extension=ts&play_token=Fpsb05BrFv
-#EXTINF:-1 group-title="EPL" tvg-logo="https://images.seeklogo.com/logo-png/49/2/go3-sport-1-logo-png_seeklogo-494788.png" tvg-id="",GO SPORTS 1
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
-#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/14ktq21723836456.png" tvg-id="",GO SPORTS 2
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
-#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/clcnt51723874834.png" tvg-id="",GO SPORTS 3
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18013/index.m3u8
-#EXTINF:-1 group-title="EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtMNnoCuGKRb0Z9XfGFRSud2bcCjI_H0mJbWPSXXCO6eURB_wpjUUn6hr&s=10" tvg-id="",GO SPORTS 4
-http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18014/index.m3u8
-#EXTINF:-1 group-title="EPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" tvg-id="",StarSports Selet 1
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441099&extension=ts&play_token=G4PnvFZnpu
-#EXTINF:-1 group-title="EPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" tvg-id="",StarSports Selet 2
-http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441097&extension=ts&play_token=kvXGRbueMA
 #EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2505/index.m3u8
 #EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
@@ -51,3 +27,25 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
 #EXTINF:-1 group-title="SKYSPORTS NZ" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/71/Sky_Sport_Select_NZ.svg/revision/latest/scale-to-width-down/200?cb=20230830144108" tvg-id="",SkySports Selet NZ
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+#EXTINF:-1 group-title="EPL" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="Viaplay1.uk (src01)",Hub Premier 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620786&extension=ts&play_token=zWgXFhfpFs
+#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="Viaplay2.uk (src01)",Hub Premier 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620785&extension=ts&play_token=klZaIDF1jr
+#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="",Hub Premier 3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620784&extension=ts&play_token=wpUlwD38cV
+#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="",Hub Premier 4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620783&extension=ts&play_token=BuLIniwSX0
+#EXTINF:-1 group-title="EPL" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" tvg-id="",Hub Premier 5
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620782&extension=ts&play_token=Fpsb05BrFv
+#EXTINF:-1 group-title="EPL" tvg-logo="https://images.seeklogo.com/logo-png/49/2/go3-sport-1-logo-png_seeklogo-494788.png" tvg-id="",GO SPORTS 1
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/14ktq21723836456.png" tvg-id="",GO SPORTS 2
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/clcnt51723874834.png" tvg-id="",GO SPORTS 3
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18013/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtMNnoCuGKRb0Z9XfGFRSud2bcCjI_H0mJbWPSXXCO6eURB_wpjUUn6hr&s=10" tvg-id="",GO SPORTS 4
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18014/index.m3u8
+#EXTINF:-1 group-title="EPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" tvg-id="",StarSports Selet 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441099&extension=ts&play_token=G4PnvFZnpu
+#EXTINF:-1 group-title="EPL" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" tvg-id="",StarSports Selet 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441097&extension=ts&play_token=kvXGRbueMA
