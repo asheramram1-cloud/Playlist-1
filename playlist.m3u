@@ -3745,7 +3745,7 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=342
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=405367&extension=ts&play_token=H3qAjVvybI
 #EXTINF:-1 group-title="UK| GENERAL ᴴᴰ/ᴿᴬᵂ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12140.jpg?5862" tvg-id="",UK: YESTERDAY ◉
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=162301&extension=ts&play_token=HgdingOCsP
-#EXTINF:-1 group-title="UK| HBO MAX PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="",UK: HBO MAX PPV 1
+#EXTINF:-1 group-title="UK| HBO MAX PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",UK: HBO MAX PPV 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
 #EXTINF:-1 group-title="UK| HBO MAX PPV" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="",UK: HBO MAX PPV 10
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918664&extension=ts&play_token=a3t3ggPSVB
@@ -7033,6 +7033,1352 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=437
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1569501&extension=ts&play_token=bHt5nKpNzh
 #EXTINF:-1 group-title="US| NEWS ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/486.png?81211" tvg-id="TRTWRSD.uk (m3u4u)",US: TRT WORLD HD
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=434021&extension=ts&play_token=NyJ2resc8h
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 20/20 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537063&extension=ts&play_token=vJQPcdiQXs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 24/7 LAUGHS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537062&extension=ts&play_token=ZBjVRThcYk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 365BLK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537060&extension=ts&play_token=6aTSftUt8T
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 48 HOURS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537058&extension=ts&play_token=ZEPhpctiOt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 4UV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537057&extension=ts&play_token=ZR8HULOQM4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 50 CENT ACTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537056&extension=ts&play_token=9sLomV7m77
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 5STARMAX EAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537055&extension=ts&play_token=2WPjCkwrGa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 60 MINUTES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537054&extension=ts&play_token=a9olMVbMj5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 6ABC PHILADELPHIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537053&extension=ts&play_token=yKZjWi8I4j
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 80S SITCOM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537052&extension=ts&play_token=x2yYzLYSc4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: 90S SITCOM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537051&extension=ts&play_token=2qNGWS34R0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: A&E CRIME 360 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537050&extension=ts&play_token=4K2ccMYfAG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC BALTIMORE NEWS (WMAR) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537049&extension=ts&play_token=V0hQh6oX96
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC BOISE NEWS (KIVI) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537048&extension=ts&play_token=r6Y4lVM0zE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC BUFFALO NEWS (WKBW) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537047&extension=ts&play_token=Q1CdIEMpJM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC CHARLESTON NEWS (WCIV.2) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537046&extension=ts&play_token=m9XtXFXS1j
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC CINCINNATI (WCPO) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537045&extension=ts&play_token=QXvi1XMksp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC CLEVELAND (WEWS) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537044&extension=ts&play_token=pxABsqXDEO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC COLUMBUS NEWS (WSYX) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537043&extension=ts&play_token=vlhUiKg5ZZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC DAYTON NEWS (WKEF) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537042&extension=ts&play_token=b0jn36fGUz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC DENVER NEWS (KMGH) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537041&extension=ts&play_token=JIk5rzj8Cx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC DETROIT NEWS (WXYZ) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537040&extension=ts&play_token=f16uJzEvlg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC GREENVILLE / SPARTANBURG / ASHVILLE (WLOS) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537039&extension=ts&play_token=zgYZi2cFlO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC INDIANAPOLIS (WRTV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537038&extension=ts&play_token=vVpQ0Dz9YS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC LAS VEGAS (KTNV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537037&extension=ts&play_token=mMGckHN0GG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC MEMPHIS NEWS (WATN) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537036&extension=ts&play_token=tMwNIbQxV6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC MYRTLE BEACH-FLORENCE NEWS (WPDE) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537035&extension=ts&play_token=n3U6ZbsT4a
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC NEWS LIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537034&extension=ts&play_token=kEhhhV72wy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC PHOENIX NEWS (KNXV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537033&extension=ts&play_token=RESilJur3Z
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC PORTLAND NEWS (KATU) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537032&extension=ts&play_token=EchoEYuKOL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC SAN DIEGO NEWS (KGTV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537031&extension=ts&play_token=b6IzX1ZgZF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC SEATTLE (KOMO) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537030&extension=ts&play_token=qFeGozY2TG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC TAMPA NEWS (WFTS) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537029&extension=ts&play_token=Lhl9jjUBpD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC TUCSON NEWS (KGUN) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537028&extension=ts&play_token=Erj2CYjapZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC WACO NEWS (KXXV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537027&extension=ts&play_token=Y6IZZGRh57
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC WASHINGTON D.C. (WJLA) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537026&extension=ts&play_token=4SSqoKVPvF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC11 NORTH CAROLINA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537025&extension=ts&play_token=cD1pGZHyy0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC13 HOUSTON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537024&extension=ts&play_token=4fjc4H2TF6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC30 FRESNO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537023&extension=ts&play_token=cPR16MKGI0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC7 BAY AREA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537022&extension=ts&play_token=bRdXQk9h4g
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC7 CHICAGO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537021&extension=ts&play_token=CM7VrumgGG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC7 LOS ANGELES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537020&extension=ts&play_token=5NeIras2cC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ABC7 NEW YORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537019&extension=ts&play_token=nUkv9GRkr7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACC DIGITAL NETWORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537018&extension=ts&play_token=mtdHKJNuvi
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACCORDING TO JIM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537017&extension=ts&play_token=a016RMO1CE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACCUWEATHER NOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537016&extension=ts&play_token=O4ZUcDHNw4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACORN TV MYSTERIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537015&extension=ts&play_token=IjA1uFcAki
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACTION NEWS JAX (CBS47 / FOX30) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537014&extension=ts&play_token=5PtlPtdarQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ACTIONMAX EAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537013&extension=ts&play_token=63OfdjiIFl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ADULT ANIMATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537012&extension=ts&play_token=SwpGRFdEJm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALF ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537010&extension=ts&play_token=ezodYXfkBV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALFRED HITCHCOCK PRESENTS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537009&extension=ts&play_token=X7rON95BiP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALIEN NATION BY DUST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537008&extension=ts&play_token=YSTVsAZNYM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALL DAY DRAMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537007&extension=ts&play_token=vFbXWSWRTs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALL REALITY WE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537006&extension=ts&play_token=ClC1n9oCmP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALL WEDDINGS WE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537005&extension=ts&play_token=My5pRQIobY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALL WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537004&extension=ts&play_token=McnoO2dbU8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALL-OUT ALASKA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537003&extension=ts&play_token=zEZjNbwXet
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALLBLK GEMS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537002&extension=ts&play_token=5dS4mawKsd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALWAYS CHRISTMAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537001&extension=ts&play_token=oqBiWMQheb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ALWAYS FUNNY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537000&extension=ts&play_token=AmuLyXJudO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMAZON LIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536999&extension=ts&play_token=dQCnxK5kZV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMAZON MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536998&extension=ts&play_token=lJE1Z3w6ne
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMC + ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536996&extension=ts&play_token=n0qwym2c7r
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMC THRILLERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536995&extension=ts&play_token=dn2ZufxjSg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536997&extension=ts&play_token=bwVg5U9AKS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMERICA'S DUMBEST CRIMINALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536994&extension=ts&play_token=XbGWmuRSjF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMERICA'S TEST KITCHEN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536993&extension=ts&play_token=T6wnPx3bPS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMERICAN CRIMES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536991&extension=ts&play_token=t2RkWTi2Nd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMERICAN GLADIATORS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536990&extension=ts&play_token=H3prEnifrX
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AMERICAN NINJA WARRIOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536989&extension=ts&play_token=4maTeMC7D4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANCIENT ALIENS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536986&extension=ts&play_token=zSodI8xPdE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANGER MANAGEMENT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536984&extension=ts&play_token=70V21OWGgb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANIMATION FAVORITES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536983&extension=ts&play_token=ByjHKsDf5t
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANIME X HIDIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536982&extension=ts&play_token=SqHaZH8eBm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANTIQUES ROAD TRIP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536981&extension=ts&play_token=UzkL6UV8WD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ANTIQUES ROADSHOW UK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536980&extension=ts&play_token=aiTtEAhoRd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AQUI Y AHORA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536979&extension=ts&play_token=VveXeaV3AW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ARE WE THERE YET? ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536977&extension=ts&play_token=ni50bdnCQ8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ARE YOU SMARTER THAN A 5TH GRADER? ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536976&extension=ts&play_token=aISzXghbhc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AT HOME WITH FAMILY HANDYMAN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536975&extension=ts&play_token=65LbPLZXNX
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AT THE MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536974&extension=ts&play_token=7JzAJ6Dmwi
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AWE PLUS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536973&extension=ts&play_token=0nGETlNpp6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: AX MEN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536972&extension=ts&play_token=ugk0yTi8Tx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BACHELOR NATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536970&extension=ts&play_token=TGTDMlktxc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BACKSTAGE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536969&extension=ts&play_token=HlCN10JO06
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BAD GIRLS CLUB ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536968&extension=ts&play_token=GZBMDNE9KZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BARGAIN HUNT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536967&extension=ts&play_token=p2YdfaPopG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BAYWATCH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536966&extension=ts&play_token=PYSJCHeSga
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BBC AMERICA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536965&extension=ts&play_token=biHlko3e2V
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BBC COMEDY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536964&extension=ts&play_token=UXm8cjE1Yz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BBC EARTH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536963&extension=ts&play_token=l3wWdVyWND
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BBC FOOD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536962&extension=ts&play_token=TJHmvuNT69
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BBC NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536959&extension=ts&play_token=wjcj39L52m
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BEACH DAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536956&extension=ts&play_token=jEiagWh4PH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BET X TYLER PERRY COMEDY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536953&extension=ts&play_token=43RLztyrkd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BET X TYLER PERRY DRAMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536952&extension=ts&play_token=ED1F34aG9y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BEYOND BELIEF ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536951&extension=ts&play_token=R7aZrhUItt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BIG 12 STUDIOS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536950&extension=ts&play_token=8jQJtY6bi9
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BILLIARD TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536949&extension=ts&play_token=xkRC3Gue1c
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BIZARRE FOODS WITH ANDREW ZIMMERN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536948&extension=ts&play_token=QS7AQQOaCx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BLACK LOVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536947&extension=ts&play_token=fn82aFSShQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BLACK VOICES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536946&extension=ts&play_token=xCKXVJtAGA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BLOOMBERG ORIGINALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536945&extension=ts&play_token=iviAmR22qf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BLOOMBERG TV+ ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536944&extension=ts&play_token=Y3NjmwcAgM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BONDI RESCUE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536943&extension=ts&play_token=ZTBIgP61DQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BOSCH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536942&extension=ts&play_token=9RYZ0mbS3W
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BOSTON 25 NEWS (FOX) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536941&extension=ts&play_token=EDfd7T551f
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BOUNCEXL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536940&extension=ts&play_token=MehYVrXNpf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BRAVO VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536939&extension=ts&play_token=FbqHueYR69
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BRITBOX MYSTERIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536938&extension=ts&play_token=HnrUJxskms
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BUZZFEED UNSOLVED ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536935&extension=ts&play_token=D3xmvDFG91
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: BUZZR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536934&extension=ts&play_token=TvogOJbjLO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CAR CHASE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536933&extension=ts&play_token=a0tIC6Ygwa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CARTOON REWIND ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536932&extension=ts&play_token=mHC41EkryZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CASO CERRADO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536931&extension=ts&play_token=Jsk99vw31c
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBC NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536929&extension=ts&play_token=KLjAuFmlwn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS AUSTIN NEWS (KEYE) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536928&extension=ts&play_token=Yl5Y3muaKN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS CINCINNATI NEWS (WKRC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536922&extension=ts&play_token=Cglxj5bsyz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS EL PASO NEWS (KDBC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536921&extension=ts&play_token=7vNXFYcn7r
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS GRAND RAPIDS (WWMT) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536920&extension=ts&play_token=0BlMAkvrrm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS HARRISBURG (WHP) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536919&extension=ts&play_token=m7l6WwH8Bn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS HOUSTON NEWS (KHOU 11) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536918&extension=ts&play_token=bSIghkf5r7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NASHVILLE (WTVF) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536917&extension=ts&play_token=1X1AVwdTYa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS 24/7 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536916&extension=ts&play_token=kDBAZM6HeA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS BAY AREA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536915&extension=ts&play_token=6aisqNnukD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS BOSTON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536914&extension=ts&play_token=9Ep1eWTAmt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS CHICAGO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536913&extension=ts&play_token=lLosJML4J1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS COLORADO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536912&extension=ts&play_token=vkrtRPyrgd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS DETROIT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536911&extension=ts&play_token=kdyFKmec8r
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS LOS ANGELES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536910&extension=ts&play_token=9QfN7YLxtA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS MINNESOTA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536909&extension=ts&play_token=3pvL8TiJ5v
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS NEW YORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536908&extension=ts&play_token=YYmqUprPqf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS PHILADELPHIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536907&extension=ts&play_token=EB6uNqyxAj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS PITTSBURGH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536906&extension=ts&play_token=yVxdn26WZt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NEWS TEXAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536905&extension=ts&play_token=9lcpcGNnyz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS NORFOLK (WTKR) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536904&extension=ts&play_token=nN8FUkv3YW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS OMAHA NEWS (KMTV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536903&extension=ts&play_token=HRjUnFLlRI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS RICHMOND NEWS (WTVR) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536902&extension=ts&play_token=HPKKOc518t
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS SALT LAKE CITY (KUTV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536901&extension=ts&play_token=AvE6M47BYl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS SOUTH BEND NEWS (WSBT) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536900&extension=ts&play_token=uQuu9olHHP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS SPORTS GOLAZO NETWORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536899&extension=ts&play_token=iJKskgzxxp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS WASHINGTON DC NEWS (WUSA 9) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536897&extension=ts&play_token=xfrNl8fXZf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CBS WEST PALM BEACH NEWS (WPEC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536896&extension=ts&play_token=RmDuGnOaL5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CELEBRITY NAME GAME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536895&extension=ts&play_token=gpZJOH5V6Q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CHAOS ON CAM BY A&E ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536894&extension=ts&play_token=2lKfQlypVr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CHASING CRIMINALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536893&extension=ts&play_token=YIa4HtCWB5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CHEATERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536892&extension=ts&play_token=L6OigoE6L5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CHOPPERTOWNTV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536890&extension=ts&play_token=6Y8cmIElNC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CHRIS HANSEN'S TRUBLU CRIME NETWORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536889&extension=ts&play_token=e916Ck9jCs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINE DE ORO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536887&extension=ts&play_token=HgMX95FKEc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINE RETRO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536885&extension=ts&play_token=6K5Uo1RAit
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINEMAX EAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536884&extension=ts&play_token=B5V3EFn8bq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINEMAX WEST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536883&extension=ts&play_token=2ocLGqE0LY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINEVAULT CLASSICS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536881&extension=ts&play_token=dBXzXyPBBj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINEVAULT WESTERNS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536880&extension=ts&play_token=0pgwn3PGDR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CINEVAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536882&extension=ts&play_token=dry4tCDWqW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CIRCLE COUNTRY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536879&extension=ts&play_token=vLUSKCfuZV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CIRQUE DU SOLEIL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536878&extension=ts&play_token=LiVCUucYYD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CLASSIC CAR AUCTIONS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536877&extension=ts&play_token=mXsD2z2jaz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CLASSIC CINEMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536876&extension=ts&play_token=c0bJn5Cf3D
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CLASSIC DOCTOR WHO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536875&extension=ts&play_token=zZ59udKuhh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CNN HEADLINES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536874&extension=ts&play_token=J4r9RVYHqr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CNN ORIGINALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536872&extension=ts&play_token=53V6YcF7iS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CNÑ XPRESS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536871&extension=ts&play_token=hshKGbsxmc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COLD CASE FILES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536869&extension=ts&play_token=6TlZDMCKFh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COMBAT WAR CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536868&extension=ts&play_token=51xrhHVAdQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COME DINE WITH ME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536867&extension=ts&play_token=sYnzhIMpFB
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COMEDY DYNAMICS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536866&extension=ts&play_token=NZ3T43Qcmg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COMO DICE EL DICHO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536865&extension=ts&play_token=Vqbs13cdHE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CONFESS BY NOSEY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536863&extension=ts&play_token=WAaiZt3cyH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COOK'S COUNTRY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536862&extension=ts&play_token=kLslVyX6qx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CORNER GAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536860&extension=ts&play_token=tjhbbjQLhP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COUPLES COURT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536859&extension=ts&play_token=BKIWMDpCzD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COURT TV LEGENDARY TRIALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536857&extension=ts&play_token=yqUhDCpmTr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: COURT TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536858&extension=ts&play_token=TPyqw0zKnl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRIME & JUSTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536856&extension=ts&play_token=eWBxB6wIVR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRIME CULTS KILLERS BY A&E ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536855&extension=ts&play_token=EDvtzDRVpb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRIME SCENES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536854&extension=ts&play_token=rw43Ft2HZH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRIME THRILLHER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536853&extension=ts&play_token=ep11FIDMle
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRIMEN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536852&extension=ts&play_token=jknGeOmvgz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CRUNCHYROLL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536851&extension=ts&play_token=L5pWcBqnY6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CSI ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536850&extension=ts&play_token=bExa0eTJJC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CURB APPEAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536849&extension=ts&play_token=A84zSAOBjn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CW FOREVER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536848&extension=ts&play_token=DpgWGUNIOu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: CW GOLD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536847&extension=ts&play_token=EX7FIkVAzD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DANCE MOMS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536846&extension=ts&play_token=1i8o8Jmsv8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DATELINE 24/7 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536845&extension=ts&play_token=73e2i3offb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DEAL OR NO DEAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536843&extension=ts&play_token=KVqrh1RaX6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DEAL ZONE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536842&extension=ts&play_token=vD2oCSQz9l
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DEATH VALLEY DAYS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536841&extension=ts&play_token=bnuerZj43k
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DEGRASSI ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536840&extension=ts&play_token=Fk5c1DnMbj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DESIGNATED SURVIVOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536839&extension=ts&play_token=ZRVuCZmtEa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DINOS 24/7 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536838&extension=ts&play_token=jY2ynukr55
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DIVORCE COURT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536837&extension=ts&play_token=feAjbrueOR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DOG THE BOUNTY HUNTER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536835&extension=ts&play_token=Ehdhrqm72a
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DON'T TELL THE BRIDE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536834&extension=ts&play_token=MrCfFpMG1T
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DOVE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536833&extension=ts&play_token=o2pIzFV8lv
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DP WORLD TOUR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536832&extension=ts&play_token=KoCqgglSFR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DR G MEDICAL EXAMINER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536831&extension=ts&play_token=6wKKwcsEWd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DR. PHIL PRIMETIME ON MERIT STREET ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536829&extension=ts&play_token=GCl7rJ4RBu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DR. PHIL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536830&extension=ts&play_token=dJDWv84KGx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DUCK DYNASTY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536828&extension=ts&play_token=gvxKLfaBRk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: DUNGEONS & DRAGONS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536827&extension=ts&play_token=3N06LJeyyE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: E! KEEPING UP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536826&extension=ts&play_token=3GgnasZGJq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EARTHDAY 365 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536825&extension=ts&play_token=L7klAUIBmn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EBONY TV BY LIONSGATE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536824&extension=ts&play_token=wL2SNqoNzm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EL REY REBEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536822&extension=ts&play_token=xtQkP2zUIQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ELECTRIC NOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536821&extension=ts&play_token=urVzCuWcYD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ELLEN DEGENERES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536820&extension=ts&play_token=Wg6HPVWvfD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ESPN OCHO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536816&extension=ts&play_token=pLfb8qFS58
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ESTRELLA NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536815&extension=ts&play_token=DF8NwR1rdJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ESTRELLA TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536814&extension=ts&play_token=FIwnQwdiqd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ET ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536813&extension=ts&play_token=M40VPEw5jk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EXTREME EXPEDITIONS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536810&extension=ts&play_token=p0m8GKWThH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EXTREME JOBS BY LIONSGATE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536809&extension=ts&play_token=Vpras09r9X
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EXTREME LIVING ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536808&extension=ts&play_token=BDh08rbYRP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: EXTREME MAKEOVER: HOME EDITION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536807&extension=ts&play_token=2Fh75m0HkF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: F1 TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536806&extension=ts&play_token=RM8qbg6EJ9
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FAILARMY STREAM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536805&extension=ts&play_token=Pyzz5klNHN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FAITHFULLY FUNNY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536804&extension=ts&play_token=5uDHttdRuE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FAMILY FEUD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536803&extension=ts&play_token=ElPxPQekEQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FAMILY UNSCRIPTED ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536801&extension=ts&play_token=Bs30xCsaC3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FANDUEL SPORTS NETWORK DETROIT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536800&extension=ts&play_token=c1n48vxeb8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FANDUEL SPORTS NETWORK EXTRA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536799&extension=ts&play_token=E0nFnQplOq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FARSCAPE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536798&extension=ts&play_token=O7Qw1nT4Gq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FEAR FACTOR USA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536797&extension=ts&play_token=GrugRnZsDO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FGTEEV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536796&extension=ts&play_token=HGl0RK9Bpe
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FIFTH GEAR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536795&extension=ts&play_token=Ll9cR3JgV0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE ACTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536794&extension=ts&play_token=EQvsr7FC3E
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE BLACK TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536793&extension=ts&play_token=BgRpuX7HIH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE BRITISH TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536792&extension=ts&play_token=A2JUnjoqG3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE CLASSIC TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536791&extension=ts&play_token=ULZtPl852q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE FREE MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536790&extension=ts&play_token=uyCEZALSY8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE TRUE CRIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536789&extension=ts&play_token=FOz1N7yKsD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FILMRISE WESTERNS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536788&extension=ts&play_token=7etdnMqWl0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FORENSIC FILES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536787&extension=ts&play_token=EOt6HAFNh3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 10 PHOENIX ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536786&extension=ts&play_token=v3K9G2idNJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 11 LOS ANGELES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536785&extension=ts&play_token=fudJnuqdEn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 13 SEATTLE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536784&extension=ts&play_token=clG9I9f5z6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 13 TAMPA BAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536783&extension=ts&play_token=sQKWGXxSTH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 2 DETROIT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536782&extension=ts&play_token=n4F65LV5xq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 2 SAN FRANCISCO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536781&extension=ts&play_token=1VeNL4RFGZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 26 HOUSTON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536780&extension=ts&play_token=bxPlhnJQej
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 29 PHILADELPHIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536779&extension=ts&play_token=3yM2Y6hxm1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 32 CHICAGO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536778&extension=ts&play_token=65HUQHHSOz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 35 ORLANDO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536777&extension=ts&play_token=zEm5im3wRV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 4 DALLAS FORT WORTH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536776&extension=ts&play_token=bLSCghDrNZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 5 ATLANTA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536775&extension=ts&play_token=FUdStfex4X
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 5 NEW YORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536774&extension=ts&play_token=a2Vo1A0gjV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 5 WASHINGTON DC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536773&extension=ts&play_token=PyyscTJqh4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 6 MILWAUKEE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536772&extension=ts&play_token=G66Q6oYoWV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 7 AUSTIN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536771&extension=ts&play_token=OB1DD35bdh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX 9 MINNEAPOLIS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536770&extension=ts&play_token=2in7Mc3rgY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX BALTIMORE NEWS (WBFF) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536769&extension=ts&play_token=Tjk2iY71uV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX FORT MYERS NEWS (WFTX) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536768&extension=ts&play_token=Fb7cnjmYjU
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX FRESNO NEWS (KMPH) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536767&extension=ts&play_token=jpTUIH8O5q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX GRAND RAPIDS NEWS (WXMI) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536766&extension=ts&play_token=HTLkVdnE3c
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX GREEN BAY NEWS (WLUK) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536765&extension=ts&play_token=n6kOvi8vWk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX MEMPHIS NEWS (WHBQ) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536764&extension=ts&play_token=qAMfu3iwCO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX OKLAHOMA CITY (KOKH) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536763&extension=ts&play_token=xSQ69c0OEl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX SALT LAKE CITY NEWS (KSTU) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536762&extension=ts&play_token=aFTiIjwBUD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX SOUL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536761&extension=ts&play_token=4NCiNbY0Bk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX TULSA NEWS (KOKI) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536760&extension=ts&play_token=ySGJLQudP5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FOX WEATHER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536759&extension=ts&play_token=H1qslWYygf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FUNNY FAVORITES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536757&extension=ts&play_token=1Svy41CsOa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: FV AMC EN ESPAÑOL US ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536756&extension=ts&play_token=rEwa4Tit2X
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GALANES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536755&extension=ts&play_token=mza25f1iqS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GAME SHOW CENTRAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536753&extension=ts&play_token=MqSSxCGHxb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GAMEPLAY MINECRAFT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536752&extension=ts&play_token=ixxNq7Ie9z
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GAMEPLAY ROBLOX ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536751&extension=ts&play_token=zQxqLpNExH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GARDENING WITH MONTY DON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536750&extension=ts&play_token=YL8QsB0k0Y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GENERAL HOSPITAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536749&extension=ts&play_token=e4bip7EpVn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GET COMEDY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536745&extension=ts&play_token=iUAoWVJ3C2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GHOST HUNTERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536744&extension=ts&play_token=4ws9PhbjSx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GHOSTS ARE REAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536743&extension=ts&play_token=02blFYtoYF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GLORY KICKBOXING ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536742&extension=ts&play_token=QCqEgQR1wa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GOLFPASS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536741&extension=ts&play_token=OYMIx8vm0y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GRANDES PAREJAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536738&extension=ts&play_token=DmrvzTjAmy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GREAT AMERICAN ADVENTURES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536736&extension=ts&play_token=jMGXIb3c49
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GREAT BRITISH MENU ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536735&extension=ts&play_token=LqKcLVeK7T
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GREEN ACRES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536734&extension=ts&play_token=qjeCzgmncm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GRIT XTRA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536733&extension=ts&play_token=N106Q0GsBl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: GROWING UP HIP HOP WE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536732&extension=ts&play_token=aOffdZQZyg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HALLMARK MOVIES & MORE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536730&extension=ts&play_token=o9wIdWGyWL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HARLEM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536729&extension=ts&play_token=Mc9q4lWLg0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HAUNTTV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536727&extension=ts&play_token=S5tpILjpml
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO 2 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536725&extension=ts&play_token=QJDNDi4hFH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO BOXING ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536724&extension=ts&play_token=AowWUiRdXP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO COMEDY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536723&extension=ts&play_token=zW8Qj9WvxV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO LATINO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536721&extension=ts&play_token=amLSXCbE96
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO SIGNATURE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536720&extension=ts&play_token=Oh8LveCiVF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO WEST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536719&extension=ts&play_token=0C73KRr9Ut
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO ZONE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536718&extension=ts&play_token=an5U5XQ8gV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HBO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536726&extension=ts&play_token=rLPhd0D0lm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HELL'S KITCHEN/KITCHEN NIGHTMARES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536716&extension=ts&play_token=SZROdxueGy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HERSPHERE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536715&extension=ts&play_token=eklMHysonF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HI-YAH! ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536714&extension=ts&play_token=eMwGCTBVTf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HISTORY & UNDISCOVERED ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536712&extension=ts&play_token=el5n1EhCw1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HISTORY HIT CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536711&extension=ts&play_token=tWBWFEuuZg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HISTORY UNTOLD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536710&extension=ts&play_token=m6yTwd9osP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HIT SITCOMS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536709&extension=ts&play_token=foPpCbcGIU
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOLIDAYSCAPES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536708&extension=ts&play_token=pCKKyI5FfK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOME CRASHERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536707&extension=ts&play_token=POyuZXTABj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOME.MADE.NATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536706&extension=ts&play_token=UkHZJFwqVF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOMEFUL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536705&extension=ts&play_token=RvcvbOCV7z
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HORROR STORIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536704&extension=ts&play_token=M8LfTx7psA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOT ONES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536703&extension=ts&play_token=XmOQoHPkdy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HOW TO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536702&extension=ts&play_token=qFjWq1StNf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HSN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536701&extension=ts&play_token=NzR4rMEJAN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HUNTER X HUNTER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536699&extension=ts&play_token=uI4gUa9sou
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: HUNTER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536700&extension=ts&play_token=z6yydZSOLa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: I  (ALMOST) GOT AWAY WITH IT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536698&extension=ts&play_token=u9I9Z7Pu0R
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: I WAS HAUNTED ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536697&extension=ts&play_token=XFGx6K0aH3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ICE ROAD TRUCKERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536696&extension=ts&play_token=OjjwlQC0hX
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IFC FILMS PICKS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536694&extension=ts&play_token=8JfAGDzlRI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IFC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536695&extension=ts&play_token=Htw83sEoKK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IMPACT GOSPEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536693&extension=ts&play_token=D20BXVdwJK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IMPOSSIBLE - QUIZ SHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536692&extension=ts&play_token=0zdg0YQRnp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IN THE GARAGE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536691&extension=ts&play_token=grCxx8Bdzh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IN THE HEAT OF THE NIGHT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536690&extension=ts&play_token=G81Iz920Bu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IN TOUCH + ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536689&extension=ts&play_token=ueMlymBfiO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: INSIDE EDITION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536688&extension=ts&play_token=3RavVhs9c2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ION MYSTERY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536686&extension=ts&play_token=TuWnBWtvTo
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ION PLUS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536685&extension=ts&play_token=OSyR1IFh1y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536687&extension=ts&play_token=HUjhRC33Ej
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: IRON CHEF ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536684&extension=ts&play_token=Aw3FVCw2YY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ISN'T IT ROMANTIC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536683&extension=ts&play_token=DtoxNYsTAP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JAIL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536682&extension=ts&play_token=1UTPT4Jwxc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JAJAJA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536680&extension=ts&play_token=8ETFL7MqC3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JAMIE OLIVER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536679&extension=ts&play_token=N9t3TpYnTJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JEWISH LIFE TELEVISION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536678&extension=ts&play_token=nwf8EwhzWp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JOEL OSTEEN CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536677&extension=ts&play_token=4ctUVtUiXM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JOHNNY CARSON TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536676&extension=ts&play_token=bcMgqnBLly
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JUDGE & JURY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536675&extension=ts&play_token=qqOOMw3wHb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JUDGE NOSEY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536674&extension=ts&play_token=tpAnJJl3VW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: JUDY JUSTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536673&extension=ts&play_token=BX1P40lon5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: KARAMO PRESENTED BY NOSEY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536672&extension=ts&play_token=iBsghuKO3q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: KIDS & FAMILY FUN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536671&extension=ts&play_token=9MPf9SiF3a
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: KIDS IN THE HALL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536670&extension=ts&play_token=lGtZVvMu9M
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: KIM'S CONVENIENCE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536669&extension=ts&play_token=WWli8ofUZk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: KIRO SEATTLE (CBS) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536668&extension=ts&play_token=0hCBetNUa3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LAFF MORE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536664&extension=ts&play_token=ZR95lfXBxK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LAS 3 MARIAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536663&extension=ts&play_token=FqhbFzEEtk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LASSIE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536661&extension=ts&play_token=HxilWZOWGu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LATINO VIBES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536660&extension=ts&play_token=Zs2fNqfJUY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LAW & CRIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536659&extension=ts&play_token=OMehgLQZaE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LAWLESS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536658&extension=ts&play_token=faxg2f7JVA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LEAVE IT TO BEAVER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536657&extension=ts&play_token=7o3ipitIv1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LET'S MAKE A DEAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536656&extension=ts&play_token=pAyLiAzSsV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LEVERAGE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536655&extension=ts&play_token=p1p5aDJDSG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIDIA'S KITCHEN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536654&extension=ts&play_token=4YpRwnuUTO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIFE AND LEGEND OF WYATT EARP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536653&extension=ts&play_token=9kRzfSpAXj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIFE BELOW ZERO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536652&extension=ts&play_token=vT5UFQYWLf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIFETIME MOVIES LOVE & DRAMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536651&extension=ts&play_token=e0fExpSUZQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LITTLE HOUSE ON THE PRAIRIE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536650&extension=ts&play_token=fCYVaJ3clO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIVE NOW BY FOX ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536649&extension=ts&play_token=1p8xWirMQb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIVE PD PRESENTS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536648&extension=ts&play_token=SL1bnQycW6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LIVING WITH EVIL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536647&extension=ts&play_token=RKbIxMy6tJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOCALISH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536644&extension=ts&play_token=tiDcnTyuIp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOCKED UP ABROAD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536643&extension=ts&play_token=AJs6qHn5kL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LONG LOST FAMILY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536641&extension=ts&play_token=KEIf7yFsI0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOVE AFTER LOCKUP WE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536640&extension=ts&play_token=Tua1JJzzc7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOVE AND MARRIAGE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536639&extension=ts&play_token=wXa9fQToFW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOVE KILLS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536638&extension=ts&play_token=TEjzeCzP4Q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOVE NATURE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536637&extension=ts&play_token=XmjrNiWfRv
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: LOVE PETS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536636&extension=ts&play_token=PtGq2sTiKs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MAGELLANTV WILDEST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536635&extension=ts&play_token=X3RcJaqtLY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MATCHED MARRIED MEET ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536634&extension=ts&play_token=HjEwSQdoSl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MAVERICK BLACK CINEMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536633&extension=ts&play_token=HLknjUczA8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MAX LATINO EAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536632&extension=ts&play_token=s5gDVCg8fR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MEATEATER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536631&extension=ts&play_token=Zxow59y0Jf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MEDICAL INCREDIBLE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536630&extension=ts&play_token=P9dOAKtI4f
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM CELEBRATES BLACK CINEMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536628&extension=ts&play_token=aI2Swx0CZ0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM PRESENTS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536627&extension=ts&play_token=tGH9aOfb9N
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM PRESENTS: ACTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536626&extension=ts&play_token=NzMyr4UZYQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM PRESENTS: HORROR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536625&extension=ts&play_token=7K9HJ9eDGN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM PRESENTS: WESTERNS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536624&extension=ts&play_token=0xJER8X8IS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM+ DRIVE-IN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536622&extension=ts&play_token=HZVMseOD3F
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM+ HITS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536621&extension=ts&play_token=Es6kVvUnWR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM+ MARQUEE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536620&extension=ts&play_token=1JDkCmAnVJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MGM+ ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536623&extension=ts&play_token=YKudIMaRgf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MHZ MYSTERIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536619&extension=ts&play_token=tox3Vxm26K
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MIDSOMER MURDERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536617&extension=ts&play_token=FZf1p0yghw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MILITARY HEROES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536616&extension=ts&play_token=cC8Wrh8VdH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MILLION DOLLAR LISTING VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536614&extension=ts&play_token=Xv2hnSopxE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MIRAMAX MOVIE CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536613&extension=ts&play_token=yYJerS387t
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MLB ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536612&extension=ts&play_token=lEg5dbTnUv
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MODERN INNOVATIONS BY HISTORY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536611&extension=ts&play_token=MxVIY6vCzj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MODERN MARVELS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536610&extension=ts&play_token=fE3dYIEtrr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MONSTER JAM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536609&extension=ts&play_token=8w3JAxJtSr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MONSTERS ARE REAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536608&extension=ts&play_token=0lGSMG1XlQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MOREMAX EAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536606&extension=ts&play_token=i90asDqv1Z
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MOTORTREND FAST TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536605&extension=ts&play_token=rXgSozAtd1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MOVIE FAVORITES BY LIFETIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536604&extension=ts&play_token=4oGsyvX0xF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536602&extension=ts&play_token=o3X9GrJRhh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MOVIESPHERE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536601&extension=ts&play_token=TDizLh0ZxM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MRBEAST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536600&extension=ts&play_token=aV8gh8kw0B
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MSG SPORTSZONE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536599&extension=ts&play_token=MrfVNfOSfw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MURDER, SHE WROTE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536598&extension=ts&play_token=YmyVFwz3xX
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MY FIRST PLACE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536597&extension=ts&play_token=m1L5yjyxDJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MYSTERIOUS WORLDS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536596&extension=ts&play_token=z7rndNtRah
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MYSTERY SCIENCE THEATER 3000 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536595&extension=ts&play_token=tM2TkdE8vA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MYTHBUSTERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536594&extension=ts&play_token=6HWay1hZ3k
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: MYTHICAL 24/7 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536593&extension=ts&play_token=lUtcXF7QKy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NASCAR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536588&extension=ts&play_token=KwKZKpfyjP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NASH BRIDGES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536587&extension=ts&play_token=tomY5M3l3H
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NASHVILLE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536586&extension=ts&play_token=Iy7h165ATu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NAT GEO SHARKS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536585&extension=ts&play_token=QyjfkWmJ0z
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NATIONAL LAMPOON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536584&extension=ts&play_token=caLZuusM5b
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NATURESCAPE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536583&extension=ts&play_token=zuIUwsac8I
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBA TV HDTV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536581&extension=ts&play_token=tR0QzLbFy5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536582&extension=ts&play_token=DrEpCjVO6x
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 10 BOSTON NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536580&extension=ts&play_token=UIShKSAGKs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 10 PHILADELPHIA NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536579&extension=ts&play_token=Mr9RPhhdvI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 4 LOS ANGELES NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536578&extension=ts&play_token=slW0kJtnCh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 4 NEW YORK NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536577&extension=ts&play_token=lId9MHg9HS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 4 WASHINGTON NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536576&extension=ts&play_token=oloKuXcdic
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 5 CHICAGO NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536575&extension=ts&play_token=8EZzJD74bn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 5 DALLAS-FORT WORTH NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536574&extension=ts&play_token=1jK8pm6yVK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 6 SOUTH FLORIDA NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536573&extension=ts&play_token=2Lai5A1EfN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC 7 SAN DIEGO NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536572&extension=ts&play_token=bXqONz3IY0
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC ATLANTA NEWS (11ALIVE WXIA) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536571&extension=ts&play_token=vs5kNsaiI5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC BAY AREA NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536570&extension=ts&play_token=ORWfajaL3Q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC COLORADO SPRINGS NEWS (KOAA) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536569&extension=ts&play_token=lTOnesIpwV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC COMEDY VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536568&extension=ts&play_token=erNQQmMXLx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC CONNECTICUT NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536567&extension=ts&play_token=1ObPUyITXU
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC GREEN BAY NEWS (WGBA) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536566&extension=ts&play_token=XFV0mdEJke
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC KANSAS CITY (KSHB) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536565&extension=ts&play_token=iOZVwznmHA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC LAS VEGAS NEWS (KSNV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536564&extension=ts&play_token=OniB11dWBb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC LEXINGTON NEWS (WLEX) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536563&extension=ts&play_token=FJwSAbeZNG
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC LX HOME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536562&extension=ts&play_token=bfZR7r4dpO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC MILWAUKEE NEWS (WTMJ) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536561&extension=ts&play_token=VILtdTH3BY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC NEWS NOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536560&extension=ts&play_token=fohbnALy4J
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC PROVIDENCE-NEW BEDFORD NEWS (WJAR) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536559&extension=ts&play_token=SNVoKnjO2y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC SAN ANTONIO NEWS (WOAI) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536558&extension=ts&play_token=bDbMYDcCy3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC SPORTS NOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536557&extension=ts&play_token=Kkyw7uwLwz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC ST. LOUIS NEWS (KSDK) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536556&extension=ts&play_token=BOx5K0iLkC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NBC WEST PALM BEACH (WPTV) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536555&extension=ts&play_token=UmJq7AYfpv
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NESN NATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536554&extension=ts&play_token=iJx5JZIupA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NHL CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536553&extension=ts&play_token=1H67VXTOty
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NHRA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536552&extension=ts&play_token=NgIwJkLyJA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NIKITA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536551&extension=ts&play_token=Src6Dntj2q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NIP / TUCK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536550&extension=ts&play_token=HqpMEYdJmd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NO RESERVATIONS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536549&extension=ts&play_token=4QyuAuxh5O
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NOSTALGIC HITS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536546&extension=ts&play_token=AJHxXjWECL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NOTICIAS TELEMUNDO AHORA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536545&extension=ts&play_token=f9TFdGu5va
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NOTICIAS UNIVISION 24/7 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536544&extension=ts&play_token=oCpl0WbPQu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: NYPD BLUE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536542&extension=ts&play_token=aCCmtM1tAV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ONE CHAMPIONSHIP TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536540&extension=ts&play_token=8SRvMC02Ur
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: OUTERSPHERE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536538&extension=ts&play_token=rnZ1aBCBgH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: OUTLAW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536537&extension=ts&play_token=hVgkwOKmib
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: OUTTV PROUD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536536&extension=ts&play_token=HA232T0LgO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: OVERTIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536535&extension=ts&play_token=RIGthpw39B
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: OXYGEN TRUE CRIME ARCHIVES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536534&extension=ts&play_token=FFAQPf2XM4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PAC-12 INSIDER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536533&extension=ts&play_token=09JOZErduQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PARANORMAL FILES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536532&extension=ts&play_token=PiUN9JCFpO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PAW PATROL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536530&extension=ts&play_token=VKcRRgXTpO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PAWS AND CLAWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536529&extension=ts&play_token=LiTNAMjGRK
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS ANTIQUES ROADSHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536528&extension=ts&play_token=AlHSyOZsT5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS DOCUMENTARIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536527&extension=ts&play_token=yj2gOXgHaC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS DRAMA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536526&extension=ts&play_token=l6bq521lTp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS FOOD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536525&extension=ts&play_token=fvX3C5ZXtt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS GENEALOGY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536524&extension=ts&play_token=YVIFHg3jXO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS NATURE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536522&extension=ts&play_token=KdqItpVQEJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PBS TRAVEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536520&extension=ts&play_token=pjexl5f8nj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PERFORM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536518&extension=ts&play_token=IAMogFUyCg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PERSONAL INJURY COURT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536517&extension=ts&play_token=Jj1yLLQbhs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PGA TOUR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536516&extension=ts&play_token=DMjvbwy4VA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PICKLEBALLTV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536515&extension=ts&play_token=Zrh0BDxzN5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PICKLETV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536514&extension=ts&play_token=QdATqcfyuW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PINK PANTHER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536513&extension=ts&play_token=iMyOsO11ZL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PIXL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536512&extension=ts&play_token=JOiXyvOOJ2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PLACES & SPACES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536511&extension=ts&play_token=BQA6y0VKaa
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: POKÉMON ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536509&extension=ts&play_token=hEQGpRW1fj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PORTLANDIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536508&extension=ts&play_token=8gs2L1wyy1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: POWER RANGERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536507&extension=ts&play_token=HbAkiivBfN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: POWERNATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536506&extension=ts&play_token=B2cREEC4Gs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PRESCHOOL CORNER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536505&extension=ts&play_token=8yUIV4pwqS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PRIMETIME SOAPS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536504&extension=ts&play_token=JsqWBDK1XA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: PUREFLIX TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536502&extension=ts&play_token=ZMfgxps3wk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: QELLO CONCERTS BY STINGRAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536501&extension=ts&play_token=DzlVBmCTPf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: QVC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536500&extension=ts&play_token=2Ibf0TDHMR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RACER SELECT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536498&extension=ts&play_token=aNHtH4xBB4
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REAL DISASTER CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536495&extension=ts&play_token=WdCvGDcEdS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REAL HOUSEWIVES VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536494&extension=ts&play_token=SCvyxl21Ny
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REAL MADRID TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536493&extension=ts&play_token=yWqUXQlodh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REALITY GONE WILD ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536492&extension=ts&play_token=uhbtOoW9W9
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REALITY TV: COMPETITION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536491&extension=ts&play_token=5R9nibdIIr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REALITY TV: SHORES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536490&extension=ts&play_token=LqMn0Rsi21
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REBELDE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536489&extension=ts&play_token=WvkLQ5aopB
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RED BULL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536488&extension=ts&play_token=w8JE8fYbrn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REELZ FAMOUS AND INFAMOUS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536487&extension=ts&play_token=ygOtVvyehk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RELATIVE JUSTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536486&extension=ts&play_token=vjX9aoc6Yy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REUTERS 60 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536485&extension=ts&play_token=nmTTXcHAxc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: REVRY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536484&extension=ts&play_token=qQIIvHsTJu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RIFFTRAX ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536483&extension=ts&play_token=jL2tN5Ip2E
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ROVR PETS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536478&extension=ts&play_token=TRsLVDUJlT
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RUGBYPASS TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536477&extension=ts&play_token=PVvcByUOFF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RUPAUL'S DRAG RACE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536476&extension=ts&play_token=0ebrYpA6fw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RUSTIC RETREATS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536475&extension=ts&play_token=xSab8D495b
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: RYZ SPORTS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536474&extension=ts&play_token=jEiAXllZeb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SAVED BY THE BELL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536472&extension=ts&play_token=QkCBtU3i1j
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SAY YES TO THE DRESS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536471&extension=ts&play_token=FNjMXwRpAz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCARES BY SHUDDER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536470&extension=ts&play_token=nt6SYORSNo
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCIENCE IS AMAZING ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536469&extension=ts&play_token=KfqdtuM191
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCREAMBOXTV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536468&extension=ts&play_token=PJ6IymwOAc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCREENPIX ACTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536466&extension=ts&play_token=MRV8uAYQTy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCREENPIX VOICES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536465&extension=ts&play_token=smSlP79Rwd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCREENPIX WESTERNS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536464&extension=ts&play_token=1nWcGEVMpV
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCREENPIX ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536467&extension=ts&play_token=0cJaG277Ib
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SCRIPPS NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536463&extension=ts&play_token=WaKqEPHc9q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SHADES OF BLACK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536462&extension=ts&play_token=8mDk5v1vkS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SHERIFFS: EL DORADO COUNTY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536461&extension=ts&play_token=3dp5mbEBVc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SHOUT! MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536460&extension=ts&play_token=qUV2CjIVqY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SHOWTIME WEST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536458&extension=ts&play_token=K1twCdApUc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SHOWTIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536459&extension=ts&play_token=CexA9oJvbl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SILENT WITNESS & NEW TRICKS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536457&extension=ts&play_token=ff9gkU9go7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SKY NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536456&extension=ts&play_token=0kB3OcJgEF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SLIGHTLY OFF IFC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536455&extension=ts&play_token=cLOAjo86w6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SNL VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536454&extension=ts&play_token=wKzHqyoyyp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPACE & BEYOND ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536451&extension=ts&play_token=TkZc6GV9dC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPEED SPORT 1 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536450&extension=ts&play_token=3odXLReXWm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPEEDVISION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536449&extension=ts&play_token=lifAupz670
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPONGEBOB SQUAREPANTS UNIVERSE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536448&extension=ts&play_token=q1CRgIIMRx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPOOKS (MI-5) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536447&extension=ts&play_token=RctBA7q8Gt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SPORTSGRID ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536446&extension=ts&play_token=2XobRbXmuA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: STADIUM ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536445&extension=ts&play_token=3Wj3TLXo4o
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: STAR TREK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536444&extension=ts&play_token=fF9LEp7qfI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: STARGATE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536443&extension=ts&play_token=F8FSHgyHfC
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: STARTALK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536442&extension=ts&play_token=2MVKnG84Vt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: STORAGE WARS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536434&extension=ts&play_token=RY61Y0RxOI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SUNDANCE TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536432&extension=ts&play_token=JULLqc90YZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SUPERMARKET SWEEP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536431&extension=ts&play_token=1wJZ7iAy0o
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SUPERNANNY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536430&extension=ts&play_token=TIyK4O0EjQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SURVIVE OR DIE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536429&extension=ts&play_token=9sJJ0CyUM2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SURVIVOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536428&extension=ts&play_token=WvKRhWhRps
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SWEET ESCAPES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536427&extension=ts&play_token=il3lPFkMmo
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: SWERVE COMBAT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536426&extension=ts&play_token=Lj31kLbssL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: T.D. JAKES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536425&extension=ts&play_token=UoBsrCgLJt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TASTEMADE HOME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536423&extension=ts&play_token=KHC9rMbpg5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TASTEMADE TRAVEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536422&extension=ts&play_token=IHAC8l2Lph
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TASTEMADE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536424&extension=ts&play_token=llwTIVHfR7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TBN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536420&extension=ts&play_token=YbGVFiQJNn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TBN'S WOMEN OF FAITH ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536419&extension=ts&play_token=ZPwQn4G4B2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TEAM USA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536418&extension=ts&play_token=5Z6zLH12qy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TEEN WOLF ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536417&extension=ts&play_token=nO7t0JjqEN
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO ACCIÓN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536416&extension=ts&play_token=Q9mHuqGXDp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO AL DIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536415&extension=ts&play_token=CMOG4udzbD
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO NOTICIAS CALIFORNIA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536414&extension=ts&play_token=IsThoTuCts
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO NOTICIAS FLORIDA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536413&extension=ts&play_token=BJTced3lqu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO NOTICIAS NORESTE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536412&extension=ts&play_token=9HCdxU3zLz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TELEMUNDO NOTICIAS TEXAS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536411&extension=ts&play_token=sJY9S4r6cB
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TENNIS CHANNEL 2 ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536410&extension=ts&play_token=XaHsRaEDCI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THAT'S SO 90S ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536408&extension=ts&play_token=rEwFpWRk2y
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE ADDAMS FAMILY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536407&extension=ts&play_token=znJgx2mK5V
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE APPRENTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536406&extension=ts&play_token=4VqYeZ7F8u
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE ASYLUM MOVIE CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536405&extension=ts&play_token=eTwqipeWxQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE BIGGEST LOSER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536404&extension=ts&play_token=vktHTrTPjs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE BOB ROSS CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536403&extension=ts&play_token=zE2i1CtsVM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE BOLD AND THE BEAUTIFUL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536402&extension=ts&play_token=7FIzRzcNYl
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE CAROL BURNETT SHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536401&extension=ts&play_token=XktomLPkEr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE CHALLENGE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536400&extension=ts&play_token=QaNwcIdFeW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE CONNERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536399&extension=ts&play_token=0v0fx91Al3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE DEAD FILES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536398&extension=ts&play_token=uOjPx8J6bj
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE DICK VAN DYKE SHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536397&extension=ts&play_token=DQQgi1HFn1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE DOCTORS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536396&extension=ts&play_token=a90vveigJ7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE DOG WHISPERER WITH CESAR MILLAN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536395&extension=ts&play_token=SBSY0QHcht
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE ED SULLIVAN SHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536394&extension=ts&play_token=ptXWSXdpSq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE EMERIL LAGASSE CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536393&extension=ts&play_token=Frjg1y8U0I
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE FBI FILES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536391&extension=ts&play_token=k5XBTvEJu2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE FBI ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536392&extension=ts&play_token=9mupHt7UvR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE FIRST 48 BY A&E ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536390&extension=ts&play_token=cp81Dgkxh3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE GIRLS NEXT DOOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536389&extension=ts&play_token=aNetX1hcOz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE GRAND TOUR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536388&extension=ts&play_token=O1tOeAf4c8
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE INCREDIBLE DR. POL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536386&extension=ts&play_token=ykNixVnVMg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE JACK HANNA CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536385&extension=ts&play_token=vl8HoyEGNv
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE JIM ROME SHOW ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536384&extension=ts&play_token=kgmWF5w0Lh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE LONE RANGER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536383&extension=ts&play_token=LOBAXIRDvY
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE MARTHA STEWART CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536381&extension=ts&play_token=TwZJrMyYDg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE NEW DETECTIVES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536379&extension=ts&play_token=nmNPdXCDGk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE OSBOURNES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536378&extension=ts&play_token=83V1XH4VDI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE OUTER LIMITS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536377&extension=ts&play_token=Ehh0FJ0vSI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE OUTPOST ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536376&extension=ts&play_token=mOZHTZd2pZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE PET COLLECTIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536375&extension=ts&play_token=XX0gMMuHOr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE PRACTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536374&extension=ts&play_token=5sKIpiwiX2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE PRICE IS RIGHT: DREW CAREY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536373&extension=ts&play_token=0JxvUQJA0K
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE PRICE IS RIGHT: THE BARKER ERA ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536372&extension=ts&play_token=HpwTPdMGcI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE REAL MCCOYS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536371&extension=ts&play_token=sh4coPVMrs
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE REPAIR SHOP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536370&extension=ts&play_token=P7t1Qa79Ms
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE RIFLEMAN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536369&extension=ts&play_token=36ey2Ydmdy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE STAND-UP CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536367&extension=ts&play_token=tgQX2oZMV6
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE THREE STOOGES + ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536366&extension=ts&play_token=oSvgUlMiiQ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE WALKING DEAD CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536365&extension=ts&play_token=UZCdHOhdLr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE WALKING DEAD UNIVERSE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536364&extension=ts&play_token=tKHyimwYzu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE WOMEN'S SPORTS NETWORK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536363&extension=ts&play_token=Equ76mlOdO
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THE YOUNG RIDERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536362&extension=ts&play_token=eduFgKHOO7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THIS OLD HOUSE MAKERS CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536360&extension=ts&play_token=AfZgAfvw3x
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: THIS OLD HOUSE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536361&extension=ts&play_token=ooKbd8EZd5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TINY HOUSE NATION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536358&extension=ts&play_token=eRjgssgegw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TMNT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536357&extension=ts&play_token=KKaV6qHjJg
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TMZ ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536356&extension=ts&play_token=uNoyBXyQfm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TNA WRESTLING CHANNEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536355&extension=ts&play_token=LIqWNxIHRm
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TO CATCH A SMUGGLER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536354&extension=ts&play_token=sXPCNDPsTy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TODAY ALL DAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536353&extension=ts&play_token=Vsj7C8vG1q
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TOP CHEF VAULT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536352&extension=ts&play_token=H8E9bryVwr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TOP GEAR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536351&extension=ts&play_token=6WZ8Iiucxn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TORQUE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536350&extension=ts&play_token=5FceRx01za
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRAILER PARK BOYS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536349&extension=ts&play_token=lfmg1t0tRT
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRANSFORMERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536348&extension=ts&play_token=2sM62znkCI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRAVEL AND ADVENTURE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536347&extension=ts&play_token=C9Qvtj9QnM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRIBUNAL JUSTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536346&extension=ts&play_token=aswa6BG8kp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRITON POKER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536345&extension=ts&play_token=br1NpGxFzx
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRUE CRIME & SCANDALS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536343&extension=ts&play_token=BAlfFgT378
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TRUE HISTORY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536341&extension=ts&play_token=XzyhWcDPJ7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TV CLASSICS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536338&extension=ts&play_token=atHOgC4DwS
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TV ONE CRIME & JUSTICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536337&extension=ts&play_token=IjNaYkPvP2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: TYLER PERRY'S LOVE THY NEIGHBOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536336&extension=ts&play_token=aYhuN8eG0s
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UEFA CHAMPIONS LEAGUE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536335&extension=ts&play_token=B7mBd5ga3B
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UEFA CHAMPIONS LEAGUE ᴿᴬᵂ (2)
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536334&extension=ts&play_token=d9zFmqVsGc
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UFC ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536333&extension=ts&play_token=2IwHWgvsDZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ULTIMATE BUILDS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536332&extension=ts&play_token=gaaTmBvnZ3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNBEATEN ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536328&extension=ts&play_token=dtYndc59qr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIQUE LIVES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536327&extension=ts&play_token=cpZprugOSt
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIVERSAL ACTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536326&extension=ts&play_token=ogbwPe9Jhy
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIVERSAL CRIME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536325&extension=ts&play_token=VGWRGUjWC1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIVERSAL MONSTERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536324&extension=ts&play_token=IuKvVEzeC5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIVERSAL MOVIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536323&extension=ts&play_token=P1WMwSdCrM
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNIVERSAL WESTERNS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536322&extension=ts&play_token=mYSPCveLnn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNSOLVED MYSTERIES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536321&extension=ts&play_token=f6U6YSYnNq
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNSPEAKABLE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536320&extension=ts&play_token=F6W2XThUkW
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNTOLD STORIES OF THE ER ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536319&extension=ts&play_token=adVaFqEEAF
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: UNXPLAINED ZONE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536318&extension=ts&play_token=bIradI59Z1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VEVO '70S ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536316&extension=ts&play_token=U3RV3GV5TT
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VEVO '80S ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536315&extension=ts&play_token=XTIB2gzdt9
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VEVO COUNTRY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536312&extension=ts&play_token=MnOVTKFeI9
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VEVO HIP-HOP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536311&extension=ts&play_token=r74lhl2CyL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VEVO R&B ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536310&extension=ts&play_token=QHWp3bi2dw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VICE NEWS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536308&extension=ts&play_token=cVAvczAohA
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: VICE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536309&extension=ts&play_token=o0LexnIwZb
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WANTED: DEAD OR ALIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536307&extension=ts&play_token=GZFuTKtEEp
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WAYPOINT TV ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536306&extension=ts&play_token=BvKCZKLI1a
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WEEDS AND NURSE JACKIE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536305&extension=ts&play_token=bMyP3WVIbw
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WELCOME HOME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536304&extension=ts&play_token=HgEogyxDgh
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WENDY WILLIAMS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536303&extension=ts&play_token=GJuS9OUT4X
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WESTERN BOUND WRANGLED BY INSP ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536302&extension=ts&play_token=Fbd6qS9N3H
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WFTV ORLANDO (ABC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536301&extension=ts&play_token=3XdOHphKOk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WHIO DAYTON (CBS) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536300&extension=ts&play_token=43rUNtmcXJ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WIPEOUT ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536297&extension=ts&play_token=SRxAqwjGtL
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WORLD POKER TOUR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536294&extension=ts&play_token=w18yLiFsj2
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WORLD'S MOST EVIL KILLERS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536293&extension=ts&play_token=PZ6TDFy4yr
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WPXI PITTSBURGH (NBC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536291&extension=ts&play_token=u6lCBZtwqu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WSB ATLANTA (ABC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536290&extension=ts&play_token=Lckb1mlUjz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: WSOC CHARLOTTE (ABC) ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536289&extension=ts&play_token=HlaFBJQ132
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XENA WARRIOR PRINCESS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536288&extension=ts&play_token=kOtyItwLFn
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE 60S & 70S GROOVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536287&extension=ts&play_token=zvWKhBMoma
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE 80S FLASHBACK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536286&extension=ts&play_token=WDRidhrwk7
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE 90S THROWBACK ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536285&extension=ts&play_token=Ghfeo5HZAR
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE CELEBRATES ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536284&extension=ts&play_token=vWjhBsXJXE
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE CHRISTIAN HITS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536283&extension=ts&play_token=WFWjvAGNAz
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE CLASSIC COUNTRY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536282&extension=ts&play_token=jrzJcqX5vu
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE COUNTRY TODAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536281&extension=ts&play_token=UM3xZDePSo
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE GOSPEL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536280&extension=ts&play_token=Mf8OMB0ImH
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE HIP-HOP EVOLUTION ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536279&extension=ts&play_token=g08vJ8yvL3
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE HITS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536278&extension=ts&play_token=rUR7h0UVjI
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE NUEVO LATINO ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536277&extension=ts&play_token=KXvZKrUTjd
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE R&B CLASSIC JAMS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536276&extension=ts&play_token=D4ZZYtr4SP
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE R&B FEELS ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536275&extension=ts&play_token=MNj5xxKHt1
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE RAP GAME ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536274&extension=ts&play_token=XPeZyxiGVf
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XITE ROCK X METAL ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536273&extension=ts&play_token=IqHI24ufI5
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: XTREME OUTDOOR ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536272&extension=ts&play_token=sE8gf7pBfZ
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: YAHOO FINANCE LIVE ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536271&extension=ts&play_token=qYur5VQDjk
+#EXTINF:-1 group-title="US| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: ZENLIFE BY STINGRAY ᴿᴬᵂ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1536270&extension=ts&play_token=CQ0oWDhCbc
 #EXTINF:-1 group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15243.png?97535" tvg-id="",US: (GT) MSG (Zone1) ᴴᴰ
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=2044644&extension=ts&play_token=zuieaG6bgT
 #EXTINF:-1 group-title="US| SPORT ᴴᴰ/ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="https://photo-tmdb.com/stalker_portal/misc/logos/320/15244.png?67179" tvg-id="",US: (GT) MSG (Zone2) ᴴᴰ
