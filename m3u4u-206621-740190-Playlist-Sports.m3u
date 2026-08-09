@@ -1,0 +1,67 @@
+#EXTM3U url-tvg="http://m3u4u.com/epg/dqr6yw2m22fwwx83nx1w" x-generator="https://m3u4u.com/"
+#EXTINF:-1 group-title="UHD" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN4K.us (m3u4u)",4K: ESPN ᵁᴴᴰ ³⁸⁴⁰ᴾ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
+#EXTINF:-1 group-title="UHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
+#EXTINF:-1 group-title="UK SPORTS" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",UK: HBO MAX PPV 1
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
+#EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2505/index.m3u8
+#EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2506/index.m3u8
+#EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://images.open-epg.com/16298.png" tvg-id="TNTSports3.uk (src09)",TNT SPORTS 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6564/index.m3u8
+#EXTINF:-1 group-title="UK SPORTS" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.uk (src09)",TNT SPORTS 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19054/index.m3u8
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" tvg-id="Sky.Sport.1.nz (src05)",SkySports 1
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809392.m3u8
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png" tvg-id="Sky.Sport.2.nz (src05)",SkySports 2
+https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809393.m3u8
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png" tvg-id="Sky.Sport.3.nz (src05)",SkySports 3
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3N1SRV2Ju4HmQNtZ4pThVu/c9f535723d2fc60697466d43261f624f/skysport_gold.png" tvg-id="Sky.Sport.4.nz (src05)",SkySports 4
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png" tvg-id="Sky.Sport.5.nz (src05)",SkySports 5
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png" tvg-id="Sky.Sport.6.nz (src05)",SkySports 6
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" tvg-id="Sky.Sport.7.nz (src05)",SkySports 7
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
+#EXTINF:-1 group-title="SKYSPORTS" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" tvg-id="Sky.Sport.Select.nz (src05)",SkySports Select
+http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="Fox Sports 1.us (src09)",FOX SPORTS 1
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568777&extension=ts&play_token=ZbghfCDEJK
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="Fox Sports 2.us (src09)",FOX SPORTS 2
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568776&extension=ts&play_token=gfut9p6kcd
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325020&extension=ts&play_token=hfaiq8JQoy
+#EXTINF:-1 group-title="Others" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?68747" tvg-id="ESPN News.us (src09)",ESPN NEWS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325019&extension=ts&play_token=k7LOqWv8xB
+#EXTINF:-1 group-title="Others" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8258.jpg?7255" tvg-id="",ESPN USA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=437219&extension=ts&play_token=CA8HivRkd7
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_light_360w_270h.png" tvg-id="ESPNU.us (src09)",ESPNU
+http://23.237.104.106:8080/USA_ESPNU/index.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_white_360w_270h.png" tvg-id="PK22.us (m3u4u)",NBC Sports NOW
+https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
+#EXTINF:-1 group-title="Others" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/221_1920x1080_HTV.png" tvg-id="Viaplay1.uk (src01)",Hub Premier 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620786&extension=ts&play_token=zWgXFhfpFs
+#EXTINF:-1 group-title="Others" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/sdvs4u1659622094.png" tvg-id="Viaplay2.uk (src01)",Hub Premier 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620785&extension=ts&play_token=klZaIDF1jr
+#EXTINF:-1 group-title="Others" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/znzwou1659622086.png" tvg-id="",Hub Premier 3
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620784&extension=ts&play_token=wpUlwD38cV
+#EXTINF:-1 group-title="Others" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/emwu7x1659622075.png" tvg-id="",Hub Premier 4
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620783&extension=ts&play_token=BuLIniwSX0
+#EXTINF:-1 group-title="Others" tvg-logo="https://poster.starhubgo.com/Linear_Channels2/225_1920x1080_HTV.png" tvg-id="",Hub Premier 5
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=620782&extension=ts&play_token=Fpsb05BrFv
+#EXTINF:-1 group-title="Others" tvg-logo="https://images.seeklogo.com/logo-png/49/2/go3-sport-1-logo-png_seeklogo-494788.png" tvg-id="",GO SPORTS 1
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18011/index.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/14ktq21723836456.png" tvg-id="",GO SPORTS 2
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18012/index.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/clcnt51723874834.png" tvg-id="",GO SPORTS 3
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18013/index.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGtMNnoCuGKRb0Z9XfGFRSud2bcCjI_H0mJbWPSXXCO6eURB_wpjUUn6hr&s=10" tvg-id="",GO SPORTS 4
+http://kws04u9a.rostelekom.xyz/iptv/MCHUP9AS7DBP5W/18014/index.m3u8
+#EXTINF:-1 group-title="Others" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" tvg-id="",StarSports Selet 1
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441099&extension=ts&play_token=G4PnvFZnpu
+#EXTINF:-1 group-title="Others" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/af/Star-sports-select-2-hd.png/revision/latest?cb=20230128175317" tvg-id="",StarSports Selet 2
+http://assarao4k.com:80/play/live.php?mac=00:1A:79:73:18:C1&stream=441097&extension=ts&play_token=kvXGRbueMA
