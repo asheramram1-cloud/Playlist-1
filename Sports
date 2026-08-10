@@ -31,7 +31,7 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
 #EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="Fox Sports 1.us (src09)",FOX SPORTS 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568777&extension=ts&play_token=ZbghfCDEJK
-#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="Fox Sports 2 (651).us (src09)",FOX SPORTS 2
+#EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="FS2.Fox.Sports.2.HD.us2.us (src05)",FOX SPORTS 2
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568776&extension=ts&play_token=gfut9p6kcd
 #EXTINF:-1 group-title="Others" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (m3u4u)",ESPN HD
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325020&extension=ts&play_token=hfaiq8JQoy
