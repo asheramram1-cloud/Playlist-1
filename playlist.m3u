@@ -2397,6 +2397,8 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox2detroitwjbk-vi
 https://amg00327-coxmediagroup-wsocbreaking-plex-t51et.amagi.tv/playlist/amg00327-coxmediagroup-wsocbreaking-plex/playlist.m3u8
 #EXTINF:-1 group-title="News Sports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/ESPNews.svg/960px-ESPNews.svg.png" tvg-id="ESPNews.us@SD",ESPNews (720p)
 https://gpuserver3.tier1streams.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="Relax Travel" tvg-logo="https://static.frequency.com/studio/itv/channels/1224-400x200.png" tvg-id="SpaceLivepoweredbysen.uk@SD",Space Live powered by sen (1080p)
+https://880ca9c9341c405f83d8664a18cc7134.mediatailor.us-west-2.amazonaws.com/v1/master/ba62fe743df0fe93366eba3a257d792884136c7f/LINEAR-1224-SPACELIVE-LG-UK/mt/lg-uk/1224/hls/master/playlist.m3u8
 #EXTINF:-1 group-title="Science" tvg-logo="https://cdn.uc.assets.prezly.com/f12e798d-6da4-46e1-8ec5-e391d6762659/InWonder_portrait-purple.png" tvg-id="InWonder.nl@SD",InWonder (1080p)
 https://amg00861-terninternation-inwonder-samsungau-1k63k.amagi.tv/playlist/amg00861-terninternation-inwonder-samsungau/playlist.m3u8
 #EXTINF:-1 group-title="Science" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/SmithsonianChannellogo.png/960px-SmithsonianChannellogo.png" tvg-id="SmithsonianChannel.us@East",Smithsonian Channel (1080p)
@@ -2763,6 +2765,586 @@ https://deltatesttatasky.akamaized.net/out/i/968284.m3u8
 https://amg00416-amg00416c9-samsung-in-4882.playouts.now.amagi.tv/playlist/amg00416-travelxp-travelxphd-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Travel" tvg-logo="https://i.imgur.com/vSFf5Ce.png" tvg-id="TVSTravelNetwork.us@SD",TVS Travel Network (720p) [Not 24/7]
 https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ZQ5uRhr.png" tvg-id="WDIODT101.us@HD",ABC 10 Duluth MN (WDIO) (1080p)
+https://amg01942-amg01942c3-stirr-us-10196.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-id="WLOS131.us@HD",ABC 13 Asheville NC (WLOS) (1080p)
+https://linear-695.frequency.stream/dist/stirr/695/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WPDETV151.us@HD",ABC 15 Myrtle Beach FL (WPDE) (1080p)
+https://linear-696.frequency.stream/dist/stirr/696/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-id="WKEF451.us@SD",ABC 22 Dayton OH (WKEF) (1080p)
+https://linear-690.frequency.stream/dist/stirr/690/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" tvg-id="WCIV361.us@HD",ABC 4 Charleston SC (WCIV) (1080p)
+https://linear-700.frequency.stream/dist/stirr/700/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Lv6HuCT.png" tvg-id="WSYX61.us@HD",ABC 6 Columbus OH (WSYX) (1080p)
+https://linear-689.frequency.stream/dist/stirr/689/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NfqhdBC.png" tvg-id="WJLATV71.us@HD",ABC 7 Washington DC (WJLA) (1080p)
+https://linear-681.frequency.stream/dist/stirr/681/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/uwuSXJ8.png" tvg-id="AdinkraTV.gh@SD",Adinkra TV (1080p)
+https://59d39900ebfb8.streamlock.net/adinkratvny/adinkratvny/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb2051.png" tvg-id="BBCRedButton1.uk@SD",BBC RB 1 (720p) [Geo-blocked]
+https://vs-cmaf-pushb-uk.live.cf.md.bbci.co.uk/x=4/i=urn:bbc:pips:service:red_button_one/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton10.uk@SD",BBC Red Button 10 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_010/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton11.uk@SD",BBC Red Button 11 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_011/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton12.uk@SD",BBC Red Button 12 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_012/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton13.uk@SD",BBC Red Button 13 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_013/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton14.uk@SD",BBC Red Button 14 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_014/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton15.uk@SD",BBC Red Button 15 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_015/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton16.uk@SD",BBC Red Button 16 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_016/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton17.uk@SD",BBC Red Button 17 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_017/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton18.uk@SD",BBC Red Button 18 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_018/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton19.uk@SD",BBC Red Button 19 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_019/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton2.uk@SD",BBC Red Button 2 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_002/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton20.uk@SD",BBC Red Button 20 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_020/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton21.uk@SD",BBC Red Button 21 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_021/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton22.uk@SD",BBC Red Button 22 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_022/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton23.uk@SD",BBC Red Button 23 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_023/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton24.uk@SD",BBC Red Button 24 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_024/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton3.uk@SD",BBC Red Button 3 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_003/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton4.uk@SD",BBC Red Button 4 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_004/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton5.uk@SD",BBC Red Button 5 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_005/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton6.uk@SD",BBC Red Button 6 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_006/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton7.uk@SD",BBC Red Button 7 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_007/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton8.uk@SD",BBC Red Button 8 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_008/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/g2Aga13.png" tvg-id="BBCRedButton9.uk@SD",BBC Red Button 9 (720p) [Geo-blocked]
+https://ve-cmaf-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:uk_bbc_stream_009/iptv_hd_abr_v1.mpd
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/copIbc9.png" tvg-id="BET.us@East",BET (720p)
+https://gpuserver3.tier1streams.com/BET_EAST/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/960px-BET_Jams_2021.png" tvg-id="BETJams.us@SD",BET Jams (576p)
+https://gpuserver3.tier1streams.com/BET_JAMS/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VeuTWUb.png" tvg-id="BETSoul.us@SD",BET Soul (576p)
+https://gpuserver3.tier1streams.com/BET_SOUL/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/copIbc9.png" tvg-id="BET.us@West",BET West (720p)
+https://gpuserver3.tier1streams.com/BET_WEST/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/NRrJ6xb.png" tvg-id="BHTV10.us@SD",Beverly Hills Television 10 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_006/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3Gqc5f2.png" tvg-id="BHTV35.us@SD",Beverly Hills Television 35 (720p)
+https://cdn3.wowza.com/5/V2Y2VmhqMEFDTUkx/beverlyhills/G0072_007/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/3uXQg7Y.png" tvg-id="BeyondBeliefFactorFiction.us@UK",Beyond Belief: Fact or Fiction
+https://jmp2.uk/plu-611f85396abc84000738417b.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/960px-Big_Ten_Network_Logo.svg.png" tvg-id="BigTenNetwork.us@SD",Big Ten Network (720p)
+http://23.237.104.106:8080/USA_BTN/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/e/e0/Bounce_TV_logo.svg/960px-Bounce_TV_logo.svg.png" tvg-id="Bounce.us@SD",Bounce (1080p)
+http://40.160.24.58/BOUNCE_TV/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JmTIRLF.png" tvg-id="Bravo.us@East",Bravo (1080p)
+https://gpuserver3.tier1streams.com/BRAVO/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/hphQ2kw.png" tvg-id="Bravo.nz@Plus1",Bravo +1
+https://i.mjh.nz/.r/bravo-plus1.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JmTIRLF.png" tvg-id="Bravo.us@West",Bravo West (1080p)
+http://40.160.24.52/BRAVO_WEST/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/snZMucg.png" tvg-id="BrideTV.ng@SD",Bride TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_013/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Brit_Asia.png" tvg-id="BritAsiaTV.uk@HD",Brit Asia TV (1080p)
+https://hls.autopo.st/hls/britasiatv/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images-0.rakuten.tv/storage/global-live-channel/translation/artwork/e16cfcc7-2040-4bd5-8339-16d499f8799e-width200-quality90.png" tvg-id="BuzzfeedUnsolved.pl@FAST",Buzzfeed Unsolved
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883099
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mruGyuu.png" tvg-id="BYUTV.us@SD",BYUtv (1080p)
+https://d13j8jpstr8iqz.cloudfront.net/BYUtv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bJ7ygTq.png" tvg-id="Cable14Hamilton.ca@SD",Cable 14 Hamilton
+https://flowcaster1-ch.cdn.clearcable.net/C14/smil:C14.smil/playlist.m3u8?iimae0UC2aendtime=1665196120&iimae0UC2ahash=NzcDbuotaJAVf1DsNxuGHBlfCXSvHDIt5sqMUMgrRMU=&iimae0UC2astarttime=1665181720
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/N5uiIJo.png" tvg-id="CTV.us@SD",Calabasas Channel (480p)
+https://cdn3.wowza.com/5/UWpORHhLSEs5SkJs/calabasas/G0009_003/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="CanadaOne.ca@SD",Canada One (720p) [Not 24/7]
+http://cdn8.live247stream.com/canadaone/tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WKRCTV121.us@HD",CBS 12 Cincinnati OH (WKRC) (1080p)
+https://linear-691.frequency.stream/dist/stirr/691/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WPEC121.us@HD",CBS 12 West Palm Beach FL (WPEC) (1080p)
+https://linear-692.frequency.stream/dist/stirr/692/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WHPDT1.us@SD",CBS 21 Harrisburg PA (WHP) (1080p)
+https://linear-697.frequency.stream/dist/stirr/697/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WSBTTV281.us@SD",CBS 22 South Bend IN (WSBT) (1080p)
+https://linear-693.frequency.stream/dist/stirr/693/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WWMT31.us@HD",CBS 3 Kalamazoo MI (WWMT) (1080p)
+https://linear-701.frequency.stream/dist/stirr/701/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WTVRTV61.us@HD",CBS 6 Richmond VA (WTVR) (720p)
+https://aegis-cloudfront-1.tubi.video/d8fc1d6c-fd55-45c8-973b-b7327ee1a6e0/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/n36jriB.png" tvg-id="CelebritySceneTV.us@SD",Celebrity Scene TV (720p)
+https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="CCTV.us@SD",Charlotte County CC-TV (Charlotte County FA) (720p)
+https://cdn3.wowza.com/5/cHYzekYzM2kvTVFH/charlotte/G0055_009/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WRDELD311.us@HD",CoastTV NBC (WRDE-LD) (720p) [Not 24/7]
+https://live.field59.com/wrde/wrde1/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xwntWOP.png" tvg-id="TheCowboyChannelCanada.ca@SD",Cowboy Channel (1080p)
+https://amg17292-amg17292c1-distrotv-us-4170.playouts.now.amagi.tv/playlist/amg17292-tetonridgellc-tetonridgefast-distrotvus/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xwGquEb.png" tvg-id="CrimeandEvidence.za@SD",Crime and Evidence (720p)
+https://afxporigin.telemedia.co.za/afxp/abr_crimeandevidence/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/kzUrWR5.png" tvg-id="CrimenesImperfectos.us@SD",Crímenes imperfectos
+https://jmp2.uk/plu-5e94cd036cc69d0007e8a1ba.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/M1eQ1eZ.png" tvg-id="DMTV.us@SD",Del Mar TV (720p)
+https://d25ykpi2vxhoyc.cloudfront.net/delmar-cdn/dmtv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/cwazXHb.png" tvg-id="DungeonTV.us@SD",Dungeon TV (720p)
+https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=2226
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Z1QVkqu.png" tvg-id="ExtremaTV.us@SD",Extrema TV (720p)
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WLUKTV141.us@HD",FOX 11 Green Bay WI (WLUK) (1080p)
+https://linear-702.frequency.stream/dist/stirr/702/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/FOX_wordmark-red.svg/960px-FOX_wordmark-red.svg.png" tvg-id="WFXT251.us@HD",Fox 25 Boston (WFXT-TV) (1080p) [Geo-blocked]
+https://pubads.g.doubleclick.net/ssai/event/1kItNgwtQUe54NjjBiiTGg/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WBFF451.us@HD",FOX 45 Baltimore MD (WBFF) (1080p)
+https://linear-688.frequency.stream/dist/stirr/688/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wlYUEYc.png" tvg-id="CMAPChannel19.us@SD",Gilroy CMAP TV Channel 19 (720p)
+https://livestream.telvue.com/cmap4/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images-1.rakuten.tv/storage/global-live-channel/translation/artwork/13b0a6c7-4307-4c8d-9fc4-df2a4f8e8b38-hard-knocks-fighting-1602077398-width200-quality90.jpeg" tvg-id="HardKnocksFightingChampionship.pl@SD",Hard Knocks Fighting Championship
+https://d39g1vxj2ef6in.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/master.m3u8?ads.xumo_channelId=88883037
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://www.homefultv.com/wp-content/uploads/2023/03/Homeful_Logo_MintWhite.png" tvg-id="Homeful.ca@US",Homeful (1080p)
+https://amg00090-blueantcanada-amg00090c4-samsung-au-819.playouts.now.amagi.tv/playlist/amg00090-blueantfast-homefulworldwide-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/slLuRel.png" tvg-id="InsaytTV.ru@4K",Insayt TV (2160p)
+https://stream8.cinerama.uz/1416/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/BQ0qWzX.png" tvg-id="KordiaTV.nz@SD",Kordia TV (1080p)
+https://ptvlive.kordia.net.nz/out/v1/3fc2254c865a457c8d7fbbce227a2aae/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://tvomix.com/Logos/Kpopmix.png" tvg-id="KpopMix.ar@SD",Kpop Mix (720p)
+https://cloud.tvomix.com/KPOPMIX/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/5ibsRhM.png" tvg-id="LakewoodChannel8.us@SD",Lakewood Channel 8 (Lakewood CO) (720p)
+https://live8fd.lakewood.org/live-2/live/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/5mhYHtD.png" tvg-id="TAPTVChannel23.us@SD",Lompoc TAP TV Channel 23 (720p)
+https://livestream.telvue.com/lompoccmttv1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7uNdcWB.png" tvg-id="LoveNatureenEspanol.us@SD",Love Nature en Espanol (1080p) [Geo-blocked]
+https://amg01515-amg01515c17-xumo-us-2489.playouts.now.amagi.tv/bamus-lovenaturespanish-roku/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://mybingechannel.co.uk/wp-content/uploads/2023/02/mbc-logo-for-website.png" tvg-id="MBC.uk@HD",MBC (1080p)
+https://cdn8.fntvchannel.com/v1/master/02eeb1726c343dc9c30c32e93dee82013e157021/FNTV-CHANNEL_CDN77/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/aX1GkCD.png" tvg-id="MidpenMediaCenterChannel26.us@SD",Midpen Media Center Government etc Channel 26 (720p)
+https://5c2974786200d.streamlock.net/live-chan26/ngrp:ch26_all/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://us1-prod-images.disco-api.com/2020/7/13/4f26aaf2-a993-480d-9675-0d501fb8d86f.png?bf=0&f=png&p=true&q=85&w=250" tvg-id="FastTV.us@SD",MotorTrend FAST TV (720p)
+https://live-manifest.production-public.tubi.io/live/e7be5ad5-9044-4151-95d4-a9aae10ab0a5/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png/960px-WJAR_LOGO_NBC10_Solid_Calls_vert_blu.png" tvg-id="WJAR101.us@HD",NBC 10 Providence MA (1080p)
+https://pubads.g.doubleclick.net/ssai/event/kpannrCBQ5KwdV3Hag3Wog/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WHECTV101.us@HD",NBC 10 Rochester NY (WHEC) (1080p)
+https://amg01942-amg01942c4-stirr-us-10190.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WBALTV111.us@HD",NBC 11 Baltimore MD (WBAL) (720p)
+https://aegis-cloudfront-1.tubi.video/888aedca-93fb-4aed-bb92-4beb8f1323c6/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WNYT131.us@HD",NBC 13 Albany NY (WNYT) (1080p)
+https://amg01942-amg01942c5-stirr-us-10184.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/bzgfmRL.png" tvg-id="WGBATV261.us@HD",NBC 26 Green Bay WI (WGBA) (720p)
+https://aegis-cloudfront-1.tubi.video/b32c0573-4add-4b47-b826-24412d952164/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HC85eBq.png" tvg-id="WTMJTV41.us@HD",NBC 4 Milwaukee WI (WTMJ) (720p)
+https://aegis-cloudfront-1.tubi.video/d4d923f2-17de-4371-b86d-43490499bcdb/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WOAITV41.us@HD",NBC 4 San Antonio TX (WOAI) (1080p)
+https://linear-703.frequency.stream/dist/stirr/703/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wblxisu.png" tvg-id="WMAQTV51.us@HD",NBC 5 Chicago Live News (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889704/hls/master.m3u8?ads.xumo_channelId=88889704a&ads.xumo_ifaType=&ads.xumo_providerId=3818&ads.xumo_providerName=NBCNCHI
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WJACTV61.us@HD",NBC 6 Johnstown PA (WJAC) (1080p)
+https://linear-698.frequency.stream/dist/stirr/698/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WLIO81.us@HD",NBC 8 Lima OH (WLIO-DT1) (720p) [Not 24/7]
+https://live.field59.com/wlio/wlio1/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WTOVTV91.us@HD",NBC 9 Steubenville OH (WTOV) (1080p)
+https://linear-699.frequency.stream/dist/stirr/699/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YEUhPBv.png" tvg-id="NTVPlus.ca@SD",NTV+
+https://2-fss-1.streamhoster.com/pl_122/201748-1431018-1/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XOJzlfS.png" tvg-id="Panico.mx@SD",Panico (576p)
+http://181.78.8.199:8000/play/a0bt/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-id="WKPCTV153.us@SD",PBS KET KY (480p)
+https://2-fss-2.streamhoster.com/pl_132/amlst:200914-1315486/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/36/World_Channel_2023.svg" tvg-id="WKMJTV683.us@SD",PBS KET World (480p)
+https://2-fss-1.streamhoster.com/pl_122/amlst:200914-2942150/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-id="WKPCDT2.us@SD",PBS KET2 (720p)
+https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1315484/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-id="WMPT541.us@HD",PBS MPT Baltimore MD (WMPB) (1080p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:201814-1291584/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WNJT521.us@HD",PBS New Jersey NJ (WNJT) (1080p) [Not 24/7]
+https://wnjtdt.lls.pbs.org/out/v1/e62efd8d4f92403996425fc389df0ffd/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ysRh3Nl.png" tvg-id="PixLTV.us@SD",PixL TV (720p)
+http://40.160.24.55/PIXL/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="PlusTLT.bo@SD",Plus TLT (720p)
+http://15.204.246.24:8080/PlusTLTHD/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/6RT3yao.png" tvg-id="PlusTVAfrica.ng@SD",Plus TV Africa (720p) [Not 24/7]
+https://5c0740dba62b3.streamlock.net/plustv/myStream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/SfyCwXj.png" tvg-id="PMITV.pk@SD",PMI TV (720p) [Not 24/7]
+https://cdn.live247stream.com/pmi/tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/80gaUbq.png" tvg-id="PomonaInternetStreamingChannel.us@SD",Pomona Internet Streaming Channel (Pomona CA) (720p)
+https://reflect-pomona.cablecast.tv/live-1/live/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fGUlCY3.png" tvg-id="Pop.uk@SD",Pop (1080p)
+https://amg01753-narrativeentert-popkids-lggb-xyy5k.amagi.tv/ts-eu-w1-n2/playlist/amg01753-narrativeentert-popkids-lggb/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/I4KDvu9.png" tvg-id="Portlandia.us@SD",Portlandia (720p)
+https://d1uvnirn6lhs2f.cloudfront.net/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/15gMDG0.png" tvg-id="PowerHD.ar@SD",PowerHD
+https://live2.tensila.com/1-1-1.power-tv/hls/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/T9fIdLs.png" tvg-id="PraiseTV.pk@SD",Praise TV (720p)
+https://livecdn.live247stream.com/praise/tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Prime_Asia_HD.png" tvg-id="PrimeAsiaTV.ca@SD",Prime Asia TV (1080p)
+http://primeasia.selfip.net/Samsung/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MMccHNd.png" tvg-id="PTV.ph@SD",PTV 4 (480p) [Not 24/7]
+https://streams.comclark.com/pknsd/ptv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://maraya.faulio.com/storage/mediagallery/60/26/fullhd_d5c3c81b0562a76bc63f073a5e0947f309b0215b.png" tvg-id="Pulse95Radio.ae@SD",Pulse95 Radio (1080p)
+https://svs.itworkscdn.net/pulse95live/pulse96/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d6/Pursuit_Channel_logo.png" tvg-id="PursuitChannel.us@SD",Pursuit Channel (1080p)
+http://40.160.24.55/PURSUIT/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/4ATTIQi.png" tvg-id="QuestTV.ng@SD",Quest TV (240p) [Not 24/7]
+https://media2.streambrothers.com:19360/8028/8028.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IyFULjw.png" tvg-id="RaiaTV.ke@SD",Raia TV (720p) [Not 24/7]
+https://goliveafrica.media:9998/live/64873b6222c93/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eHNU2OQ.png" tvg-id="RainbowRuby.us@SD",Rainbow Ruby (720p)
+https://dt9mwqwe98q7o.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pXKQE0G.png" tvg-id="RaveTV.ng@SD",Rave TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_039/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/l7tmTjX.png" tvg-id="RealAmericasVoice.us@SD",Real America's Voice (1080p)
+https://stream.weathernationtv.com/RAVStirr_poekxujeisurekugzezyg/O1/playlistSCTE35.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/T9HHmAO.png" tvg-id="RealWild.uk@SD",Real Wild (1080p)
+https://lds-realwild-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YC5FRmq.png" tvg-id="RedCCTV.bo@SD",Red CCTV (480p)
+https://solo.disfrutaenlared.com:1936/redcctv/redcctv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IncyJW8.png" tvg-id="ResurrectionTV.gh@SD",Resurrection TV (720p)
+https://1681360479.rsc.cdn77.org/1681360479/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="RevandRoll.us@SD",Rev and Roll (720p)
+https://d39nqr4d4h6cv6.cloudfront.net/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eaYnGpH.png" tvg-id="Revolt.us@SD",Revolt (720p)
+http://23.237.104.106:8080/USA_REVOLT/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/FcT3beY.png" tvg-id="RFDTV.us@SD",RFD-TV (1080p)
+http://40.160.24.55/RFD-TV/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/DWwequ0.png" tvg-id="RCTV.us@SD",Rifle Community TV RCTV (Rifle CO) (720p)
+https://livestream.telvue.com/riflecmttv2/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/sbeuEYY.png" tvg-id="ROVTV.za@SD",ROV TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_012/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MXLuUoU.png" tvg-id="RTHKTV32.hk@SD",RTHK TV 32 (港台電視32) (1080p) [Geo-blocked]
+https://rthktv32-live.akamaized.net/hls/live/2036819/RTHKTV32/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/2MProun.png" tvg-id="RTHKTV33.hk@SD",RTHK TV 33 (港台電視33) (1080p) [Geo-blocked]
+https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Kq5A6Qn.png" tvg-id="RTHKTV34.hk@SD",RTHK TV 34 (港台電視34) (1080p) [Geo-blocked]
+https://rthktv34-live.akamaized.net/hls/live/2101642/RTHKTV34/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="RugbyPassTV.uk@SD",Rugby Pass TV (720p)
+https://jmp2.uk/plu-66f137cb483d460008ece053.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/pBBb0wx.png" tvg-id="RVTV.us@HD",RVTV (1080p)
+https://rvtv-on-freecast.b-cdn.net/RVTV-on-Freecast/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vrcbnBv.png" tvg-id="S4C.uk@SD",S4C (1080p) [Geo-blocked]
+https://live-uk.s4c-cdn.co.uk/out/v1/a0134f1fd5a2461b9422b574566d4442/live_uk.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/G8OXWe4.png" tvg-id="SABC1.za@SD",SABC 1 (720p) [Geo-blocked]
+https://sabconeta.cdn.mangomolo.com/sabc1/smil:sabc1.stream.smil/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rj6i9sn.png" tvg-id="SABC2.za@SD",SABC 2 [Geo-blocked]
+https://sabctwota.cdn.mangomolo.com/sabc2/smil:sabc2.stream.smil/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Nb08dfK.png" tvg-id="SalvationTV.ng@SD",Salvation TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_017/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/x06npU2.png" tvg-id="SamsungWildlife.us@SD",Samsung Wild Life (720p) [Geo-blocked]
+https://pb-olm46bexcljjf.akamaized.net/Samsung_Wild_Life.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="SardariTV.ca@SD",Sardari TV (1080p) [Not 24/7]
+http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HOYF8NA.png" tvg-id="ScientologyNetwork.us@SD",Scientology Network (1080p)
+https://stream6.scientology.org/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HFmkjiR.png" tvg-id="KSCNTV221.us@HD",Scientology Network KSCN-DT1
+https://stream-losangeles.scientology.org/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/HFmkjiR.png" tvg-id="WFTTTV621.us@HD",Scientology Network WFTT-DT1
+https://stream-tampa.scientology.org/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/SEC_Network_logo.svg/960px-SEC_Network_logo.svg.png" tvg-id="SECNetwork.us@SD",SEC Network (720p)
+http://40.160.24.55/SEC_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/p0QzCFs.png" tvg-id="SheffieldLiveTV.uk@SD",Sheffield Live TV (360p) [Not 24/7]
+http://tv.sheffieldlive.org/hls/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/TFxLj80.png" tvg-id="ShemarooBollywood.us@SD",Shemaroo Bollywood (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00864-shemarooenterta-shemabollywood-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/I3lTIeN.png" tvg-id="ShineStarTV.pk@SD",Shine Star TV (720p) [Not 24/7]
+https://f-tx-edge-87.christianworldmedia.com/shinetvpak2/mp4:shinetvpak2/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Or0LKsu.png" tvg-id="Showtime.us@East",Showtime (720p)
+http://40.160.24.55/SHOWTIME/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" tvg-id="Showtime2.us@East",Showtime 2 (1080p)
+http://40.160.24.55/SHOWTIME_2/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/byJNJdm.png" tvg-id="ShowtimeExtreme.us@East",Showtime Extreme (1080p)
+http://40.160.24.55/SHOWTIME_EXTREME/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1Ak2MX2.png" tvg-id="ShowtimeNext.us@East",Showtime Next (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/showtimenext-usa/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Or0LKsu.png" tvg-id="Showtime.us@West",Showtime West (720p)
+http://40.160.24.55/SHOWTIME_WEST/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/960px-Showtime.svg.png" tvg-id="ShowtimeWomen.us@East",Showtime Women (1080p) [Geo-blocked]
+https://messi.damitv.st/papi/ts/showtimewomen-usa/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/s4Rv6pK.png" tvg-id="SilverScreen.pk@SD",Silver Screen (576p)
+http://103.250.28.74:8000/play/a044/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/izpeOsx.png" tvg-id="SindhTV.pk@SD",Sindh TV (1080p)
+http://103.250.28.74:8000/play/a00u/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/hHEz5rq.png" tvg-id="SkyMix.uk@SD",Sky Mix (1080p)
+http://80.194.62.172:50002/stream/channelid/1848745953
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eYyYojh.png" tvg-id="SkyOpen.nz@SD",Sky Open (1080p) [Geo-blocked]
+https://primetv-prod.akamaized.net/v1/prime-freeview-aes128.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/eYyYojh.png" tvg-id="SkyOpen.nz@Plus1",Sky open +1 (576p) [Geo-blocked]
+https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/9UzQpum.png" tvg-id="Slice.ca@SD",Slice (720p)
+http://40.160.24.55/SLICE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CyQ472C.png" tvg-id="SLOCountyChannel21.us@SD",SLO County Channel 21 (360p)
+https://agp-nimble.streamguys1.com/SLOC/SLOC/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/LBICKI5.png" tvg-id="SonyMax.uk@SD",Sony Max (576p)
+https://edge2.roarzone.info:8447/roarzone/edge3/sony-max/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fKtPcT4.png" tvg-id="SoundcityTV.ng@SD",Soundcity TV
+https://cs2.push2stream.com/SOUNDCITY/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/svc98Kg.png" tvg-id="SparkTV.uk@SD",Spark TV (1080p)
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/9coLhX8.png" tvg-id="StarAsia.pk@SD",Star Asia (720p)
+http://103.250.28.74:8000/play/a010/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/N7oSm4d.png" tvg-id="Starz.us@East",Starz (1080p)
+http://23.237.104.106:8080/USA_STARZ/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MvH3Cz2.png" tvg-id="StarzEdge.us@East",Starz Edge (1080p)
+http://40.160.24.55/STARZ_EDGE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/5ieoKO1.png" tvg-id="StarzEncore.us@East",Starz Encore (1080p)
+http://40.160.24.55/STARZ_ENCORE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/N7oSm4d.png" tvg-id="Starz.us@West",Starz West (720p)
+http://40.160.24.55/STARZ_WEST/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/e/e1/Story_television_logo.png" tvg-id="WCIUTV265.us@SD",Story Television
+https://2-fss-1.streamhoster.com/pl_122/206858-4412976-1/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/StudioUniversal2016.png/960px-StudioUniversal2016.png" tvg-id="StudioUniversalLatinAmerica.us@Mexico",Studio Universal Latin America Mexico (1080p)
+http://200.39.57.254:8008/play/a0eg/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/K2Snk2T.png" tvg-id="SunnaTV.ng@SD",Sunna TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_015/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bc/WACX_logo_2021.png/960px-WACX_logo_2021.png" tvg-id="WACX551.us@SD",SuperChannel Orlando (WACX-DT1) (720p)
+https://6305c8676ce84.streamlock.net/live/live/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/kFMHayP.png" tvg-id="SupremeMasterTV.tw@SD",Supreme Master TV (720p)
+https://lbs-us1.suprememastertv.com/720p.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MOaBr9M.png" tvg-id="SynagogueTV.ng@SD",Synagogue TV (576p)
+https://viewmedia7219.bozztv.com/wmedia/viewmedia100/web_038/Stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Taiwan_Plus.png" tvg-id="TaiwanPlusTV.tw@SD",Taiwan Plus TV (1080p)
+https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/S1zoIp7.png" tvg-id="TalkingPicturesTV.uk@SD",Talking Pictures TV (576p)
+http://92.114.85.72:8000/play/a0la
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/KxHWpQB.png" tvg-id="TalkTV.uk@SD",TalkTV (1080p)
+https://488f4ce4.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/TEctZ2JfVGFsa19ITFM/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/U5XsT3j.png" tvg-id="TBNArmenia.us@SD",TBN Armenia
+https://164475.gvideo.io/mpegts/164475_650646/master_mpegts.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/yWJTxKk.png" tvg-id="TBNPacific.us@SD",TBN Pacific
+https://broadcast.tbnpacific.org.au:4430/stream/TBNPacificTV/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vFllwLd.png" tvg-id="TBNUK.uk@SD",TBN UK (1080p)
+https://live-tbn-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/tbn-live/manifest.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/PhbrGyM.png" tvg-id="TBNUkraine.us@SD",TBN Україна (720p)
+https://5d23269b3ec0c.streamlock.net/WEB_Ukraine24/ngrp:Ukraine24.stream-adaptive/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/J5iRMgi.png" tvg-id="TCT.us@SD",TCT (1080p)
+https://d16yptpbiuldtt.cloudfront.net/0b4ebb8be00f40ee83c024f661a85dcd/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fAprFBJ.png" tvg-id="TechStorm.sg@SD",Tech Storm (720p) [Geo-blocked]
+https://cdn-telkomsel-01.akamaized.net/Content/HLS/Live/channel(abe4ead2-1a88-4330-9f41-382fcf94bba2)/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/KeIhwNP.png" tvg-id="TED.us@SD",TED (1080p)
+https://d1b16tvvxk3tnu.cloudfront.net/TED.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/El16S4C.png" tvg-id="TemeculaTV.us@SD",Temecula TV (Temecula CA) (1080p)
+https://reflect-temecula.cablecast.tv/live-2/live/stream-1/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/KMeHRV3.png" tvg-id="Tempe11.us@SD",Tempe Channel 11
+https://cdn3.wowza.com/5/cFh0V0QwUVc4SDl2/tempe/G0355_003/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/d91GcVf.png" tvg-id="TFX.fr@SD",TFX (720p)
+http://145.239.5.177/315/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XiAKb4E.png" tvg-id="TG4.ie@SD",TG4 (1080p)
+https://fastly.live.brightcove.com/6384196213112/eu-west-1/1555966122001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoieDl2YzlnLmVncmVzcy55ODN1ZWIiLCJhY2NvdW50X2lkIjoiMTU1NTk2NjEyMjAwMSIsImVobiI6ImZhc3RseS5saXZlLmJyaWdodGNvdmUuY29tIiwiaXNzIjoiYmxpdmUtcGxheWJhY2stc291cmNlLWFwaSIsInN1YiI6InBhdGhtYXB0b2tlbiIsImF1ZCI6WyIxNTU1OTY2MTIyMDAxIl0sImp0aSI6IjYzODQxOTYyMTMxMTIifQ.Co2xR3kmJBoxTaFTpwU0b37lJ05vNt-y32-SwfM26EA/chunklist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rmdfcyG.png" tvg-id="ThatsTV.uk@SD",That's TV (576p)
+http://92.114.85.72:8000/play/a0lb
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/0F1c7x4.png" tvg-id="TheCowboyChannel.us@SD",The Cowboy Channel (1080p)
+https://gpuserver3.tier1streams.com/THE_COWBOY_CHANNEL/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Ioh5xbx.png" tvg-id="TheHillTV.us@SD",The Hill TV (1080p) [Geo-blocked]
+https://amg01312-cw-amg01312c15-firetv-us-3444.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1caOriu.png" tvg-id="TheNanny.us@UK",The Nanny
+https://jmp2.uk/plu-6391cef9edb23c0008598cee.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/WthgOWL.png" tvg-id="WVIZ252.us@SD",The Ohio Channel (WVIZ DT-2) (720p)
+https://0888934ec1a5.us-east-1.playback.live-video.net/api/video/v1/us-east-1.289485033693.channel.Aeaac0ZpvcAZ.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/p3RAxjp.png" tvg-id="TheWalkTV.us@SD",The Walk TV (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/8b0796adaf/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://provider-static.plex.tv/epg/cms/production/5d4f68c3-82af-45e7-b2c4-39aff69f3ce0/TNAWrestling_Plex_LogoforDarkBG_1500x1000_-_Alex_TushinghamRDX.png" tvg-id="TNAWrestlingChannel.pl@SD",TNA Wrestling (720p)
+https://jmp2.uk/plu-59b722526996084038c01e1b.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/skpvuKq.png" tvg-id="TNN16.th@SD",TNN 16 (720p)
+https://lb1-live-mv.v2h-cdn.com/hls/ffdc/mugvhogvho/mugvhogvho.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/wf62HhM.png" tvg-id="TogetherTV.uk@SD",Together TV (576p)
+http://92.114.85.72:8000/play/a0j8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images-2.rakuten.tv/storage/global-live-channel/translation/artwork/7c59e962-086b-4d64-afb3-7f83ca8c3377-width200-quality90.jpeg" tvg-id="TOPBarca.pl@SD",TOP Barca (1080p)
+https://amg17560-fcb-amg17560c1-rakuten-uk-4891.playouts.now.amagi.tv/playlist/amg17560-fcbarcelona-topbarcaenglish-rakutenuk/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/YJYdHKO.png" tvg-id="Toronto360TV.ca@SD",Toronto 360 TV (720p) [Not 24/7]
+http://cdn3.toronto360.tv:8081/toronto360/hd/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/JCpFAll.png" tvg-id="TribecaChannel.us@SD",Tribeca Channel (1080p) [Geo-blocked]
+https://amg02507-giantpictures-tribeca-xumo-ey2b7.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/TrlrcWf.png" tvg-id="Trigger.za@SD",Trigger
+https://origin2.afxp.telemedia.co.za/abr/trigger/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Y6Hix17.png" tvg-id="TrueCrimeNow.us@SD",True Crime Now (1080p)
+https://amg00376-magellan-amg00376c12-samsung-au-1725.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowaunzin-samsungau/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1BHDGXx.png" tvg-id="TrueHistory.us@SD",True History (720p)
+https://linear-188.frequency.stream/dist/glewedtv/188/hls/master/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="TSTV.us@SD",TSTV (720p)
+https://reflector.watchtstv.com/hls/livestream.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/c4lLchb.png" tvg-id="TV16Toronto.ca@SD",TV 16 Toronto (720p) [Not 24/7]
+http://rtmp.smartstream.video:1935/capco/tv29/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/tthm8Q5.png" tvg-id="TVOne.us@SD",TV One (1080p)
+http://40.160.24.55/TV_ONE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/qkbRslf.png" tvg-id="TVOne.uk@SD",TV One (576p)
+http://92.114.85.72:8000/play/a070
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MYoosNo.png" tvg-id="TVToday.pk@SD",TV Today (576p)
+http://103.250.28.74:8000/play/a06e/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/CMuczfY.png" tvg-id="TVWarehouse.uk@SD",TV Warehouse (720p)
+https://tvwarehouse.r.worldssl.net/mystream.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mfZOYZI.png" tvg-id="TV5MondePacific.fr@SD",TV5Monde Pacifique (1080p) [Geo-blocked]
+https://ott.tv5monde.com/Content/HLS/Live/channel(pacifique)/variant.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ReV8R5S.png" tvg-id="TVC.ng@SD",TVC (1080p)
+https://tvce.gridpapaservers.com/TVCSEPT/ngrp:myStream_all/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-id="TVEInternacionalEurope.es@SD",TVE Internacional Europe (576p) [Geo-blocked]
+https://rtvelivestream-rtveplayplus.rtve.es/rtvesec/int/tvei_eu_main_576.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/RpKLCMvp/tve.png" tvg-id="TVEInternacionalEurope.es@HD",TVE Internacional Europe-Asia HD (1080p)
+https://siarlive.psce.pw/channel5
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/TVRIWorld.png/960px-TVRIWorld.png" tvg-id="TVRIWorld.id@SD",TVRI World (1080p)
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.ibb.co/vxntQD60/twojatv-hd-online.png" tvg-id="TwojaTV.pl@SD",Twoja.TV (1080p)
+https://stream.twoja.tv/ttv_hls/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/puBkpGj.png" tvg-id="UW.uk@SD",U&W
+http://92.114.85.72:8000/play/a0bj
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" tvg-id="UniMas.us@Central",UniMas Central (720p)
+http://190.197.41.183/Unimas/mono.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Logo_UniM%C3%A1s_2021.svg/960px-Logo_UniM%C3%A1s_2021.svg.png" tvg-id="UniMas.us@West",UniMas West (1080p)
+http://200.39.57.254:8008/play/a003/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" tvg-id="Univision.us@East",Univision (1080p)
+http://200.115.120.1:8000/play/ca106/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Logo_Univision_2019.svg/960px-Logo_Univision_2019.svg.png" tvg-id="Univision.us@West",Univision West (1080p)
+http://8an4dgnb.megatv.fun/iptv/8XFKA8883W9M5K/1099/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/AvR9LSn.png" tvg-id="UpTV.us@SD",Up TV (1080p)
+http://40.160.24.55/Up_TV/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vqVEcuT.png" tvg-id="Vasantham.sg@SD",Vasantham [Geo-blocked]
+https://d39v9xz8f7n8tk.cloudfront.net/hls/clr4ctv_vsnthm/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/0C9KunR.png" tvg-id="VenusHD.pk@SD",Venus HD (1080p)
+http://103.250.28.74:8000/play/a04x/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/Vice_TV_logo.svg/960px-Vice_TV_logo.svg.png" tvg-id="VICETV.us@SD",VICE TV (1080p)
+http://23.237.104.106:8080/USA_VICETV/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xW9rY7s.png" tvg-id="VietnamToday.vn@HD",Vietnam Today (1080p)
+https://amagi-live.ondemandkorea.com/amgplt0456.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/adtqhBy.png" tvg-id="VirginMediaTwo.ie@HD",Virgin Media Two HD (720p)
+http://41.205.93.154/BBCTHREE/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/fr/thumb/6/63/Voxafrica-1.png/960px-Voxafrica-1.png" tvg-id="VoxAfrica.uk@SD",VoxAfrica (720p)
+http://69.64.57.208/voxafrica/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/C4wIRxg.png" tvg-id="VSiN.us@SD",VSiN (720p)
+https://vsin-sgrewind.streamguys1.com/scte/live-2k/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/vZYlGIW.png" tvg-id="VTV1.vn@HD",VTV1 HD (1080p)
+https://live-a.fptplay53.net/live/media/vtv1/live247-hls-avc/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xm4KBwE.png" tvg-id="WairarapaTV.nz@SD",Wairarapa TV (1080p) [Not 24/7]
+https://stream1.np.co.nz/WAITVABR/WAITVABR/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Djng8pI.png" tvg-id="WapTV.ng@SD",Wap TV (720p) [Not 24/7]
+https://newproxy3.vidivu.tv/waptv/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/RAfuLul.png" tvg-id="WATCDT572.us@HD",WATC The POINT Network (1080p)
+https://tgn.bozztv.com/watc57/watc57-2/watc57-2/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/FhIRe7O.png" tvg-id="WATCDT571.us@HD",WATC TV57 (1080p)
+https://tgn2.bozztv.com/watc57/watc57-1/watc57-1/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XYMKPPT.png" tvg-id="WazobiaMaxTVAbuja.ng@SD",Wazobia Max TV Abuja (720p)
+https://wazobia.live:8333/channel/wmaxabuja.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/IeioxBp.png" tvg-id="WazobiaMaxTVNigeria.ng@SD",Wazobia Max TV Nigeria (720p)
+https://wazobia.live:8333/channel/wmax.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://rndcdn.dstv.com/dstvcms/2016/10/20/WazobiaMaz_new4-4logo_001_xlrg.png" tvg-id="WazobiaMaxTVPortHarcourt.ng@SD",Wazobia Max TV Port Harcourt (720p)
+https://wazobia.live:8333/channel/wmaxph.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-id="WBBJTV71.us@HD",WBBJ (Jackson TN) (432p)
+https://dai.google.com/linear/hls/event/HZ3JdLVcQ463l3b1BLXmmQ/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/WBTS-LD_NBC_10_Boston_logo.png/960px-WBTS-LD_NBC_10_Boston_logo.png" tvg-id="WBTSCD151.us@HD",WBTS-CD1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889713/hls/master.m3u8?ads.xumo_channelId=88889713a&ads.xumo_ifaType=&ads.xumo_providerId=3820&ads.xumo_providerName=NBCNBOS
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WBTV641.us@HD",WBTV News (720p)
+https://d2ugl2g2gz1giy.cloudfront.net/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d9/WCAUlogo2.svg/960px-WCAUlogo2.svg.png" tvg-id="WCAU621.us@HD",WCAU-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889705/hls/master.m3u8?ads.xumo_channelId=88889705a&ads.xumo_ifaType=&ads.xumo_providerId=3819&ads.xumo_providerName=NBCNPHI
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WCBITV41.us@HD",WCBI (Columbus MI) (720p)
+https://townnews.g-mana.live/media/4efc62fa-ad0b-445c-a839-4d1e7636988e/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XJGY8iv.png" tvg-id="WCCADT1.us@SD",WCCA 194 Worcester MA (WCCA-TV) (480p)
+https://worcester.vod.castus.tv/live/ch1.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/53/WDEF_2015.svg" tvg-id="WDEFTV121.us@HD",WDEF-TV News Chattanooga TN (720p)
+https://townnews.g-mana.live/media/a54a6409-5e91-46f0-9fee-06904c1fd094/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/FfEebzW.png" tvg-id="WEDQ34.us@HD",WEDQ-DT4 (1080p)
+https://wedqdt4.lls.pbs.org/wedqdt4-hls.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/p3L2vSL.png" tvg-id="WeHoTV.us@SD",West Hollywood WeHoTV (West Hollywood CA) (360p)
+https://cdn3.wowza.com/5/M0lyamVmM2JWcjhQ/weho/G0161_004/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WFLD501.us@HD",WFLD-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wfld-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WFTXTV361.us@HD",WFTX News Fort Myers FL (720p)
+https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/WFUT-DT_(2021).svg/960px-WFUT-DT_(2021).svg.png" tvg-id="WFUTDT681.us@HD",WFUT-DT1 (720p) [Geo-blocked]
+https://streaming-live-fcdn.api.prd.univisionnow.com/wfut/wfut.isml/hls/wfut.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/ION_Mystery_logo.svg/960px-ION_Mystery_logo.svg.png" tvg-id="WFXT662.us@SD",WFXT-DT2 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01438-ewscrippscompan-ionmystery-tablo/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Btw83JA.png" tvg-id="WGGSTV161.us@HD",WGGS-DT1 (720p)
+https://cdn-unified-hls.streamspot.com/ingest1/c7956aac88/playlist.m3u8?origin=1
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/gvHrpnf.png" tvg-id="WGNDT1.us@SD",WGN-DT1 (720p)
+http://23.237.104.106:8080/USA_WGN/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/89/PBS_logo_2019.svg" tvg-id="WGTV83.us@SD",WGTV-DT3 (1080p)
+https://wgtvdt3.lls.pbs.org/wgtvdt3-cmaf-hls.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/WHBQ_%282015%29.svg" tvg-id="WHBQTV131.us@HD",WHBQ-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg02104-imagicommcommun-whbqbreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/960px-CBS_logo_%282020%29.svg.png" tvg-id="WHIOTV71.us@HD",WHIO-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-whiobreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XGQfBbW.png" tvg-id="WhitePlainsCommunityMedia.us@SD",White Plains Community Media (360p)
+https://stream.swagit.com/live-edge/whiteplainsny/smil:std-4x3-1-b/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/a/a7/Wild_TV_logo_2020.png/960px-Wild_TV_logo_2020.png" tvg-id="WildTV.ca@SD",Wild TV (1080p)
+https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://whiplash.cc/assets/img/channels/windowtv.png" tvg-id="WindowTV.us@SD",Window TV (720p)
+https://cdn.whiplash.cc/whiplash-windowtv/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MN89dfS.png" tvg-id="WineWatchesWhiskey.us@HD",Wine Watches Whiskey (1080p)
+https://www-on-freecast.b-cdn.net/WWW-on-Freecast/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/1odhDRE.png" tvg-id="WCATDT15.us@SD",Winthrop Community Access TV (WCAT 15) (360p) [Not 24/7]
+https://frontdoor.wcat-tv.org/live-12/live/live.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zAtt7oq.png" tvg-id="Wired2FishTV.us@SD",Wired2Fish (720p) [Geo-blocked]
+https://wire2fish-klowdtv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WITI61.us@HD",WITI-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-witi-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/TBjVU9L.png" tvg-id="WJAXTV471.us@HD",WJAX-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wjaxbreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mrWo0P1.png" tvg-id="WJXT71.us@HD",WJXT News4JAX (Jacksonville FL) (720p)
+https://dai.google.com/linear/hls/event/RDmbn03GRCOLNG1eetEKhg/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="" tvg-id="WLNGRadio.us@SD",WLNG Radio (410p) [Not 24/7]
+http://wlngstudiowebcam.srfms.com:1935/wlngstudiowebcam/livestream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/e/e0/WMBC_logo.jpg" tvg-id="WMBCTV631.us@HD",WMBC-DT1 (720p)
+http://d029dcec.kazmazpaz.ru/iptv/GVR4V8HYAGBS5V/1098/manifest.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WMGTTV411.us@HD",WMGT-TV News (Macon GA) (720p)
+https://townnews.g-mana.live/media/e6909128-cd42-4690-8340-4b8a49455666/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Create_TV_network_logo.svg/960px-Create_TV_network_logo.svg.png" tvg-id="WMPT222.us@SD",WMPT-DT2 (PBS Create)
+https://2-fss-1.streamhoster.com/pl_122/amlst:201814-2122456/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/43/WNBC_4_NY.svg/960px-WNBC_4_NY.svg.png" tvg-id="WNBC471.us@HD",WNBC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889709/hls/master.m3u8?ads.xumo_channelId=88889709a&ads.xumo_ifaType=&ads.xumo_providerId=3816&ads.xumo_providerName=NBCNNY
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/zZd9Tkt.png" tvg-id="WNYW51.us@HD",WNYW-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-wnyw-lgus/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/rhIwUcQ.png" tvg-id="WomensSportsNetwork.us@SD",Women's Sports Network (1080p)
+https://d39accvx65hq9o.cloudfront.net/Womens_Sports_Network.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://images-3.rakuten.tv/storage/global-live-channel/translation/artwork/80af06f2-a12e-4406-bd13-b932fd69fffe-width200-quality90.png" tvg-id="WorldBilliards.pl@SD",World Billiards TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/xtbkDDN.png" tvg-id="WorldHarvestTV.us@SD",World Harvest TV (360p)
+https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/PIX11_2017.svg/960px-PIX11_2017.svg.png" tvg-id="WPIXHD.us@SD",WPIX-HD (576p)
+https://tvsen6.aynaott.com/pix11/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/960px-NBC_logo_2022_%28vertical%29.svg.png" tvg-id="WPTVTV51.us@HD",WPTV News West Palm Beach FL (720p)
+https://content.uplynk.com/channel/b02350ef854c4eef8358eead1f59a5cc.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/MNSBpDW.png" tvg-id="WPXI111.us@HD",WPXI-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wpxibreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/7JpMArM.png" tvg-id="WRCDT1.us@SD",WRC-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889708/hls/master.m3u8?ads.xumo_channelId=88889708a&ads.xumo_ifaType=&ads.xumo_providerId=3830&ads.xumo_providerName=NBCNWAS
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/38/WSB-TV_2_logo.png" tvg-id="WSBDT1.us@SD",WSB-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsbbreakingnews-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png" tvg-id="WSBSTV221.us@HD",WSBS-DT1 (1080p)
+https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Daystar_(2008%E2%80%93present)_unmodified_logo.svg/960px-Daystar_(2008%E2%80%93present)_unmodified_logo.svg.png" tvg-id="WSLFLD351.us@HD",WSLF-LD 35.1 (720p)
+https://content.uplynk.com/channel/1992858a34c3423dbdad491d07ae6f75.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-id="WSOCTV91.us@HD",WSOC-DT1 (1080p)
+https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png" tvg-id="WTNH81.us@HD",WTNH-DT1 (720p)
+https://tkx.mp.lura.live/rest/v2/mcp/video/11135425.m3u8?anvack=pDKqMLyG9pVqMkSYRJHWu3XROjAlvR6z&eud=1iqQ+zazzEobWIhmmj6bA8STRJm4HceYQApO7QYBvy9BTps0KI7LuXGD4KK7RLtBTyO8KsbFw40vgX8hrw+xqw==
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/ktLKla7.png" tvg-id="WTTG51.us@HD",WTTG-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox5dcwttg-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8d/WTVJ_2023.svg/960px-WTVJ_2023.svg.png" tvg-id="WTVJ61.us@HD",WTVJ-DT1 (1080p)
+https://nbculocallive.akamaized.net/hls/live/2037498/miami/stream1/master.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/XIoBeja.png" tvg-id="WTVQDT361.us@HD",WTVQ ABC 36 News (Lexington KY) (720p)
+https://townnews.g-mana.live/media/14d1fd2c-0548-4803-80ad-6657831a7981/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WTVT131.us@HD",WTVT-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13tampabaywtvt-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/fRjmk5r.png" tvg-id="WTXFTV291.us@HD",WTXF-DT1 (1080p)
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox29philadelphiawtx-vizious/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/WVIT_Logo_2017.svg/960px-WVIT_Logo_2017.svg.png" tvg-id="WVIT301.us@HD",WVIT-DT1 (1080p)
+https://d368vp0qqzvkid.cloudfront.net/11603/88889707/hls/master.m3u8?ads.xumo_channelId=88889707a&ads.xumo_ifaType=&ads.xumo_providerId=3832&ads.xumo_providerName=NBCNCT
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/en/3/3f/WVVH-CD_logo.png" tvg-id="WVVHCD181.us@HD",WVVH-CD 18.1 (720p)
+https://2-fss-2.streamhoster.com/pl_138/amlst:207282-6094500/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/960px-MyNetworkTV_2D_Logo.svg.png" tvg-id="WWORTV91.us@HD",WWOR-DT1
+http://37c18028.akadatel.com/iptv/T6XNCP6L7LLKPD/1088/mpegts
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/Q7xrM2w.png" tvg-id="WXTVDT681.us@HD",WXTV-DT1
+https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/960px-Fox_Networks_Group_US_logo.svg.png" tvg-id="WXXVTV251.us@HD",WXXV-TV News (Biloxi MS) (720p)
+https://townnews.g-mana.live/media/c8c354e0-672f-4368-a17d-a862ee98af4a/main.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/960px-YES_Network_logo.svg.png" tvg-id="YesNetwork.us@SD",Yes Network (720p)
+http://23.237.104.106:8080/USA_YES_NETWORK/index.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/VH8RiHg.png" tvg-id="YuGiOhenespanol.us@SD",Yu-Gi-Oh! en espanol (1080p)
+https://amg01796-amg01796c18-rakuten-es-7491.playouts.now.amagi.tv/playlist/amg01796-fastmediafast-yugiohees-rakutenes/playlist.m3u8
+#EXTINF:-1 group-title="Undefined" tvg-logo="https://i.imgur.com/mARKUZ9.png" tvg-id="ZeeTVCanada.ca@SD",Zee TV Canada (1080p)
+https://origin-cae-m462953.toober.com/4c3caf7294b3/c8bf99484885/playlist.m3u8
 #EXTINF:-1 group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" tvg-id="",4K: RELAX 1 ᵁᴴᴰ 3840P
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=779155&extension=ts&play_token=X5SCAmbabL
 #EXTINF:-1 group-title="4K| RELAX ᵁᴴᴰ ³⁸⁴⁰ᴾ ☼" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13764.png?ver=11674" tvg-id="",4K: RELAX 10 ᵁᴴᴰ 3840P
@@ -3173,6 +3755,802 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=153
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537283&extension=ts&play_token=1he2TihzS1
 #EXTINF:-1 group-title="CA| PRIME ᴿᴬᵂ ⁶⁰ᶠᵖˢ" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13797.png?ver=39230" tvg-id="",PRIME: YTV ᴿᴬᵂ
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1537282&extension=ts&play_token=gc7toIjgkZ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12328.jpg?74236" tvg-id="",IT: BOING
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284763&extension=ts&play_token=izUz6yqSjm
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12328.jpg?76107" tvg-id="",IT: BOING PLUS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284758&extension=ts&play_token=lfH2xZSR8U
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12487.jpg?89201" tvg-id="",IT: CANALE 20 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284599&extension=ts&play_token=OZBghPf0wr
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12487.jpg?89201" tvg-id="",IT: CANALE 20 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284598&extension=ts&play_token=0ehtlzOJc4
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?72566" tvg-id="",IT: CANALE 5 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284573&extension=ts&play_token=TZlkHjca95
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/10563.jpg?72566" tvg-id="",IT: CANALE 5 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284572&extension=ts&play_token=kGtndXxZPd
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12333.png?19925" tvg-id="",IT: cartoonito
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284764&extension=ts&play_token=8Wau8sxK7V
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13288.png?72723" tvg-id="",IT: CIELO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284616&extension=ts&play_token=3p9Lp7nTYL
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13288.png?72723" tvg-id="",IT: CIELO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284615&extension=ts&play_token=scAZ0SR2VC
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13287.jpg?59390" tvg-id="",IT: CINE34 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284585&extension=ts&play_token=KO4lc4brQA
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6315.jpg?79761" tvg-id="",IT: CLASSICA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284665&extension=ts&play_token=Na4FZ8S55U
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-id="",IT: DAZN DIRETTA GOL SERIE A UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=300630&extension=ts&play_token=7Nd6kWWXqg
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12983.png?ver=89182" tvg-id="",IT: DAZN DIRETTA GOL SERIE B UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=300631&extension=ts&play_token=v6wcjr9j01
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6563.jpg?44506" tvg-id="",IT: DMAX 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284618&extension=ts&play_token=AThITBkWoH
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6563.jpg?44506" tvg-id="",IT: DMAX UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284617&extension=ts&play_token=y43y7BUnEk
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11966.jpg?12883" tvg-id="",IT: EURONEWS ITA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284768&extension=ts&play_token=tVi67rK2vY
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12346.jpg?97814" tvg-id="",IT: FOCUS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284743&extension=ts&play_token=slzJXZpeUi
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12346.jpg?97814" tvg-id="",IT: FOCUS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284744&extension=ts&play_token=fqZhqKMerH
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3936.jpg?63724" tvg-id="",IT: FOOD NETWORK UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284604&extension=ts&play_token=Hvt2XakWVr
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12339.jpg?44289" tvg-id="",IT: Frisbee
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284766&extension=ts&play_token=7iJeyd9Vpq
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12398.jpg?79648" tvg-id="",IT: GIALLO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284603&extension=ts&play_token=HKTP0GHKje
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13113.jpg?2664" tvg-id="",IT: HSE24 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284608&extension=ts&play_token=NDqnIhtWek
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12324.jpg?61668" tvg-id="",IT: IRIS UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284602&extension=ts&play_token=51LeqhxDDt
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13283.png?94577" tvg-id="",IT: ITALIA 1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284575&extension=ts&play_token=RGDv7Qx6Mz
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13283.png?94577" tvg-id="",IT: ITALIA 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284574&extension=ts&play_token=kGPMIZd5h0
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12314.jpg?42411" tvg-id="",IT: ITALIA 2 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284600&extension=ts&play_token=wAWavUTOZy
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12451.jpg?52361" tvg-id="",IT: ITALIAN FISHING TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284619&extension=ts&play_token=O9p8Y8Lrw7
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12344.jpg?53315" tvg-id="",IT: K2
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284765&extension=ts&play_token=aRKNwweK12
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13286.jpg?81568" tvg-id="",IT: LA 5 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284601&extension=ts&play_token=xtSFP1aiab
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13285.png?90791" tvg-id="",IT: LA 7 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284577&extension=ts&play_token=Pfyc7i6eKU
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13285.png?90791" tvg-id="",IT: LA 7 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284576&extension=ts&play_token=2Kyo8Zgc86
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12325.jpg?40354" tvg-id="",IT: LA 7D 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284581&extension=ts&play_token=ySm0jruI6z
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12325.jpg?40354" tvg-id="",IT: LA 7D UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284580&extension=ts&play_token=qAZqy3DGU2
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7857.jpg?19139" tvg-id="",IT: MEDIA EXTRA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284597&extension=ts&play_token=gKiWBP4NHO
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1424.png?66242" tvg-id="",IT: MOTORTREND
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284681&extension=ts&play_token=bmqB8CXKLL
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12650.jpg?99689" tvg-id="",IT: MTV  UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284667&extension=ts&play_token=bmr94nT7Ne
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12650.jpg?99689" tvg-id="",IT: MTV 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284668&extension=ts&play_token=67afy2OuLu
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12650.jpg?99689" tvg-id="",IT: MTV MUSIC UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284666&extension=ts&play_token=1yfptVMpJ2
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3821.jpg?5328" tvg-id="",IT: NASATV UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284606&extension=ts&play_token=480Qg3SLzm
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12345.jpg?70158" tvg-id="",IT: NOVE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284584&extension=ts&play_token=wXdFNTnSbh
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12345.jpg?70158" tvg-id="",IT: NOVE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284583&extension=ts&play_token=pdKq9AoQ80
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8344.jpg?59204" tvg-id="",IT: PADREPIO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284595&extension=ts&play_token=Rc9LV5MLvX
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/766.png?35408" tvg-id="",IT: PARAMOUNT UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284609&extension=ts&play_token=poHRIUTmob
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/2985.jpg?4653" tvg-id="",IT: PREMIUM ACTION 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284674&extension=ts&play_token=8BlXRwJAxR
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12189.jpg?89796" tvg-id="",IT: QVC UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284607&extension=ts&play_token=YZaalV7cU4
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14623.png?45950" tvg-id="",IT: RADIO ITALIA TREND 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284741&extension=ts&play_token=7CAL8X6F08
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256" tvg-id="",IT: RAI 1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284565&extension=ts&play_token=pWmaKdRwJc
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11960.png?42256" tvg-id="",IT: RAI 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284564&extension=ts&play_token=Iu2knGyB3U
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11959.png?17707" tvg-id="",IT: RAI 2 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284568&extension=ts&play_token=S9sW0zQi7m
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11959.png?29756" tvg-id="",IT: RAI 2 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284566&extension=ts&play_token=OXMyiWpnmA
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11958.jpg?70052" tvg-id="",IT: RAI 3 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284569&extension=ts&play_token=PS7n7m1Hwz
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11958.jpg?22156" tvg-id="",IT: RAI 3 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284567&extension=ts&play_token=20LARRJ0iG
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11969.png?30042" tvg-id="",IT: RAI 4 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284591&extension=ts&play_token=Q2qqWBu4I0
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11969.png?30042" tvg-id="",IT: RAI 4 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284590&extension=ts&play_token=Ss3RkDOwuH
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11957.png?89751" tvg-id="",IT: RAI 5 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284593&extension=ts&play_token=yDwsE6RWit
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11957.png?89751" tvg-id="",IT: RAI 5 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284592&extension=ts&play_token=7z4ZvwU5hO
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11955.jpg?2876" tvg-id="",IT: RAI GULP 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284759&extension=ts&play_token=YnjGQDMb75
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11955.jpg?2876" tvg-id="",IT: RAI GULP HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284760&extension=ts&play_token=qiZAXXXnJt
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?33705" tvg-id="",IT: RAI MOVIE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284589&extension=ts&play_token=1yqyltSrDD
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?33705" tvg-id="",IT: RAI MOVIE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284588&extension=ts&play_token=Pzmd1iCQMQ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11953.jpg?47870" tvg-id="",IT: RAI NEWS 24
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284772&extension=ts&play_token=J6StV1pLGV
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?33705" tvg-id="",IT: RAI PREMIUM 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284587&extension=ts&play_token=1ALq6GV5cR
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?33705" tvg-id="",IT: RAI PREMIUM UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284586&extension=ts&play_token=NIW0y48LTY
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?14249" tvg-id="",IT: RAI SCUOLA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284739&extension=ts&play_token=hocp0jDgBq
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?14249" tvg-id="",IT: RAI SCUOLA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284740&extension=ts&play_token=Y9xHZYLCCJ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?65251" tvg-id="",IT: RAI SPORT 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284621&extension=ts&play_token=X58vn4CGK9
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?65251" tvg-id="",IT: RAI SPORT UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284620&extension=ts&play_token=xLMymxqQhw
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?14249" tvg-id="",IT: RAI STORIA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284738&extension=ts&play_token=hflzbtKYlc
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11970.jpg?14249" tvg-id="",IT: RAI STORIA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284737&extension=ts&play_token=DrD17Z8BUN
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11968.jpg?25734" tvg-id="",IT: RAI YOYO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284761&extension=ts&play_token=Kx0VKLzIxy
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11968.jpg?25734" tvg-id="",IT: RAI YOYO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284762&extension=ts&play_token=WgSt2iJXKP
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12358.jpg?ver=33712" tvg-id="",IT: REALTIME 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284614&extension=ts&play_token=3Jvg7Pn5tF
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12358.jpg?ver=33712" tvg-id="",IT: REALTIME UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284613&extension=ts&play_token=GcQgw9DTSy
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11947.jpg?23378" tvg-id="",IT: RETE 4 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284571&extension=ts&play_token=5ixRHIZNJZ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11947.jpg?23378" tvg-id="",IT: RETE 4 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284570&extension=ts&play_token=c1d0WwOWeo
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12793.jpg?29293" tvg-id="",IT: RSI LA 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284578&extension=ts&play_token=7INtCvIXtE
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12341.jpg?65457" tvg-id="",IT: RSI LA 2 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284579&extension=ts&play_token=LzfpdqExyX
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?95459" tvg-id="",IT: SKY ARTE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284726&extension=ts&play_token=FOB9taUnfF
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?95459" tvg-id="",IT: SKY ARTE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284725&extension=ts&play_token=NtX0MKiL2M
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?66287" tvg-id="",IT: SKY ATLANTIC 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284657&extension=ts&play_token=Q6POnICqdn
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?66287" tvg-id="",IT: SKY ATLANTIC UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284656&extension=ts&play_token=bZdrjZcOXT
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?73510" tvg-id="",IT: SKY BABY 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284757&extension=ts&play_token=yClT3WZhTQ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/631.jpg?73510" tvg-id="",IT: SKY BABY UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284756&extension=ts&play_token=yt1yUIdyAK
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6163.png?25214" tvg-id="",IT: SKY BOOMERANG UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284753&extension=ts&play_token=mN4lBa9N8L
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89370" tvg-id="",IT: SKY CACCIA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284702&extension=ts&play_token=ZdTkrZVFRZ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284707&extension=ts&play_token=wyGBvddTuT
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284706&extension=ts&play_token=aHhJ9ZKsgq
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 2 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284709&extension=ts&play_token=cqxePB7G6a
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 2 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284708&extension=ts&play_token=hw1KQF48vB
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 3 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284711&extension=ts&play_token=cMdfh3cemB
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 3 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284710&extension=ts&play_token=0vKEGXz3n1
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 4 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284722&extension=ts&play_token=jur138yAE5
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 4 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284712&extension=ts&play_token=DISTe5SkCz
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 5 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284715&extension=ts&play_token=5IlwuO3pt4
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 5 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284713&extension=ts&play_token=qKexFmKXAm
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 6 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284716&extension=ts&play_token=G6pLwazh7a
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 6 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284714&extension=ts&play_token=JTpmDi4PZR
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 7 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284718&extension=ts&play_token=2qJTIVlptL
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY CALCIO 7 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284717&extension=ts&play_token=bL63JiDUhu
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?80302" tvg-id="",IT: SKY CARTOON NETWORK 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284755&extension=ts&play_token=O1dcpuQmXg
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/633.png?80302" tvg-id="",IT: SKY CARTOON NETWORK UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284754&extension=ts&play_token=Nzo731iE3o
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA ACTION 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284635&extension=ts&play_token=NIZURFbNoN
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA ACTION UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284634&extension=ts&play_token=jnUKrEeByg
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA COLLECTION 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284630&extension=ts&play_token=R6SassPs70
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA COLLECTION UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284631&extension=ts&play_token=siVcefAk9o
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA COMEDY 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284643&extension=ts&play_token=63MjM9uvwr
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA COMEDY UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284642&extension=ts&play_token=8JGBMcuazO
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DRAMA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284640&extension=ts&play_token=w3NgpZ77Ox
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DRAMA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284639&extension=ts&play_token=xFLIIh994b
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DUE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284627&extension=ts&play_token=7JErDLStxV
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DUE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284626&extension=ts&play_token=fK4eUGLnuy
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DUE24 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284629&extension=ts&play_token=5cA6LQu5YU
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA DUE24 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284628&extension=ts&play_token=p6TKbi2FpD
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA FAMILY 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284633&extension=ts&play_token=3poh1hCq7v
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA FAMILY UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284632&extension=ts&play_token=DJcqxsUIhz
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA ROMANCE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284641&extension=ts&play_token=7dZ29L23Oq
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA ROMANCE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284638&extension=ts&play_token=Pvb4xEa8yy
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA SUSPENSE 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284637&extension=ts&play_token=18rtFadl9J
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6473.jpg?85410" tvg-id="",IT: SKY CINEMA SUSPENSE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284636&extension=ts&play_token=3WXeouMeAV
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12374.jpg?73735" tvg-id="",IT: SKY CINEMA UNO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284623&extension=ts&play_token=CXi5gqew3J
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12374.jpg?73735" tvg-id="",IT: SKY CINEMA UNO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284622&extension=ts&play_token=3rWdZ8iIVT
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12374.jpg?36464" tvg-id="",IT: SKY CINEMA UNO24 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284625&extension=ts&play_token=aXLnG5Bd3z
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12374.jpg?73735" tvg-id="",IT: SKY CINEMA UNO24 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284624&extension=ts&play_token=DFHto8RxmE
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?30932" tvg-id="",IT: SKY COMEDY CENTRAL UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284664&extension=ts&play_token=nh5UyPgfh4
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?14915" tvg-id="",IT: SKY CRIME INVEST 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284663&extension=ts&play_token=PEyzlu0dRf
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13020.jpg?14915" tvg-id="",IT: SKY CRIME INVEST UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284662&extension=ts&play_token=xxj5S3u4HD
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3128.jpg?12694" tvg-id="",IT: SKY DAZN 1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284724&extension=ts&play_token=51GHjEjEM5
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3128.jpg?12694" tvg-id="",IT: SKY DAZN 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284723&extension=ts&play_token=Vr1GWcBZhH
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6408.png?15512" tvg-id="",IT: SKY DEAJUNIOR 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284746&extension=ts&play_token=NQ9nUKOXWf
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6408.png?15512" tvg-id="",IT: SKY DEAJUNIOR UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284745&extension=ts&play_token=zKL6L3QsJE
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6411.jpg?4527" tvg-id="",IT: SKY DEAKIDS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284748&extension=ts&play_token=64CLJYWCQg
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6411.jpg?4527" tvg-id="",IT: SKY DEAKIDS UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284747&extension=ts&play_token=GUHrvG4XDU
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/617.png?71983" tvg-id="",IT: SKY DISCOVERY  4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284732&extension=ts&play_token=VrboL5tS7G
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/617.png?71983" tvg-id="",IT: SKY DISCOVERY  UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284731&extension=ts&play_token=LHaLx1izVP
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?54990" tvg-id="",IT: SKY EUROSPORT 1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284699&extension=ts&play_token=ExsxE94pX7
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?54990" tvg-id="",IT: SKY EUROSPORT 1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284698&extension=ts&play_token=17OeFMNnWo
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?54990" tvg-id="",IT: SKY EUROSPORT 2 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284701&extension=ts&play_token=1Y5yFcc6TO
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1934.png?54990" tvg-id="",IT: SKY EUROSPORT 2 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284700&extension=ts&play_token=rOMMRqZ6Ny
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?32632" tvg-id="",IT: SKY HISTORY 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284736&extension=ts&play_token=dYQcyVFe6I
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/621.jpg?32632" tvg-id="",IT: SKY HISTORY UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284735&extension=ts&play_token=Oj7FLLSWBW
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3123.jpg?23003" tvg-id="",IT: SKY INTER TV UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284720&extension=ts&play_token=4UFQvxDsQ7
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34373" tvg-id="",IT: SKY LAF 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284672&extension=ts&play_token=rDI7Vt9PNT
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?34373" tvg-id="",IT: SKY LAF UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284671&extension=ts&play_token=nItlhKgW3A
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY LAZIO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284721&extension=ts&play_token=VNePOig12b
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89784" tvg-id="",IT: SKY MILAN TV UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284719&extension=ts&play_token=MF67EUL8Ju
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/743.png?30789" tvg-id="",IT: SKY NICKELODEON 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284752&extension=ts&play_token=crfL3ySBXU
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/743.png?30789" tvg-id="",IT: SKY NICKELODEON UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284751&extension=ts&play_token=aMaQhOnDfN
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6619.png?62651" tvg-id="",IT: SKY NICKJR 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284750&extension=ts&play_token=wBvCf1LvlD
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6619.png?62651" tvg-id="",IT: SKY NICKJR UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284749&extension=ts&play_token=Fxs85jcOR8
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?89370" tvg-id="",IT: SKY PESCA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284703&extension=ts&play_token=x0tnNyq4Ol
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12412.jpg?90980" tvg-id="",IT: SKY SPORT 24 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284683&extension=ts&play_token=7pJOkjY552
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12412.jpg?90980" tvg-id="",IT: SKY SPORT 24 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284682&extension=ts&play_token=qg4IljcSxQ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?13641" tvg-id="",IT: SKY SPORT ACTION 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284661&extension=ts&play_token=NNuGnoxq5H
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?13641" tvg-id="",IT: SKY SPORT ACTION UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284660&extension=ts&play_token=MdGE1ylmTQ
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT ARENA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284691&extension=ts&play_token=9syqbJr0el
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT ARENA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284690&extension=ts&play_token=fWI5aC8JsP
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258" tvg-id="",IT: SKY SPORT CALCIO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284705&extension=ts&play_token=WiaCDoDBmN
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?94258" tvg-id="",IT: SKY SPORT CALCIO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284704&extension=ts&play_token=eDdUvE9rRm
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT COLLECTION 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284693&extension=ts&play_token=x0VQ3ApEd5
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT COLLECTION UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284692&extension=ts&play_token=JGFpmdiCXM
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT F1 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284695&extension=ts&play_token=2OXskOJUiz
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT F1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284694&extension=ts&play_token=HUIOflXC0G
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT FOOTBALL 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284689&extension=ts&play_token=BtaZoVFUD3
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT FOOTBALL UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284688&extension=ts&play_token=yi3qfeLNlm
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT MOTOGP 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284697&extension=ts&play_token=Jq8mnYSI60
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT MOTOGP UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284696&extension=ts&play_token=CQKceGXu0r
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT NBA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284685&extension=ts&play_token=b2OvZWaQ4J
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT NBA UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284684&extension=ts&play_token=n9BoQMdruE
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT UNO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284687&extension=ts&play_token=XGzvFLKif0
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/6437.jpg?45195" tvg-id="",IT: SKY SPORT UNO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284686&extension=ts&play_token=xm6hpNmm30
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11948.jpg?94528" tvg-id="",IT: SKY TG24 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284771&extension=ts&play_token=gugA2r13up
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11948.jpg?94528" tvg-id="",IT: SKY TG24 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284770&extension=ts&play_token=sB27vwPh38
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?66287" tvg-id="",IT: SKY UNO 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284655&extension=ts&play_token=Ebx6ai0aZn
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3134.jpg?66287" tvg-id="",IT: SKY UNO UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284654&extension=ts&play_token=suPXQa4bat
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/668.png?23582" tvg-id="",IT: SPIKE UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284610&extension=ts&play_token=DNJRZFlntN
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12408.jpg?34784" tvg-id="",IT: SPORT ITALIA 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284680&extension=ts&play_token=WL7Ea5D40A
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12430.jpg?48044" tvg-id="",IT: SUPER TENNIS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284679&extension=ts&play_token=VOwtL8GeJs
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3047.jpg?44615" tvg-id="",IT: SUPER!
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284767&extension=ts&play_token=kqu5D78zc0
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12533.jpg?98915" tvg-id="",IT: TG NORBA 24
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284769&extension=ts&play_token=Ds3PznImw2
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12348.jpg?56556" tvg-id="",IT: TGCOM24
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284773&extension=ts&play_token=YYXlgokZPh
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12399.jpg?23470" tvg-id="",IT: TOP CRIME UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284596&extension=ts&play_token=hc0eLC4BVV
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11949.jpg?9609" tvg-id="",IT: TV 2000 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284612&extension=ts&play_token=FPAV5mcprT
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11949.jpg?80601" tvg-id="",IT: TV2000 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284594&extension=ts&play_token=ehnYvOQ4kY
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/7841.jpg?63798" tvg-id="",IT: TV8 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284582&extension=ts&play_token=88CVNOSsYr
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/767.png?44281" tvg-id="",IT: VH1 UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284611&extension=ts&play_token=FFiAt7QCVc
+#EXTINF:-1 group-title="IT| PLATINUM TV UHD/4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8312.jpg?77718" tvg-id="",IT: WINETV UHD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=284605&extension=ts&play_token=mqKjNHcv7v
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3893.jpg?46441" tvg-id="",CHL: 24 HOURS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609671&extension=ts&play_token=0rxsSZ85zb
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14812.png?20087" tvg-id="",CHL: CHV NOTICIAS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609670&extension=ts&play_token=z7ae0x76CS
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?27932" tvg-id="",CHL: CNN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609669&extension=ts&play_token=f2NNVazhfk
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12612.jpg?5057" tvg-id="",CHL: FOX SPORTS CHILE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609668&extension=ts&play_token=P2WO0WDXtl
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11169.png?43693" tvg-id="",CHL: M NOTICIAS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609666&extension=ts&play_token=lx3T6RFnOl
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12065.jpg?66171" tvg-id="",CHL: REC TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609665&extension=ts&play_token=I24LAVTut1
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/14813.png?92804" tvg-id="",CHL: T13 MOVIL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609664&extension=ts&play_token=mBWi9QIg1Z
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8351.jpg?68652" tvg-id="",CHL: TELETRAK
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609663&extension=ts&play_token=R5iQPh7pga
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?40482" tvg-id="",CHL: TNT SPORT
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609658&extension=ts&play_token=82acoezl4g
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?40482" tvg-id="",CHL: TNT SPORT HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609659&extension=ts&play_token=OYUtRxYXfD
+#EXTINF:-1 group-title="LA| CHILE" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/754.png?12562" tvg-id="",CHL: TV CHILE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609662&extension=ts&play_token=2kK83D7nbl
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1877.jpg?90592" tvg-id="",LA: A&E
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609547&extension=ts&play_token=9yegCLSrRF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.AyEhd.png" tvg-id="",LA: A&E HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609546&extension=ts&play_token=q9MpYpu7gK
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/AMC_HD.png" tvg-id="",LA: AMC
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609545&extension=ts&play_token=XNCR1dsafM
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.amchd.png" tvg-id="",LA: AMC HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609544&extension=ts&play_token=BAhsuhPhAN
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/120/8229.png?16972" tvg-id="",LA: AMÉRICA TEVÉ MIAMI
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609548&extension=ts&play_token=uO5jlI4wkP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/ANIMAL_PLANET.png" tvg-id="",LA: ANIMAL PLANET HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609543&extension=ts&play_token=unK1Rwmp2u
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.ant_noticia.png" tvg-id="",LA: ATV NOTICIAS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609542&extension=ts&play_token=4AIR7bbDN4
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/AXN_HD.png" tvg-id="",LA: AXN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609541&extension=ts&play_token=nR7AqlVFOv
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.AYMSports.png" tvg-id="",LA: AYM SPORTS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609540&extension=ts&play_token=XDpGAQAs25
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.aztecauno.png" tvg-id="",LA: AZTECA UNO
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609539&extension=ts&play_token=auh4FNvknA
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.babytv.png" tvg-id="",LA: BABY TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609538&extension=ts&play_token=ZXmaFSRqwN
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/BABY_TV.png" tvg-id="",LA: BABY TV HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609537&extension=ts&play_token=aB6mtaw28c
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.BBC_World_News.png" tvg-id="",LA: BBC WORLD NEWS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609536&extension=ts&play_token=HClB40o5Cd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.boliviatv.png" tvg-id="",LA: BOLIVIA TV HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609535&extension=ts&play_token=Lp41OUVwUn
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Bomerang.png" tvg-id="",LA: BOOMERANG
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609525&extension=ts&play_token=BrgbMaTqSk
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/BOOMERANG_HD.png" tvg-id="",LA: BOOMERANG HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609524&extension=ts&play_token=EkkD0bQEUL
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/PARAGUAY-TV.png" tvg-id="",LA: C9N PY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609529&extension=ts&play_token=SyYtIhqKEB
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cablenoticias.png" tvg-id="",LA: CABLE NOTICIAS COLOMBIA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609523&extension=ts&play_token=v3jOkkFlFj
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Cartoon_Network_HD.png" tvg-id="",LA: CARTOON NETWORK HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609522&extension=ts&play_token=0iF0KkoIdg
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cdf.png" tvg-id="",LA: CDF CHILE
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609521&extension=ts&play_token=WnG94Ld3g2
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cgtnespanol.png" tvg-id="",LA: CGTN
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609520&extension=ts&play_token=Xk3DuzEqOJ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/CINECANAL.png" tvg-id="",LA: CINECANAL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609519&extension=ts&play_token=hx0V3Y2dgI
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cinecanal-hd.png" tvg-id="",LA: CINECANAL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609518&extension=ts&play_token=N2yQffsHuP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/CINEMAX_EAST_HD.png" tvg-id="",LA: CINEMAX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609517&extension=ts&play_token=XlWfnWhzzQ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cnnchile.png" tvg-id="",LA: CNN CHILE
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609516&extension=ts&play_token=fL1keWWLOZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?18760" tvg-id="",LA: CNN ESPANOL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=753957&extension=ts&play_token=NKW05IYWwh
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Comedycentral.png" tvg-id="",LA: COMEDY CENTRAL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609515&extension=ts&play_token=NvLo0TviOF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/cubavision.png" tvg-id="",LA: CUBAVISION
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609513&extension=ts&play_token=ddfNzUWMpM
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.cubavision.png" tvg-id="",LA: CUBAVISION INT.
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609514&extension=ts&play_token=fo58AsTRer
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DE_PELICULA_HD.png" tvg-id="",LA: DE PELICULA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609512&extension=ts&play_token=E2DthEQtDF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.depelicula_clasico.png" tvg-id="",LA: DE PELICULA CLASSICO
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609511&extension=ts&play_token=qROiSTqqnS
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.depelicula_hd.png" tvg-id="",LA: DE PELICULA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609510&extension=ts&play_token=9pETdorWdH
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DE_PELICULA_PLUS_HD.png" tvg-id="",LA: DE PELICULA PLUS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609509&extension=ts&play_token=B9vgNV2oSK
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.depeliculaplus.png" tvg-id="",LA: DE PELICULA PLUS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609508&extension=ts&play_token=kCBGJOe7gE
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.discoverychannel.png" tvg-id="",LA: DISCOVERY CHANNEL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609507&extension=ts&play_token=iNG59g1Z9B
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISCOVERY_CHANNEL_HD.png" tvg-id="",LA: DISCOVERY CHANNEL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609506&extension=ts&play_token=jEUwBVSfYF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/620.jpg?90863" tvg-id="",LA: DISCOVERY HOME & HEALTH HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609505&extension=ts&play_token=RhX30WjdwE
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Discovery_kids.png" tvg-id="",LA: DISCOVERY KIDS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609504&extension=ts&play_token=iDAd6Ocztd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISCOVERY_KIDS_HD.png" tvg-id="",LA: DISCOVERY KIDS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609503&extension=ts&play_token=XDU7WhIcS2
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISCOVERY_THEATER_HD.png" tvg-id="",LA: DISCOVERY THEATER HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609502&extension=ts&play_token=LLylsNRH2G
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Discovery_Turbo.png" tvg-id="",LA: DISCOVERY TURBO
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609501&extension=ts&play_token=l7T9sgyQdx
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISCOVERY_TURBO_HD.png" tvg-id="",LA: DISCOVERY TURBO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609500&extension=ts&play_token=uaJYFxWao6
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.discoveryworld.png" tvg-id="",LA: DISCOVERY WORLD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609499&extension=ts&play_token=bVJaKqpVF9
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISCOVERY_WORLD_HD.png" tvg-id="",LA: DISCOVERY WORLD HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609498&extension=ts&play_token=9a8LlmTIIw
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.disneyhd.png" tvg-id="",LA: DISNEY CHANNEL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609497&extension=ts&play_token=IsJoHfEysc
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Disney_Junior.png" tvg-id="",LA: DISNEY JUNIOR
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609496&extension=ts&play_token=EVOOBoWcwp
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/DISNEY_JUNIOR.png" tvg-id="",LA: DISNEY JUNIOR HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609495&extension=ts&play_token=sW1c9iOTVH
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Disney_XD_HD.png" tvg-id="",LA: DISNEY XD HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609494&extension=ts&play_token=7W8kIqnNpu
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.distritocomedia.png" tvg-id="",LA: DISTRITO COMEDIA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609493&extension=ts&play_token=0dnODUse0A
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Elgourmet.png" tvg-id="",LA: EL GOURMET
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609492&extension=ts&play_token=p4hwwi4JLR
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/EL_GOURMET_HD.png" tvg-id="",LA: EL GOURMET HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609491&extension=ts&play_token=N9V7qISl8f
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.forotv.png" tvg-id="",LA: FORO TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609490&extension=ts&play_token=LnvctK48cz
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.forotvhd.png" tvg-id="",LA: FORO TV HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609489&extension=ts&play_token=Ob6jv9OQIW
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13047.jpg?81218" tvg-id="",LA: FUTV GRITALO CR HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609488&extension=ts&play_token=E33bluVyd6
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FX.png" tvg-id="",LA: FX
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609487&extension=ts&play_token=xFkpLzCuPF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.fx_hd.png" tvg-id="",LA: FX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609486&extension=ts&play_token=dGkc5XY3Vd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FXM_HD.png" tvg-id="",LA: FXM HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609485&extension=ts&play_token=oBBVx9tr8b
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/GEN-TV-PY.png" tvg-id="",LA: GEN TV PY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609528&extension=ts&play_token=2rBiBr9lkS
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Glitz.png" tvg-id="",LA: GLITZ
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609484&extension=ts&play_token=LWmfuEuywc
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.golden.png" tvg-id="",LA: GOLDEN
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609483&extension=ts&play_token=QZ5gAlLU3f
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/GOLDEN_EDGE.png" tvg-id="",LA: GOLDEN EDGE
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609482&extension=ts&play_token=N10NkUWEyZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/GOLDEN_PLUS_HD.png" tvg-id="",LA: GOLDEN PLUS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609481&extension=ts&play_token=pNNsLSToM4
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/GOLDEN_PLUS_HD.png" tvg-id="",LA: GOLDEN PLUS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609480&extension=ts&play_token=FF2x7UJXRf
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/H2_HD.png" tvg-id="",LA: H2 HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609479&extension=ts&play_token=zfWrBGKXOj
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/HBO.png" tvg-id="",LA: HBO
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609478&extension=ts&play_token=GyqOTxaBXR
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/HBO_2.png" tvg-id="",LA: HBO 2
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609476&extension=ts&play_token=dwsCERhnKd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/HBO_FAMILY.png" tvg-id="",LA: HBO FAMILY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609474&extension=ts&play_token=IIrL7VTMdS
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.hbo_family.png" tvg-id="",LA: HBO FAMILY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609473&extension=ts&play_token=NZBJhSGLTq
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.hbohd.png" tvg-id="",LA: HBO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609477&extension=ts&play_token=i5M941Lpkq
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Max_HD.png" tvg-id="",LA: HBO MUNDI
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609472&extension=ts&play_token=o5F5meL25d
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/HBO_PLUS.png" tvg-id="",LA: HBO PLUS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609471&extension=ts&play_token=z4KJujmG42
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.hbo_plus.png" tvg-id="",LA: HBO PLUS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609470&extension=ts&play_token=wn0GhbJSqd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.maxup.png" tvg-id="",LA: HBO POP
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609469&extension=ts&play_token=HA6nt8mDoK
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.HBO_Signaturehd.png" tvg-id="",LA: HBO SIGNATURE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609468&extension=ts&play_token=GKYwp7Mm6w
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.max_prime.png" tvg-id="",LA: HBO XTREME
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609475&extension=ts&play_token=sNXVin7D4O
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.h2hd.png" tvg-id="",LA: HISTORY 2 HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609467&extension=ts&play_token=6FgPD5eCN4
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.historyhd.png" tvg-id="",LA: HISTORY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609466&extension=ts&play_token=LopVX4lH3o
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.RETROPLEX.png" tvg-id="",LA: INDIEPLEX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609465&extension=ts&play_token=eohHmWEut5
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/INVESTIGATION_DISCOVERY_HD.png" tvg-id="",LA: INVESTIGATION DISCOVERY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609464&extension=ts&play_token=FDuqzFcS4Z
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.lifetime.png" tvg-id="",LA: LIFETIME
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609463&extension=ts&play_token=Zd22Afb3D0
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/LIFETIME_HD.png" tvg-id="",LA: LIFETIME HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609462&extension=ts&play_token=SAx0DEe0IZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.maschic.png" tvg-id="",LA: MAS CHIC HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609461&extension=ts&play_token=8cnHfLXZpO
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.MOVIEPLEXHD.png" tvg-id="",LA: MOVIEMAX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609460&extension=ts&play_token=irRaiiLaaI
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.MOVIEPLEXHD.png" tvg-id="",LA: MOVIEPLEX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609459&extension=ts&play_token=fuqKdF3vps
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/MTV_HD.png" tvg-id="",LA: MTV HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609458&extension=ts&play_token=f5qex5pvur
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/OSN_MTV_LIVE_HD.png" tvg-id="",LA: MTV LIVE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609457&extension=ts&play_token=Wt0GzPhthU
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/MULTIMEDIOS_PLUS_HD.png" tvg-id="",LA: MULTIMEDIOS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609456&extension=ts&play_token=mqsvAmMP6Z
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.multimediohd.png" tvg-id="",LA: MULTIMEDIOS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609455&extension=ts&play_token=vkzX0FwtXc
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/MULTIMEDIOS_PLUS.png" tvg-id="",LA: MULTIMEDIOS PLUS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609454&extension=ts&play_token=Sq0AkYKVZZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/MULTIMEDIOS_PLUS_HD.png" tvg-id="",LA: MULTIMEDIOS PLUS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609453&extension=ts&play_token=5DhRXmZKdJ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/NAT_GEO.png" tvg-id="",LA: NAT GEO
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609452&extension=ts&play_token=KlZtJTQzce
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Nat_Geo_HD.png" tvg-id="",LA: NAT GEO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609451&extension=ts&play_token=u0hU3MFlJY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.natgeomundo.png" tvg-id="",LA: NAT GEO MUNDO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609450&extension=ts&play_token=VcaXlxK4Tz
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.nick2.png" tvg-id="",LA: NICK 2
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609449&extension=ts&play_token=B0YsE074zF
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/NICK_JR.png" tvg-id="",LA: NICK JR
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609448&extension=ts&play_token=ONYuEIsKFq
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/NICK_TOONS.png" tvg-id="",LA: NICK TOONS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609447&extension=ts&play_token=wMSeB3ctzc
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Nick_hd.png" tvg-id="",LA: NICKELODEON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609446&extension=ts&play_token=YmQ7rEA40Z
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/NOTICIAS-PY.jpg" tvg-id="",LA: NOTICIAS PY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609527&extension=ts&play_token=iDZ2XEChp5
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.OuterMax.png" tvg-id="",LA: OUTERMAX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609445&extension=ts&play_token=KbWenwOFen
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/PARAGUAY-TV.png" tvg-id="",LA: PARAGUAY TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609526&extension=ts&play_token=lTFUE7EhqZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.paramounthd.png" tvg-id="",LA: PARAMOUNT CHANNEL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609444&extension=ts&play_token=JxLq9K2xQP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.paramounthd.png" tvg-id="",LA: PARAMOUNT CHANNEL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609443&extension=ts&play_token=Ym7eMsfEUn
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/ATB-BOLIVIA-TV.jpg" tvg-id="",LA: RTB BOLIVIA TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609531&extension=ts&play_token=U9HhLy5cxj
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/RTP-BOL.png" tvg-id="",LA: RTP BOL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609530&extension=ts&play_token=4syE9GiCnn
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/SPACE_TV_HD.png" tvg-id="",LA: SPACE
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609442&extension=ts&play_token=8pdktHQu42
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Fox_action.png" tvg-id="",LA: STAR ACTION
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609439&extension=ts&play_token=U88wSfajqf
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FOX_ACTION_HD.png" tvg-id="",LA: STAR ACTION HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609438&extension=ts&play_token=OP4B58Cn0j
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FOX.png" tvg-id="",LA: STAR CHANNEL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609441&extension=ts&play_token=RC8JxWYkhv
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.foxhd.png" tvg-id="",LA: STAR CHANNEL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609440&extension=ts&play_token=zre0JYBQAg
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Fox_classics.png" tvg-id="",LA: STAR CLASSICS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609437&extension=ts&play_token=4miULWt6bE
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FOX_PREMIUM_CLASSICS.png" tvg-id="",LA: STAR CLASSICS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609436&extension=ts&play_token=1tspeZtJcf
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Fox_comedy.png" tvg-id="",LA: STAR COMEDY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609435&extension=ts&play_token=JVORlsUmgs
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FOX_PREMIUM_COMEDY.png" tvg-id="",LA: STAR COMEDY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609434&extension=ts&play_token=4p4bgqEo4D
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/FOX_FAMILY_HD.png" tvg-id="",LA: STAR FUN
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609433&extension=ts&play_token=BHEZh1tqTZ
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Fox_family.png" tvg-id="",LA: STAR FUN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609432&extension=ts&play_token=2gpnVslVJL
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.foxmovieshd.png" tvg-id="",LA: STAR MOVIES
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609431&extension=ts&play_token=R7sEAlh9w4
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.foxseries.png" tvg-id="",LA: STAR SERIES
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609430&extension=ts&play_token=pJTsBzI7fl
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.foxserieshd.png" tvg-id="",LA: STAR SERIES HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609429&extension=ts&play_token=ExiF6v4Tdd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzcomedyhd.png" tvg-id="",LA: STARZ COMEDY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609428&extension=ts&play_token=JJ26DVuydU
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzhd.png" tvg-id="",LA: STARZ EAST HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609427&extension=ts&play_token=ym4EH44BMO
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startz_edgehd.png" tvg-id="",LA: STARZ EDGE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609426&extension=ts&play_token=9VPGf0cut2
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startz_encore_action.png" tvg-id="",LA: STARZ ENCORE ACTION
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609425&extension=ts&play_token=Wz5XZyBpP7
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzencoreblackhd.png" tvg-id="",LA: STARZ ENCORE BLACK HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609424&extension=ts&play_token=9sRL4HdBXD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzencoreclassichd.png" tvg-id="",LA: STARZ ENCORE CLASSIC HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609423&extension=ts&play_token=tDhyHmxnBD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.encore_family.png" tvg-id="",LA: STARZ ENCORE FAMILY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609422&extension=ts&play_token=WUHvyw0XyG
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzencore.png" tvg-id="",LA: STARZ ENCORE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609421&extension=ts&play_token=oZU4mNX2S7
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzencoresuspense.png" tvg-id="",LA: STARZ ENCORE SUSPENSE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609420&extension=ts&play_token=5ikKHRbCiL
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.encore_westerns.png" tvg-id="",LA: STARZ ENCORE WESTERN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609419&extension=ts&play_token=9jSXESYIBx
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzencorefamily.png" tvg-id="",LA: STARZ FAMILY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609418&extension=ts&play_token=07PlMouu8F
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzhd.png" tvg-id="",LA: STARZ HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609417&extension=ts&play_token=4BwxLS8wu5
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzkidsyfamily.png" tvg-id="",LA: STARZ KIDS & FAMILY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609416&extension=ts&play_token=tSeDDBmjXx
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.startzhd.png" tvg-id="",LA: STARZ WEST HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609415&extension=ts&play_token=UaLR5KCO2y
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/STUDIO_UNIVERSAL_HD.png" tvg-id="",LA: STUDIO UNIVERSAL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609414&extension=ts&play_token=yxRJdxO9ba
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.studiouniversalhd.png" tvg-id="",LA: STUDIO UNIVERSAL HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609413&extension=ts&play_token=u7kysvjbi7
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/SUNDANCE_TV.png" tvg-id="",LA: SUNDANCE TV
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609412&extension=ts&play_token=hNmVP8S1Wl
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Sundancetvhd.png" tvg-id="",LA: SUNDANCE TV HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609411&extension=ts&play_token=nRfokWIcZf
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/SYFY_HD.png" tvg-id="",LA: SYFY HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609410&extension=ts&play_token=HvcvJDJrYL
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/TCM.png" tvg-id="",LA: TCM
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609409&extension=ts&play_token=UfHZZmGHT2
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/telearuba.png" tvg-id="",LA: TELE ARUBA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609549&extension=ts&play_token=AiHSIXvL8C
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telerebelde.png" tvg-id="",LA: TELE REBELDE (MX)
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609408&extension=ts&play_token=mFTVbjhwng
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Telemetro.png" tvg-id="",LA: TELEMETRO (PA)
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609407&extension=ts&play_token=VtIU3ezyQP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TELEMUNDO-.jpeg" tvg-id="",LA: TELEMUNDO 42 NEW ORLEANS
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609394&extension=ts&play_token=kQKC4vLReK
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TELEMUNDO-.jpeg" tvg-id="",LA: TELEMUNDO 49 TAMPA
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609406&extension=ts&play_token=1wpWZPFmBg
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundoatlanta.png" tvg-id="",LA: TELEMUNDO ATLANTA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609404&extension=ts&play_token=Yhq8NKMh6j
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundoboston.png" tvg-id="",LA: TELEMUNDO BOSTON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609403&extension=ts&play_token=S96AxhO3dI
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundochicago.png" tvg-id="",LA: TELEMUNDO CHICAGO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609402&extension=ts&play_token=DaU7i6ZzgV
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundodallas.png" tvg-id="",LA: TELEMUNDO DALLAS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609401&extension=ts&play_token=MPgJzFjYCY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo51.png" tvg-id="",LA: TELEMUNDO FRESNO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609400&extension=ts&play_token=VC3puofiW0
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo39.png" tvg-id="",LA: TELEMUNDO HARTFORD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609399&extension=ts&play_token=uOtuLVbeH1
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Telemundo_Houston.png" tvg-id="",LA: TELEMUNDO HOUSTON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609405&extension=ts&play_token=GLhsxaIxIY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo39.png" tvg-id="",LA: TELEMUNDO LAS VEGAS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609398&extension=ts&play_token=sjUyOLVFbo
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo_los_anjeles.png" tvg-id="",LA: TELEMUNDO LOS ANGELES HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609397&extension=ts&play_token=SyFMaYYh69
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TELEMUNDO-.jpeg" tvg-id="",LA: TELEMUNDO MIAMI HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609396&extension=ts&play_token=2OhJIxgOVz
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TELEMUNDO-.jpeg" tvg-id="",LA: TELEMUNDO NEW YORK HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609395&extension=ts&play_token=LsTjgvSf4W
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo62.png" tvg-id="",LA: TELEMUNDO PHILADELPHIA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609393&extension=ts&play_token=02s8KcHUaP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo52.png" tvg-id="",LA: TELEMUNDO PHOENIX HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609392&extension=ts&play_token=a4exMWcBw7
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/TELEMUNDO.png" tvg-id="",LA: TELEMUNDO PUERTO RICO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609391&extension=ts&play_token=CqBfL61KPD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo48.png" tvg-id="",LA: TELEMUNDO SAN FRANSISCO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609390&extension=ts&play_token=faoB7KvKrY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.telemundo_internaciona.png" tvg-id="",LA: TELEMUNDO WASHINGTON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609389&extension=ts&play_token=0m4b7k1jIh
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TIGO-SPORTS.png" tvg-id="",LA: TIGO SPORTS 1 BO  HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609533&extension=ts&play_token=PHEAwM6TkO
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TIGO-SPORTS.png" tvg-id="",LA: TIGO SPORTS 2 BO  HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609532&extension=ts&play_token=Op2lhqjqdX
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TIGO-SPORTS.png" tvg-id="",LA: TIGO SPORTS PLUS PY
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609534&extension=ts&play_token=XUGOtajGPD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.tnthd.png" tvg-id="",LA: TNT HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609388&extension=ts&play_token=7VeU47SV28
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/TNT_SERIES.png" tvg-id="",LA: TNT SERIES
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609387&extension=ts&play_token=r3yfkn0NiD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.toocast.png" tvg-id="",LA: TOONCAST
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609386&extension=ts&play_token=diBG5IDXzd
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 1
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609363&extension=ts&play_token=7zbSp8UCzP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 10
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609354&extension=ts&play_token=1xGugvkia2
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 11
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609353&extension=ts&play_token=DxaxYG8bPw
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 2
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609362&extension=ts&play_token=wXqNX3GuB5
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 3
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609361&extension=ts&play_token=OVFFJFWhmH
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 4
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609360&extension=ts&play_token=BlFrBXWfbu
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 5
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609359&extension=ts&play_token=y3YfMpiJky
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 6
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609358&extension=ts&play_token=GeCH0UoHbG
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 7
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609357&extension=ts&play_token=BmZ1qdJ5pD
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 8
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609356&extension=ts&play_token=YBmMNUPKXE
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/TUDN-XTRA.jpg" tvg-id="",LA: TUDN XTRA 9
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609355&extension=ts&play_token=TDzVlWgkt5
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/tvchile.png" tvg-id="",LA: TV CHILE
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609385&extension=ts&play_token=sVRYCnTWPP
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.tvn.png" tvg-id="",LA: TV MAX (PA)
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609384&extension=ts&play_token=gBs1qTAS9z
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.tvn.png" tvg-id="",LA: TVN (PA)
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609383&extension=ts&play_token=5ySDjE1SIe
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.unimas.png" tvg-id="",LA: UNIMAS DALLAS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609382&extension=ts&play_token=BtA2Rkv7uK
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.unimas.png" tvg-id="",LA: UNIMAS LOS ANGELES HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609381&extension=ts&play_token=Xmau117Q1g
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.unimas.png" tvg-id="",LA: UNIMAS NEW YORK HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609380&extension=ts&play_token=KfktH3qA5n
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Universal_Channel.png" tvg-id="",LA: UNIVERSAL CHANNEL
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609379&extension=ts&play_token=0aS4LBB2vs
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION 41 NEW YORK HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609365&extension=ts&play_token=tOMcbW9mZY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.univision.png" tvg-id="",LA: UNIVISION ATLANTA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609378&extension=ts&play_token=YhivQxMkfN
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION AUSTIN HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609377&extension=ts&play_token=lxvfKrsS6R
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/USA/UNIVISION-BOSTON.png" tvg-id="",LA: UNIVISION BOSTON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609373&extension=ts&play_token=LgsGjWuNeH
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION CHICAGO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609376&extension=ts&play_token=9JS6TkjsIp
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION CLEVELAND HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609375&extension=ts&play_token=xHoKe3O5xt
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.univision.png" tvg-id="",LA: UNIVISION DALLAS HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609372&extension=ts&play_token=WrLcMDfOHW
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.univision.png" tvg-id="",LA: UNIVISION FORT LAUDERDALE HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609374&extension=ts&play_token=QoxthrqQpY
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION FRESNO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609371&extension=ts&play_token=6StQq2ydCj
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9d/Univision_logo.svg/260px-Univision_logo.svg.png" tvg-id="",LA: UNIVISION HARTFORD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609370&extension=ts&play_token=khVqrNum7a
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION HOUSTON HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609367&extension=ts&play_token=X6Dx7qhi2N
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION LOS ANGELES HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609369&extension=ts&play_token=yhn2BaEML8
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.univision.png" tvg-id="",LA: UNIVISION MIAMI HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609366&extension=ts&play_token=Fc8QjDVaj6
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/UNIVISION.png" tvg-id="",LA: UNIVISION SAN ANTONIO HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609368&extension=ts&play_token=VRFTv3m2fx
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.VH1_HD.png" tvg-id="",LA: VH1 HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609352&extension=ts&play_token=KwkDhwayoc
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/WAPA-2-HD.png" tvg-id="",LA: WAPA 2 HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609349&extension=ts&play_token=CyKaKnBtDr
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/iptvlogos/WAPA_TV.png" tvg-id="",LA: WAPA HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609350&extension=ts&play_token=Nh7RJalhYj
+#EXTINF:-1 group-title="LA| GENERAL" tvg-logo="http://picons.cmshulk.com/picons/logos/laz.Warnerhd.png" tvg-id="",LA: WARNER HD
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=609348&extension=ts&play_token=EIdxFXlj4Z
 #EXTINF:-1 group-title="UK| CINE PRO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1114.png?43850" tvg-id="",UK: AMC + 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=672791&extension=ts&play_token=PxCdBFIvk1
 #EXTINF:-1 group-title="UK| CINE PRO 4K" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8291.jpg?87552" tvg-id="",UK: BET+ 4K
