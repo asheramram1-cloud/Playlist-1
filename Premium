@@ -13,6 +13,8 @@ http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/2358/index.m3u8
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12248/index.m3u8
 #EXTINF:-1 tvg-id="NationalGeographic.il" tvg-name="IL - National Geographic" tvg-logo="https://iptv-epg.org/images/nO9yKVTU7cIqfz6uw5iM2vIMoF1IBTBawY5R_i0Bw-bQt2LcWMq88wRFAWuRtFtGp_nUAdvCxR5yQqXUAzIxlB33S5NO36ILKxlx2cfjLbl2bl0ipG7aq-pqww" group-title="IL",National Geographic 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12247/index.m3u8
+#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="animalplanet.il", Animal Planet HD
+http://77.137.40.221:8000/play/a00l
 #EXTINF:-1 tvg-id="היסטוריהHD.il" tvg-name="" tvg-logo="" group-title="IL",History 
 http://tvnp9zmc.velstraso.top/iptv/NERH9UMA84Z6UU/12265/index.m3u8
 #EXTINF:-1 tvg-id="yesדוקו.il" tvg-name="yes דוקו" tvg-logo="" group-title="IL",Yes דוקו
