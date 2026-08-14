@@ -15,27 +15,3 @@ https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 tvg-id="finance.il" tvg-logo="https://tv10.co.il/wp-content/uploads/2024/01/logo-calclatv.png",כלכלה10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 
-#EXTINF:-1 tvg-id="nationalgeographic.il" tvg-name="NationalGeographic.il", National Geographic HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/8GZZTZ8XQFZG4X/2387/index.m3u8
-
-#EXTINF:-1 tvg-id="ngwild.il" tvg-name="NGWILD.il", Nat Geo Wild HD
-http://77.137.40.221:8000/play/a01t
-
-#EXTINF:-1 tvg-id="animalplanet.il" tvg-name="animalplanet.il", Animal Planet HD
-http://77.137.40.221:8000/play/a00l
-
-#EXTINF:-1 tvg-id="discovery.il" tvg-name="discovery.il", Discovery HD
-http://77.137.40.221:8000/play/a00j
-
-#EXTINF:-1 tvg-id="history.il" tvg-name="history.il", History Channel HD
-http://77.137.40.221:8000/play/t00m
-
-#EXTINF:-1 tvg-id="sport5.il" tvg-name="sport5.il", 5SPORT 
-http://77.137.40.221:8000/play/k01c
-
-#EXTINF:-1 tvg-id="sport5live.il" tvg-name="sport5live.il", 5LIVE 
-http://77.137.40.221:8000/play/k00i
-
-#EXTINF:-1 tvg-id="sport5plus.il" tvg-name="sport5plus.il" tvg-logo="http://iptv-content.rv77.pw/336x192/21508.png", 5SPORTPLUS 
-http://77.137.40.221:8000/play/k001
-
