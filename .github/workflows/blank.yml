@@ -1,0 +1,110 @@
+#!/usr/bin/env python3
+"""
+מוריד את פלייליסט ה-M3U מ-M3U_URL, ומחליף/מוסיף בשורה הראשונה שלו
+את x-tvg-url כך שהוא יצביע ל-TVG_URL.
+שני הקישורים מוגדרים ב-config.txt, ולכן הכותרת נכתבת מחדש בכל ריצה
+ולעולם לא "נעלמת" - היא לא תלויה בקובץ הפלט הקודם.
+"""
+import os
+import re
+import sys
+import urllib.request
+
+CONFIG_FILE = "config.txt"
+OUTPUT_FILE = "playlist.m3u"
+
+
+def load_config() -> dict:
+    if not os.path.exists(CONFIG_FILE):
+        print(f"שגיאה: לא נמצא {CONFIG_FILE}")
+        sys.exit(1)
+    cfg = {}
+    with open(CONFIG_FILE, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, value = line.split("=", 1)
+            cfg[key.strip()] = value.strip()
+    return cfg
+
+
+def fetch(url: str) -> str:
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", errors="ignore")
+
+
+def main() -> None:
+    cfg = load_config()
+
+    # אפשר לדרוס דרך משתני סביבה (מוגדרים ב-workflow / Repo Variables)
+    m3u_url = os.environ.get("M3U_URL") or cfg.get("M3U_URL")
+    tvg_url = os.environ.get("TVG_URL") or cfg.get("TVG_URL")
+
+    if not m3u_url or not tvg_url:
+        print("שגיאה: חסר M3U_URL או TVG_URL (ב-config.txt או במשתני סביבה)")
+        sys.exit(1)
+
+    print(f"מוריד M3U מ: {m3u_url}")
+    content = fetch(m3u_url)
+    lines = content.splitlines()
+
+    # מסירים שורת #EXTM3U קיימת (עם או בלי x-tvg-url ישן) - אנחנו כותבים חדשה
+    if lines and lines[0].strip().upper().startswith("#EXTM3U"):
+        lines = lines[1:]
+
+    body = "\n".join(lines).strip("\n")
+    if not body:
+        print("שגיאה: הקובץ שהתקבל ריק אחרי הסרת הכותרת - עוצר בלי לכתוב.")
+        sys.exit(1)
+
+    header = f'#EXTM3U x-tvg-url="{tvg_url}"'
+    merged = header + "\n" + body + "\n"
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(merged)
+
+    print(f"\nנכתב {OUTPUT_FILE}")
+    print(f"כותרת: {header}")
+    print(f"מספר שורות בגוף הקובץ: {len(lines)}")
+
+
+if __name__ == "__main__":
+    main()
+# This is a basic workflow to help you get started with Actions
+
+name: CI
+
+# Controls when the workflow will run
+on:
+  # Triggers the workflow on push or pull request events but only for the "main" branch
+  push:
+    branches: [ "main" ]
+  pull_request:
+    branches: [ "main" ]
+
+  # Allows you to run this workflow manually from the Actions tab
+  workflow_dispatch:
+
+# A workflow run is made up of one or more jobs that can run sequentially or in parallel
+jobs:
+  # This workflow contains a single job called "build"
+  build:
+    # The type of runner that the job will run on
+    runs-on: ubuntu-latest
+
+    # Steps represent a sequence of tasks that will be executed as part of the job
+    steps:
+      # Checks-out your repository under $GITHUB_WORKSPACE, so your job can access it
+      - uses: actions/checkout@v4
+
+      # Runs a single command using the runners shell
+      - name: Run a one-line script
+        run: echo Hello, world!
+
+      # Runs a set of commands using the runners shell
+      - name: Run a multi-line script
+        run: |
+          echo Add other actions to build,
+          echo test, and deploy your project.
