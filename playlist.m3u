@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=mcfuxsgv&dl=1"
+#EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10021_dark_360w_270h.png" tvg-id="AMC.us (m3u4u)" tvg-chno="45",AMC+
 http://40.160.24.52/AMC_PLUS/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
