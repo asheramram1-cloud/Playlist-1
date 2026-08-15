@@ -18,8 +18,9 @@ jobs:
       - name: Download and Format M3U
         run: |
           # 1. הגדרת משתנים - החלף בקישורים הנדרשים
-          EPG_URL"https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=a7zm49r5&dl=1"
-          M3U_SOURCE_URL"https://www.dropbox.com/scl/fi/wxa50g94c8mt8p0dn0maw/m3u4u-206621-744365-Playlist-Premium.m3u?rlkey=x409vuqjsnf0pbrj1fvd1gaeg&st=lov5l1ik&dl=1"
+          EPG_URL"https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=evh7b6x1&dl=1"
+          M3U_SOURCE_URL"https://www.dropbox.com/scl/fi/ar5cuoacjobt717731e03/m3u4u-206621-742024-Playlist-World-1.m3u?rlkey=ju5sv9bbejsxobkak2dbs8nct&st=zo7db2ot&dl=1"
+          st=lov5l1ik&dl=1"
           OUTPUT_FILE="world2.m3u"
 
           # 2. הורדת קובץ ה-M3U המקורי לקובץ זמני
