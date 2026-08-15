@@ -1,32 +1,80 @@
-name: Update M3U Playlist from Dropbox
+#!/usr/bin/env python3
+"""
+בונה playlist.m3u מאוחד ממספר מקורות (URLs או קבצים מקומיים).
+שורת ה-#EXTM3U x-tvg-url="..." נכתבת מחדש בכל ריצה מתוך TVG_URL,
+ולכן היא לעולם לא "נמחקת" - היא לא מגיעה מהקובץ הישן, אלא נבנית תמיד מחדש.
+"""
+import os
+import sys
+import urllib.request
 
-on:
-  schedule:
-    - cron: '0 */6 * * *' # ירוץ אוטומטית כל 6 שעות
-  workflow_dispatch: # מאפשר הרצה ידנית בכל רגע
+# אפשר לדרוס דרך משתנה סביבה TVG_URL (מוגדר ב-workflow / Repo Variables)
+TVG_URL = os.environ.get(
+    "TVG_URL",
+    "https://plain-block-eee6.asheramran1.workers.dev/epg.xml",
+)
 
-jobs:
-  update-playlist:
-    runs-on: ubuntu-latest
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
+SOURCES_FILE = "http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984"
+OUTPUT_FILE = "playlist.m3u"
 
-      - name: Download M3U from Dropbox
-        run: |
-          # החלף את הקישור למטה בקישור ה-Dropbox האמיתי שלך (עם raw=1 בסוף)
-          curl -sL "http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984" -o playlist.m3u
 
-          # בדיקה שהקובץ אינו ריק
-          if [ ! -s playlist.m3u ]; then
-            echo "הורדת הקובץ נכשלה!"
-            exit 1
-          fi
+def fetch(url: str) -> str:
+    req = urllib.request.Request(url, headers={"User-Agent": "Mozilla/5.0"})
+    with urllib.request.urlopen(req, timeout=30) as r:
+        return r.read().decode("utf-8", errors="ignore")
 
-      - name: Commit and Push changes
-        run: |
-          git config --global user.name "github-actions[bot]"
-          git config --global user.email "github-actions[bot]@users.noreply.github.com"
-          git add playlist.m3u
-          git commit -m "Auto-update playlist from Dropbox" || exit 0
-          git push
+
+def strip_header(content: str) -> str:
+    """מסיר שורת #EXTM3U (עם או בלי x-tvg-url) מתחילת קובץ מקור,
+    כדי שלא ניצור כפילויות כשמאחדים כמה מקורות."""
+    lines = content.splitlines()
+    if lines and lines[0].strip().upper().startswith("#EXTM3U"):
+        lines = lines[1:]
+    return "\n".join(lines)
+
+
+def load_sources() -> list[str]:
+    if not os.path.exists(SOURCES_FILE):
+        print(f"שגיאה: לא נמצא {SOURCES_FILE}")
+        sys.exit(1)
+    with open(SOURCES_FILE, encoding="utf-8") as f:
+        return [
+            line.strip()
+            for line in f
+            if line.strip() and not line.strip().startswith("#")
+        ]
+
+
+def main() -> None:
+    urls = load_sources()
+    if not urls:
+        print("sources.txt ריק - אין מה לאחד")
+        sys.exit(1)
+
+    bodies = []
+    ok_count = 0
+    for url in urls:
+        try:
+            content = fetch(url) if url.startswith("http") else open(url, encoding="utf-8").read()
+            bodies.append(strip_header(content))
+            ok_count += 1
+            print(f"OK  : {url} ({len(content.splitlines())} שורות)")
+        except Exception as e:
+            print(f"FAIL: {url} -> {e}")
+
+    if ok_count == 0:
+        print("כל המקורות נכשלו - לא כותב קובץ פגום, עוצר.")
+        sys.exit(1)
+
+    header = f'#EXTM3U x-tvg-url="http://m3u4u.com/epg/d5k2nvv1vvcmm734n984"'
+    merged = header + "\n" + "\n".join(b.strip("\n") for b in bodies if b.strip()) + "\n"
+
+    with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
+        f.write(merged)
+
+    print(f"\nנכתב {OUTPUT_FILE} ({ok_count}/{len(urls)} מקורות הצליחו)")
+    print(f"כותרת: {header}")
+
+
+if __name__ == "__main__":
+    main()
