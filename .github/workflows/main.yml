@@ -1,0 +1,51 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    # הרצה אוטומטית בכל יום בחצות (ניתן לשינוי)
+    - cron: '0 0 * * *'
+  # מאפשר הרצה ידנית בלחיצת כפתור בלשונית Actions
+  workflow_dispatch:
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download and Format M3U
+        run: |
+          # 1. הגדרת משתנים - החלף בקישורים הנדרשים
+          EPG_URL="https://example.com/epg.xml"
+          M3U_SOURCE_URL="http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984"
+          OUTPUT_FILE="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=8p1wa12k&dl=1"
+
+          # 2. הורדת קובץ ה-M3U המקורי לקובץ זמני
+          curl -sL "$M3U_SOURCE_URL" -o temp.m3u
+
+          # 3. הסרת שורת #EXTM3U קיימת מהקובץ המקורי (אם היא קיימת בראש הקובץ)
+          sed -i '/^#EXTM3U/d' temp.m3u
+
+          # 4. יצירת הקובץ החדש עם שורת x-tvg-url בראשו ושרשור שאר הערוצים
+          echo "#EXTM3U x-tvg-url=\"$EPG_URL\"" > "$OUTPUT_FILE"
+          cat temp.m3u >> "$OUTPUT_FILE"
+
+          # 5. ניקוי קובץ זמני
+          rm temp.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add playlist.m3u
+          
+          # ביצוע Commit רק אם חל שינוי בתוכן הערוצים
+          if git diff --staged --quiet; then
+            echo "No changes found in M3U playlist."
+          else
+            git commit -m "Automated update of M3U playlist and EPG header"
+            git push
+          fi
