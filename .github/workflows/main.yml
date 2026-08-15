@@ -22,7 +22,7 @@ jobs:
       - name: Download and Format M3U
         run: |
           # --- הגדרת המשתנים ---
-          EPG_URL="https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=mcfuxsgv&dl=1"
+          EPG_URL="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
           
           # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
           M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/ar5cuoacjobt717731e03/m3u4u-206621-742024-Playlist-World-1.m3u?rlkey=ju5sv9bbejsxobkak2dbs8nct&st=50fycrpt&dl=1"
