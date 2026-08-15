@@ -18,9 +18,9 @@ jobs:
       - name: Download and Format M3U
         run: |
           # 1. הגדרת משתנים - החלף בקישורים הנדרשים
-          EPG_URL="https://example.com/epg.xml"
-          M3U_SOURCE_URL="http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984"
-          OUTPUT_FILE="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=8p1wa12k&dl=1"
+          EPG_URL"http://m3u4u.com/m3u/d5k2nvv1vvcmm734n984"
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=ndcwy1l4&dl=1"
+          OUTPUT_FILE="world2.m3u"
 
           # 2. הורדת קובץ ה-M3U המקורי לקובץ זמני
           curl -sL "$M3U_SOURCE_URL" -o temp.m3u
