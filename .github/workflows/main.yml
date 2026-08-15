@@ -2,10 +2,14 @@ name: Update M3U Playlist
 
 on:
   schedule:
-    # הרצה אוטומטית בכל יום בחצות (ניתן לשינוי)
+    # הרצה אוטומטית בכל יום בחצות
     - cron: '0 0 * * *'
   # מאפשר הרצה ידנית בלחיצת כפתור בלשונית Actions
   workflow_dispatch:
+
+# הרשאות כתיבה נדרשות לביצוע Commit ו-Push לרפוזטורי
+permissions:
+  contents: write
 
 jobs:
   update-playlist:
@@ -17,24 +21,32 @@ jobs:
 
       - name: Download and Format M3U
         run: |
-          # 1. הגדרת משתנים - החלף בקישורים הנדרשים
-          EPG_URL"https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=evh7b6x1&dl=1"
-          M3U_SOURCE_URL"https://www.dropbox.com/scl/fi/ar5cuoacjobt717731e03/m3u4u-206621-742024-Playlist-World-1.m3u?rlkey=ju5sv9bbejsxobkak2dbs8nct&st=zo7db2ot&dl=1"
-          st=lov5l1ik&dl=1"
-          OUTPUT_FILE="world2.m3u"
+          # --- הגדרת המשתנים ---
+          EPG_URL="https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=mcfuxsgv&dl=1"
+          
+          # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/ar5cuoacjobt717731e03/m3u4u-206621-742024-Playlist-World-1.m3u?rlkey=ju5sv9bbejsxobkak2dbs8nct&st=50fycrpt&dl=0"
+          
+          OUTPUT_FILE="playlist.m3u"
+          # ----------------------
 
-          # 2. הורדת קובץ ה-M3U המקורי לקובץ זמני
-          curl -sL "$M3U_SOURCE_URL" -o temp.m3u
+          # הורדת הקובץ המקורי תוך שמישות ב-User-Agent למניעת חסימות
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$M3U_SOURCE_URL" -o temp.m3u
 
-          # 3. הסרת שורת #EXTM3U קיימת מהקובץ המקורי (אם היא קיימת בראש הקובץ)
-          sed -i '/^#EXTM3U/d' temp.m3u
+          # בדיקה שההורדה הצליחה והקובץ אינו ריק
+          if [ ! -s temp.m3u ]; then
+            echo "Error: Download failed or returned empty file!"
+            exit 1
+          fi
 
-          # 4. יצירת הקובץ החדש עם שורת x-tvg-url בראשו ושרשור שאר הערוצים
+          # הסרת שורת #EXTM3U קיימת מהקובץ המקורי (במידה וקיימת)
+          sed -i '/^#EXTM3U/I d' temp.m3u
+
+          # כתיבת הכותרת החדשה עם קישור ה-EPG בראש הקובץ ושרשור התוכן
           echo "#EXTM3U x-tvg-url=\"$EPG_URL\"" > "$OUTPUT_FILE"
           cat temp.m3u >> "$OUTPUT_FILE"
 
-          # 5. ניקוי קובץ זמני
-          rm temp.m3u
+          rm -f temp.m3u
 
       - name: Commit and Push Changes
         run: |
@@ -43,10 +55,9 @@ jobs:
           
           git add playlist.m3u
           
-          # ביצוע Commit רק אם חל שינוי בתוכן הערוצים
           if git diff --staged --quiet; then
             echo "No changes found in M3U playlist."
           else
-            git commit -m "Automated update of M3U playlist and EPG header"
+            git commit -m "Update M3U channels with static Dropbox EPG header"
             git push
           fi
