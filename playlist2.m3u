@@ -17,8 +17,6 @@ http://77.137.40.221:8000/play/a00l
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2358/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",ערוץ ההיסטוריה
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12265/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7203/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="3",HOT Cinema 1
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2357/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
@@ -27,9 +25,9 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12215/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2372/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2356/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Cinema 5 HD IL
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Cinema 5
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32137/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Israeli Cinema HD IL
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Israeli Cinema
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32138/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12217/index.m3u8
@@ -51,6 +49,8 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12270/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12271/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12272/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes ישראלי
+http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2342/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2346/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
@@ -77,6 +77,8 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/16019/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2340/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12231/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
+http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7203/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1761.png" tvg-id="oneedge.il (src09)" tvg-rec="0",One Edge
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32002/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="" tvg-rec="0",One Doco
@@ -89,8 +91,6 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12250/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12251/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="0",ספורט 4
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12252/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes ישראלי
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2342/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2355/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
