@@ -25,7 +25,7 @@ jobs:
           EPG_URL="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
           
           # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
-          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/ar5cuoacjobt717731e03/m3u4u-206621-742024-Playlist-World-1.m3u?rlkey=ju5sv9bbejsxobkak2dbs8nct&st=50fycrpt&dl=1"
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/61c8yrht5ld5cw4xcmpab/m3u4u-206621-742024-Playlist-World.m3u?rlkey=btda0hu1ew1cz8w9z6pzb7p9o&st=vdtoix2w&dl=1"
           
           OUTPUT_FILE="playlist.m3u"
           # ----------------------
