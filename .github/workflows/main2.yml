@@ -1,0 +1,63 @@
+name: Update M3U Playlist
+
+on:
+  schedule:
+    # הרצה אוטומטית בכל יום בחצות
+    - cron: '0 0 * * *'
+  # מאפשר הרצה ידנית בלחיצת כפתור בלשונית Actions
+  workflow_dispatch:
+
+# הרשאות כתיבה נדרשות לביצוע Commit ו-Push לרפוזטורי
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download and Format M3U
+        run: |
+          # --- הגדרת המשתנים ---
+          EPG_URL="https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=im72sjei&dl=1"
+          
+          # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/wxa50g94c8mt8p0dn0maw/m3u4u-206621-744365-Playlist-Premium.m3u?rlkey=x409vuqjsnf0pbrj1fvd1gaeg&st=5m2pfueh&dl=1"
+          
+          OUTPUT_FILE="playlist2.m3u"
+          # ----------------------
+
+          # הורדת הקובץ המקורי תוך שמישות ב-User-Agent למניעת חסימות
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$M3U_SOURCE_URL" -o temp.m3u
+
+          # בדיקה שההורדה הצליחה והקובץ אינו ריק
+          if [ ! -s temp.m3u ]; then
+            echo "Error: Download failed or returned empty file!"
+            exit 1
+          fi
+
+          # הסרת שורת #EXTM3U קיימת מהקובץ המקורי (במידה וקיימת)
+          sed -i '/^#EXTM3U/I d' temp.m3u
+
+          # כתיבת הכותרת החדשה עם קישור ה-EPG בראש הקובץ ושרשור התוכן
+          echo "#EXTM3U x-tvg-url=\"$EPG_URL\"" > "$OUTPUT_FILE"
+          cat temp.m3u >> "$OUTPUT_FILE"
+
+          rm -f temp.m3u
+
+      - name: Commit and Push Changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          git add playlist.m3u
+          
+          if git diff --staged --quiet; then
+            echo "No changes found in M3U playlist."
+          else
+            git commit -m "Update M3U channels with static Dropbox EPG header"
+            git push
+          fi
