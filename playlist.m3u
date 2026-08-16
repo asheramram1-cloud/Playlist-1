@@ -1,16 +1,20 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" tvg-id="BBCR3.uk (m3u4u)" tvg-chno="12",BBC 3
-http://41.205.77.102/BBC-THREE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8098.png?40000" tvg-id="TV Land.us (src09)",TV LAND
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="Comedy TV.us (src09)" tvg-chno="41",Comedy TV
 http://40.160.24.52/COMEDY_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&h=270" tvg-id="CW.us2.us (src05)" tvg-chno="36",CW
 http://40.160.24.52/CW/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" tvg-id="BBCR3.uk (m3u4u)" tvg-chno="12",BBC 3
+http://41.205.77.102/BBC-THREE/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117329_dark_360w_270h.png" tvg-id="ITV.uk (src01)" tvg-chno="13" cuid="",ITV
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19185/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14",ITV 2
@@ -19,8 +23,6 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
