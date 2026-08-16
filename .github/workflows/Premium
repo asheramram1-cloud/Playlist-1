@@ -27,7 +27,7 @@ jobs:
           # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
           M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/wxa50g94c8mt8p0dn0maw/m3u4u-206621-744365-Playlist-Premium.m3u?rlkey=x409vuqjsnf0pbrj1fvd1gaeg&st=5m2pfueh&dl=1"
           
-          OUTPUT_FILE="playlist.m3u"
+          OUTPUT_FILE="playlist2.m3u"
           # ----------------------
 
           # הורדת הקובץ המקורי תוך שמישות ב-User-Agent למניעת חסימות
