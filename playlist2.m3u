@@ -81,7 +81,7 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12231/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7203/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1761.png" tvg-id="oneedge.il (src09)" tvg-rec="0",One Edge
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32002/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="" tvg-rec="0",One Doco
+#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="ONE.DOCO.il (src05)" tvg-rec="0",One Doco
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32129/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12249/index.m3u8
@@ -113,4 +113,5 @@ http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12242/index.m3u8
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12269/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/82f0b16a33ba4512bbfd53d3ba6c8d28/version/2" tvg-id="כאן.חינוכית.il (src05)" tvg-rec="3",כאן חינוכית
 http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2380/index.m3u8
-
+#EXTINF:-1 group-title="" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
+http://77.137.40.221:8000/play/a00l
