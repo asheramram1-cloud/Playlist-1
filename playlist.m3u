@@ -9,20 +9,6 @@ http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 http://40.160.24.52/COMEDY_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://dtil.tmsimg.com/assets/s145484_ll_h15_ab.png?w=360&h=270" tvg-id="CW.us2.us (src05)" tvg-chno="36",CW
 http://40.160.24.52/CW/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" tvg-id="BBCR3.uk (m3u4u)" tvg-chno="12",BBC 3
-http://41.205.77.102/BBC-THREE/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117329_dark_360w_270h.png" tvg-id="ITV.uk (src01)" tvg-chno="13" cuid="",ITV
-http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19185/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14",ITV 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" tvg-id="ITV3.uk (src01)" tvg-chno="15" cuid="",ITV 3
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
@@ -37,8 +23,20 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45324_light_360w_270h.png" tvg-id="WILDTV.ca (m3u4u)",Wild TV
 https://dfhsahpa45kk2.cloudfront.net/scheduler/scheduleMaster/476.m3u8
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12650.jpg?74418" tvg-id="MTV Live.us (src09)",MTV LIVE
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=162402&extension=ts&play_token=NhARZnDy3r
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-three-uk.png?raw=true" tvg-id="BBCR3.uk (m3u4u)" tvg-chno="12",BBC 3
+http://41.205.77.102/BBC-THREE/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117329_dark_360w_270h.png" tvg-id="ITV.uk (src01)" tvg-chno="13" cuid="",ITV
+http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19185/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14",ITV 2
+http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" tvg-id="ITV3.uk (src01)" tvg-chno="15" cuid="",ITV 3
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
+http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
 #EXTINF:-1 group-title="Sports" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPNHD.us (m3u4u)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
 #EXTINF:-1 group-title="Sports" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPNHD.us (m3u4u)",ESPN HD
