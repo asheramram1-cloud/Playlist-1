@@ -1,0 +1,36 @@
+name: Update world
+
+on:
+  schedule:
+    # הרצה אוטומטית בכל יום בחצות
+    - cron: '0 0 * * *'
+  # מאפשר הרצה ידנית בלחיצת כפתור בלשונית Actions
+  workflow_dispatch:
+
+# הרשאות כתיבה נדרשות לביצוע Commit ו-Push לרפוזטורי
+permissions:
+  contents: write
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download and Format M3U
+        run: |
+          # --- הגדרת המשתנים ---
+          EPG_URL="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
+          
+          # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/61c8yrht5ld5cw4xcmpab/m3u4u-206621-742024-Playlist-World.m3u?rlkey=btda0hu1ew1cz8w9z6pzb7p9o&st=vdtoix2w&dl=1"
+          
+          OUTPUT_FILE="world.m3u"
+          # ----------------------
+
+          # הורדת הקובץ המקורי תוך שמישות ב-User-Agent למניעת חסימות
+          curl -sL -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64)" "$M3U_SOURCE_URL" -o temp.m3u
+
+          # בדיקה שההורדה הצליחה והקובץ אינו ריק
