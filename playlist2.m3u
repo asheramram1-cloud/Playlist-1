@@ -1,117 +1,313 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/5so9cbcyvje6xgehh95vk/m3u4u-206621-744365-EPG-Premium.xml.gz?rlkey=dbdw44t3of9z1x1007wg3ofj1&st=im72sjei&dl=1"
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2332/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-rec="3",קשת
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2349/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",רשת
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2330/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2386/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",National Geographic
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12247/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",National Geographic Wild
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12248/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",Kan11
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2332/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il" tvg-rec="3",Keshet 12
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2349/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",Reshet13
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2330/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/59e6b4c82f334fb39f9db4c00cdf4436/version/6" tvg-id="עברית.i24.il (src05)" tvg-rec="3",i24 News
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2386/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/7984.png" tvg-id="NationalGeographic.de (src09)" tvg-rec="0",National Geographic HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12247/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83621_white_360w_270h.png" tvg-id="NGEOWG.de (m3u4u)" tvg-rec="0",National Geographic Wild HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12259/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56905_dark_360w_270h.png" tvg-id="דיסקבריערוץ.דיסקברי.il (src05)" tvg-rec="3",Discovery Channel HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2358/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
+http://77.137.40.221:8000/play/a00l
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",History HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12265/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2341/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1641.png" tvg-id="5sportlive.il (src09)" tvg-rec="0",5Sport Live
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12255/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/3994.png" tvg-id="" tvg-rec="0",5Sport Stars HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12278/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/3992.png" tvg-id="ספורט.5.גולד.il (src05)" tvg-rec="0",5Sport Gold HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12254/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="ONE.il" tvg-rec="3",One HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2340/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12231/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",Sport 1 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12249/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",Sport 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12250/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",Sport 3 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12251/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",Sport 4 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2389/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="יורוספורט.2.HD.il (src05)" tvg-rec="3",Eurosport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/7203/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748507.png" tvg-id="hot3.il (src09)" tvg-rec="3",HOT 3 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2367/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8 IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12216/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="3",HOT Cinema 1 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2357/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12215/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2372/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2356/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12217/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940341.png" tvg-id="hothbo.il (src09)" tvg-rec="3",HOT HBO HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2354/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/4023.png" tvg-id="HOTReal.il" tvg-rec="0",HOT Real HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12274/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/x1724.png" tvg-id="hotisraelentertainment.il (src09)" tvg-rec="0",HOT Bidur HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12219/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="3",HOT Zone HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2360/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/2972.png" tvg-id="" tvg-rec="0",Yes Docu HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12258/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="0",Yes Movies Action FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12270/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="3",Yes Movies Action IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2350/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="0",Yes Movies Comedy FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12271/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="3",Yes Movies Comedy IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2348/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12272/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940388.png" tvg-id="yesmovieskids.il (src09)" tvg-rec="0",Yes Movies Kids FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12273/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/2974.png" tvg-id="" tvg-rec="3",Yes Israeli IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2342/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2346/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2345/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2343/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12209/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",Good Life IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2355/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748379.png" tvg-id="homeplus.il (src09)" tvg-rec="3",Home Plus IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2339/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="http://epg.one/img2/2709.png" tvg-id="" tvg-rec="3",Health IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2378/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/177f73b890d147e3acd03f86f97f6ccd/version/2" tvg-id="E!.il (src05)" tvg-rec="0",E! HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12243/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748402.png" tvg-id="music24.il (src09)" tvg-rec="0",Channel 24 HD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12237/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748399.png" tvg-id="kaneducation.il (src09)" tvg-rec="3",Kan Educational IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/2380/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748455.png" tvg-id="knesset.il (src09)" tvg-rec="0",Knesset Channel IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12269/index.m3u8
+#EXTINF:-1 group-title="ישראלי" tvg-logo="https://images.open-epg.com/18748425.png" tvg-id="channel14.il (src09)" tvg-rec="0",Channel 14 FHD IL
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/BYLVWVF26T7ZPE/12242/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Keshet 12 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2329/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Reshet 13 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2330/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Channel 9 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2331/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Kan 11 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2332/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Disney Jr IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2333/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",animal planet
 http://77.137.40.221:8000/play/a00l
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)" tvg-rec="3",דיסקברי
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2358/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",ערוץ ההיסטוריה
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12265/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="3",HOT Cinema 1
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2357/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Nick Jr IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2337/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",hop IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2338/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12215/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2372/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2356/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Cinema 5
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32137/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/f53ca55a5b454260bc82ccd7e45ba5d8/version/7" tvg-id="ערוץ.הקולנוע.הישראלי.il (src05)" tvg-rec="0",HOT Israeli Cinema
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32138/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12217/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12216/index.m3u8
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12215/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Sport 5 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2341/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes Israeli Cinema
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2342/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="0",HOT Cinema 4
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12218/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes DRAMA HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2343/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes COMEDY HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2345/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes ACTION HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2346/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940341.png" tvg-id="hothbo.il (src09)" tvg-rec="3",HOT HBO
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2354/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748507.png" tvg-id="hot3.il (src09)" tvg-rec="3",HOT 3
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2367/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="הוט.בידור.ישראלי.il (src05)" tvg-rec="0",HOT Bidur
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12219/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT Real
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12274/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="3",HOT Zone
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2360/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="0",Yes Movies Action
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12270/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="0",Yes Movies Comedy
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12271/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12272/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-israeli-il.png" tvg-id="" tvg-rec="3",Yes ישראלי
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2342/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2346/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2345/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2343/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/yes-docu-il.png" tvg-id="" tvg-rec="0",Yes דוקו
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12258/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2341/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/5180a9b7ea354290a1576175631fe49d/version/3" tvg-id="5PLUS.HD.il (src05)" tvg-rec="0",5Sport Plus
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32151/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3fd17f2b9f4c469d95fed1446f198474/version/3" tvg-id="5LIVE.HD.il (src05)" tvg-rec="3",5Live
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2362/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/06c47e53fc4d40d494c62a1c905c59d8/version/3" tvg-id="5STARS.il (src05)" tvg-rec="0",5Stars
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12278/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/israel/5sport-max-il.png" tvg-id="Sport5Max.il" tvg-rec="0",5Sport Max
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32147/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Gold
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12254/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748472.png" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/16019/index.m3u8
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2354/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="0",HOT Zone
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12222/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",HOT cinema 4 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2356/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",HOT cinema 1 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2357/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="0",Yes TV Action
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12280/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Discovery HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2358/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="0",Yes TV Comedy
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12281/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="0",Yes TV Drama
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12282/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes דוקו
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2344/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Hot Zone
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2360/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Travel Channel IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2361/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Sport 5+ Live HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2362/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Harutz Hadramot Haturkiyot
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2363/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Hot Luli
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2364/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Kids IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2365/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",HOT 3
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2367/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One il
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2340/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12231/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1761.png" tvg-id="oneedge.il (src09)" tvg-rec="0",One Edge
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32002/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="ONE.DOCO.il (src05)" tvg-rec="0",One Doco
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32129/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12249/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12250/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12251/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="0",ספורט 4
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12252/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/7203/index.m3u8
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2340/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Hop! Yaldut Israelit
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2368/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="3",One 2
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2373/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Baby IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2370/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",HOT cinema 2 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2371/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="3",ספורט 1
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2353/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",HOT cinema 3 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2372/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="3",ספורט 2
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2352/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="3",ספורט 3
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2388/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2355/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12209/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6aa1d8c8af7e45fdb18138b03faba8f6/version/3" tvg-id="FOODY.il (src05)" tvg-rec="0",Foody
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32154/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/177f73b890d147e3acd03f86f97f6ccd/version/2" tvg-id="E!.il (src05)" tvg-rec="0",E!
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12243/index.m3u8
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2355/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Entertainment IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2379/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Kan Elady
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2380/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Mekan 33
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2381/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4a3bc4cae2ac4803b439b89158bf11ce/version/2" tvg-id="בית.+.HD.il (src05)" tvg-rec="3",בית +
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2339/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="ערוץ.הטיולים.il (src05)" tvg-rec="0",ערוץ הטיולים
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/32160/index.m3u8
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2339/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Viva+ IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2382/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yaldut IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2383/index.m3u8
 #EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",ערוץ הבריאות
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2378/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bdc80c156b31464fb361e1a03f1f8b3f/version/7" tvg-id="מוסיקה.24.il (src05)" tvg-rec="0",מוסיקה 24
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12237/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/2c7f02e3c7914dd7bcdc5e57a0efbb8c/version/2" tvg-id="ערוץ.הכנסת.il (src05)" tvg-rec="0",ערוץ הכנסת
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12269/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/82f0b16a33ba4512bbfd53d3ba6c8d28/version/2" tvg-id="כאן.חינוכית.il (src05)" tvg-rec="3",כאן חינוכית
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/2380/index.m3u8
-#EXTINF:-1 group-title="All" tvg-logo="https://images.open-epg.com/18748425.png" tvg-id="channel14.il (src09)" tvg-rec="0",ערוץ 14
-http://wq9imfor.streamoras.top/iptv/ALA6VFPDY8UBB8MFMGCUTDVU/12242/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
-http://77.137.40.221:8000/play/a00l
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2378/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",i24 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2386/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",VIVA IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2387/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yamtihoni IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2390/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Sport 5 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/2391/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Yes Docu FHD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/7113/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="3",Eurosport 2 HD
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/7203/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",DISNEY JR IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12206/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",EGO TOTAL HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12207/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",EXTREME IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12208/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",FOOD CHANNE IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12209/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HEALTH CHANNEL HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12210/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOP CHILDHOOD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12213/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT3 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12214/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT8 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12216/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT COMEDY CENTRAL HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12217/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOT ENTERTAINMENT HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12219/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HUMOR CHANNEL HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12223/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",LIFETIME HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12224/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",MAKAN HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12225/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",MUSIC 24 IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12226/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",NICK JR HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12228/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",NICK HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12229/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",ONE 1 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12230/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",ONE 2 HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12231/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",5 STARS HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12232/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",VIVA HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12233/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",VIVA+ IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12234/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",YAM TIHONI HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12235/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",CHANNEL 12 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12236/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",KAN 11 IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12237/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",JUNIOR IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12240/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",DISNEY CHANNEL HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12242/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",E! IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12243/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HOP HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12244/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",NATIONAL GEOGRAPHICS HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12247/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",NET GEO_WILD HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12248/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 1 HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12249/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 2 HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12250/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 3 HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12251/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 4 HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12252/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 5 GOLD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12254/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",SPORT 5 LIVE HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12255/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",Sport 5 Stars HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12256/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",YES ISRAELI CINEMA IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12257/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",YES DOCU HD IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12258/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",NAT GEO WILD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12259/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",CHANNEL 13 HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12260/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",CHANNEL 24 MUSIC HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12262/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",HALA TV IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12264/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",A+ HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12266/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",BOLLYSHOW HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12268/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",KNESET CHANNE IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12269/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",YES MOVIES KIDS HD IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12273/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",MTV MUSIC IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12274/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",Sport 5 4K IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12277/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",STARS IL
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12278/index.m3u8
+#EXTINF:-1 group-title="All" tvg-logo="" tvg-id="" tvg-rec="0",TRAVEL CHANNEL IL (2)
+http://o1nbiadn.megatv.fun/iptv/PDS2THE2VHU8NZ/12279/index.m3u8
