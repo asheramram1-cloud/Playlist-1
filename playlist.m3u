@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/e77s7hm6b8rxd53de4ut3/m3u4u-206621-742024-EPG-World.xml.gz?rlkey=xb0gzlyccnxh8srrfosazx1vx&st=iv5g2auf&dl=1"
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NationalGeographic.ca (src09)",NATIONAL GEOGRAPHIC 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400" tvg-id="APL.us (m3u4u)",ANIMAL PLANET 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
-#EXTINF:-1 group-title="Entertainment" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="Discovery.uk (src01)",DISCOVERY PLUS 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=910033&extension=ts&play_token=KTDPcu2DbJ
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBCCVLT.us (m3u4u)",NBC Comedy Vault
@@ -15,10 +7,16 @@ https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLC.nz (src05)",TLC 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717704&extension=ts&play_token=u97gtQ6qGT
-#EXTINF:-1 group-title="Entertainment" tvg-logo="" tvg-id="Comedy TV.us (src09)" tvg-chno="41",Comedy TV
-http://40.160.24.52/COMEDY_TV/index.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NationalGeographic.ca (src09)",NATIONAL GEOGRAPHIC 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400" tvg-id="APL.us (m3u4u)",ANIMAL PLANET 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
+#EXTINF:-1 group-title="Entertainment" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="Discovery.uk (src01)",DISCOVERY PLUS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=910033&extension=ts&play_token=KTDPcu2DbJ
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp.de (src09)",Travelxp 4k
