@@ -13,7 +13,7 @@ http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
-#EXTINF:-1 group-title="Entertainment" tvg-logo="https://watch.foxtel.com.au/app/imageHelper.php?id=506663:206:CHANNEL:IMAGE:png&w=400" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
 #EXTINF:-1 group-title="Entertainment" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
