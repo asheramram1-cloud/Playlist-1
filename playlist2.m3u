@@ -103,6 +103,8 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12243/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2339/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="ערוץ.הטיולים.il (src05)" tvg-rec="0",ערוץ הטיולים
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32160/index.m3u8
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Travel_channel_logo.svg/512px-Travel_channel_logo.svg.png" tvg-id="ערוץ.הנופש.il (src05)",ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="3",ערוץ הבריאות
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2378/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bdc80c156b31464fb361e1a03f1f8b3f/version/7" tvg-id="מוסיקה.24.il (src05)" tvg-rec="0",מוסיקה 24
