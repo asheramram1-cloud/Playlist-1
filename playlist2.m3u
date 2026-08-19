@@ -109,119 +109,119 @@ http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
 #EXTINF:-1 group-title="Foreign" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
 http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2332/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-rec="3",קשת
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-rec="3",קשת
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2349/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",רשת
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",רשת
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2330/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2386/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",National Geographic
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",National Geographic
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12247/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",National Geographic Wild
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",National Geographic Wild
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12248/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",animal planet
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",animal planet
 http://77.137.40.221:8000/play/a00l
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)" tvg-rec="3",דיסקברי
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)" tvg-rec="3",דיסקברי
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2358/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",ערוץ ההיסטוריה
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",ערוץ ההיסטוריה
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12265/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="3",HOT Cinema 1
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="3",HOT Cinema 1
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2357/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12215/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2372/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2356/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HOT_Cinema_logo.svg/512px-HOT_Cinema_logo.svg.png" tvg-id="" tvg-rec="0",HOT Cinema 5
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e0/HOT_Cinema_logo.svg/512px-HOT_Cinema_logo.svg.png" tvg-id="" tvg-rec="0",HOT Cinema 5
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32137/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/f53ca55a5b454260bc82ccd7e45ba5d8/version/7" tvg-id="ערוץ.הקולנוע.הישראלי.il (src05)" tvg-rec="0",HOT Israeli Cinema
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/f53ca55a5b454260bc82ccd7e45ba5d8/version/7" tvg-id="ערוץ.הקולנוע.הישראלי.il (src05)" tvg-rec="0",HOT Israeli Cinema
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32138/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12217/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12216/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940341.png" tvg-id="hothbo.il (src09)" tvg-rec="3",HOT HBO
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940341.png" tvg-id="hothbo.il (src09)" tvg-rec="3",HOT HBO
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2354/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748507.png" tvg-id="hot3.il (src09)" tvg-rec="3",HOT 3
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748507.png" tvg-id="hot3.il (src09)" tvg-rec="3",HOT 3
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2367/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="הוט.בידור.ישראלי.il (src05)" tvg-rec="0",HOT Bidur
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="הוט.בידור.ישראלי.il (src05)" tvg-rec="0",HOT Bidur
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12219/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="0",HOT Real
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="0",HOT Real
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12274/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="3",HOT Zone
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="3",HOT Zone
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2360/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="0",Yes Movies Action
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="0",Yes Movies Action
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12270/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="0",Yes Movies Comedy
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="0",Yes Movies Comedy
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12271/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12272/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yes_logo.svg/512px-Yes_logo.svg.png" tvg-id="" tvg-rec="3",Yes ישראלי
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yes_logo.svg/512px-Yes_logo.svg.png" tvg-id="" tvg-rec="3",Yes ישראלי
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2342/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2346/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2345/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2343/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yes_logo.svg/512px-Yes_logo.svg.png" tvg-id="" tvg-rec="0",Yes דוקו
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Yes_logo.svg/512px-Yes_logo.svg.png" tvg-id="" tvg-rec="0",Yes דוקו
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12258/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2341/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/5180a9b7ea354290a1576175631fe49d/version/3" tvg-id="5PLUS.HD.il (src05)" tvg-rec="0",5Sport Plus
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/5180a9b7ea354290a1576175631fe49d/version/3" tvg-id="5PLUS.HD.il (src05)" tvg-rec="0",5Sport Plus
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32151/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3fd17f2b9f4c469d95fed1446f198474/version/3" tvg-id="5LIVE.HD.il (src05)" tvg-rec="3",5Live
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3fd17f2b9f4c469d95fed1446f198474/version/3" tvg-id="5LIVE.HD.il (src05)" tvg-rec="3",5Live
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2362/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/06c47e53fc4d40d494c62a1c905c59d8/version/3" tvg-id="5STARS.il (src05)" tvg-rec="0",5Stars
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/06c47e53fc4d40d494c62a1c905c59d8/version/3" tvg-id="5STARS.il (src05)" tvg-rec="0",5Stars
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12278/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sport5_logo.svg/512px-Sport5_logo.svg.png" tvg-id="" tvg-rec="0",5Sport Max
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sport5_logo.svg/512px-Sport5_logo.svg.png" tvg-id="" tvg-rec="0",5Sport Max
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32147/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Gold
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Gold
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12254/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748472.png" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748472.png" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/16019/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One il
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One il
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2340/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12231/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/x1761.png" tvg-id="oneedge.il (src09)" tvg-rec="0",One Edge
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/x1761.png" tvg-id="oneedge.il (src09)" tvg-rec="0",One Edge
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32002/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="ONE.DOCO.il (src05)" tvg-rec="0",One Doco
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/465d5aa15dce4a2cb76fe7fce0a268fc/version/3" tvg-id="ONE.DOCO.il (src05)" tvg-rec="0",One Doco
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32129/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12249/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12250/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12251/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="0",ספורט 4
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="0",ספורט 4
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12252/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/7203/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2355/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12209/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6aa1d8c8af7e45fdb18138b03faba8f6/version/3" tvg-id="FOODY.il (src05)" tvg-rec="0",Foody
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6aa1d8c8af7e45fdb18138b03faba8f6/version/3" tvg-id="FOODY.il (src05)" tvg-rec="0",Foody
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32154/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/177f73b890d147e3acd03f86f97f6ccd/version/2" tvg-id="E!.il (src05)" tvg-rec="0",E!
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/177f73b890d147e3acd03f86f97f6ccd/version/2" tvg-id="E!.il (src05)" tvg-rec="0",E!
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12243/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4a3bc4cae2ac4803b439b89158bf11ce/version/2" tvg-id="בית.+.HD.il (src05)" tvg-rec="3",בית +
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4a3bc4cae2ac4803b439b89158bf11ce/version/2" tvg-id="בית.+.HD.il (src05)" tvg-rec="3",בית +
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2339/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="ערוץ.הטיולים.il (src05)" tvg-rec="0",ערוץ הטיולים
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="ערוץ.הטיולים.il (src05)" tvg-rec="0",ערוץ הטיולים
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32160/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="3",ערוץ הבריאות
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="3",ערוץ הבריאות
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2378/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bdc80c156b31464fb361e1a03f1f8b3f/version/7" tvg-id="מוסיקה.24.il (src05)" tvg-rec="0",מוסיקה 24
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bdc80c156b31464fb361e1a03f1f8b3f/version/7" tvg-id="מוסיקה.24.il (src05)" tvg-rec="0",מוסיקה 24
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12237/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/2c7f02e3c7914dd7bcdc5e57a0efbb8c/version/2" tvg-id="ערוץ.הכנסת.il (src05)" tvg-rec="0",ערוץ הכנסת
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/2c7f02e3c7914dd7bcdc5e57a0efbb8c/version/2" tvg-id="ערוץ.הכנסת.il (src05)" tvg-rec="0",ערוץ הכנסת
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12269/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/82f0b16a33ba4512bbfd53d3ba6c8d28/version/2" tvg-id="כאן.חינוכית.il (src05)" tvg-rec="3",כאן חינוכית
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/82f0b16a33ba4512bbfd53d3ba6c8d28/version/2" tvg-id="כאן.חינוכית.il (src05)" tvg-rec="3",כאן חינוכית
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2380/index.m3u8
-#EXTINF:-1 group-title="Others" tvg-logo="https://images.open-epg.com/18748425.png" tvg-id="channel14.il (src09)" tvg-rec="0",ערוץ 14
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748425.png" tvg-id="channel14.il (src09)" tvg-rec="0",ערוץ 14
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12242/index.m3u8
 #EXTINF:-1 group-title="" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
 http://77.137.40.221:8000/play/a00l
