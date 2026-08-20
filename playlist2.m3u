@@ -115,6 +115,36 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12269/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2380/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748425.png" tvg-id="channel14.il (src09)" tvg-rec="0",ערוץ 14
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12242/index.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBCCVLT.us (m3u4u)",NBC Comedy Vault
+https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
+http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLC.HD.uk (src05)",TLC 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717704&extension=ts&play_token=u97gtQ6qGT
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
+http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NATGEO.uk (m3u4u)",NATIONAL GEOGRAPHIC 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
+#EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
+#EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="DiscoveryPlus1.uk (src09)",DISCOVERY PLUS 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=910033&extension=ts&play_token=KTDPcu2DbJ
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
+http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src05)",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="" tvg-id="",Travel Escapes
+https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
+https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" tvg-id="FOXNews.uk (src01)",FOX NEWS
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=429591&extension=ts&play_token=T5XsGx4PaF
 #EXTINF:-1 group-title="Foreign" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" tvg-id="FOX.us (src09)" tvg-chno="77",FOX live
@@ -181,36 +211,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19054/index.m3u8
 #EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBCCVLT.us (m3u4u)",NBC Comedy Vault
-https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
-http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLC.HD.uk (src05)",TLC 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717704&extension=ts&play_token=u97gtQ6qGT
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
-http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NATGEO.uk (m3u4u)",NATIONAL GEOGRAPHIC 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
-#EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
-#EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="DiscoveryPlus1.uk (src09)",DISCOVERY PLUS 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=910033&extension=ts&play_token=KTDPcu2DbJ
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
-http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src05)",InTravel
-https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="" tvg-id="",Travel Escapes
-https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="Foreign" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
-https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Foreign" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
 http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
 #EXTINF:-1 group-title="Foreign" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
