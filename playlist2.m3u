@@ -7,7 +7,7 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2349/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2330/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2386/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",National Geographic
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",נשיונל ג'אוגרפיק
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12247/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",National Geographic Wild
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12248/index.m3u8
@@ -37,10 +37,6 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12216/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2354/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748507.png" tvg-id="hot3.il (src09)" tvg-rec="3",HOT 3
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2367/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="הוט.בידור.ישראלי.il (src05)" tvg-rec="0",HOT Bidur
-http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12219/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="0",HOT Real
-http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12274/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940344.png" tvg-id="hotzone.il (src09)" tvg-rec="3",HOT Zone
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2360/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="0",Yes Movies Action
