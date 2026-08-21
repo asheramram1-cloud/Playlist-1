@@ -97,8 +97,6 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32154/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12243/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/4a3bc4cae2ac4803b439b89158bf11ce/version/2" tvg-id="בית.+.HD.il (src05)" tvg-rec="3",בית +
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2339/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="ערוץ.הטיולים.il (src05)" tvg-rec="0",Travel Channel
-http://11.team.ga:80/ch3133/mono.m3u8?token=meirginat0523230555.1M6iGjwjF8wyPgiYsHYp__aoHxEuh4KM7FCvP4tRN8LaZAVlxHiHW76QcspUCSJjIS0_lAneTWOexfN75E__iA.dubldot
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6e17292cdedc4058918bac1b0eafdee6/version/6" tvg-id="ערוץ.הנופש.il (src05)",ערוץ הנופש
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="3",ערוץ בריאות
