@@ -63,10 +63,10 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32151/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2362/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/06c47e53fc4d40d494c62a1c905c59d8/version/3" tvg-id="5STARS.il (src05)" tvg-rec="0",5Stars
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12278/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sport5_logo.svg/512px-Sport5_logo.svg.png" tvg-id="" tvg-rec="0",5Max
-http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32147/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Gold
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12254/index.m3u8
+#EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sport5_logo.svg/512px-Sport5_logo.svg.png" tvg-id="" tvg-rec="0",5Max
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32147/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748472.png" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/16019/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One il
@@ -87,8 +87,6 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12251/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12252/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748498.png" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/7203/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
-http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2355/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12209/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6aa1d8c8af7e45fdb18138b03faba8f6/version/3" tvg-id="FOODY.il (src05)" tvg-rec="0",Foody
@@ -97,6 +95,8 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/32154/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2339/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6e17292cdedc4058918bac1b0eafdee6/version/6" tvg-id="ערוץ.הנופש.il (src05)",ערוץ הנופש
 https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
+http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2355/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a9/TV_icon.svg/512px-TV_icon.svg.png" tvg-id="" tvg-rec="3",ערוץ בריאות
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2378/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/bdc80c156b31464fb361e1a03f1f8b3f/version/7" tvg-id="מוסיקה.24.il (src05)" tvg-rec="0",מוסיקה 24
@@ -125,8 +125,6 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
 #EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
-#EXTINF:-1 group-title="Foreign" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/12219.jpg?89049" tvg-id="DiscoveryPlus1.uk (src09)",DISCOVERY PLUS 4K
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=910033&extension=ts&play_token=KTDPcu2DbJ
 #EXTINF:-1 group-title="Foreign" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 #EXTINF:-1 group-title="Foreign" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
