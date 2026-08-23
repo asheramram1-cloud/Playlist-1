@@ -11,7 +11,7 @@ http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2386/index.m3u8
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12247/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",Nat Geo Wild
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/12248/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)" tvg-rec="3",דיסקברי
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="ערוץ.דיסקברי.il (src05)" tvg-rec="3",דיסקברי
 http://6a82f65f.edemist.com/iptv/VRTC2LAHBSG2YS/2358/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",animal planet
 http://77.137.40.221:8000/play/a00l
