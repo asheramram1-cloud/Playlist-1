@@ -1,0 +1,4 @@
+#EXTINF:-1 logo="https://cvy.okis.ru/file/cvy/9.gif", Fireplace
+http://185.57.68.33/232/mpegts
+#EXTINF:-1 tvg-logo="https://img.prosto.tv/storage/channel/logo/ch00310.png",Каmin
+http://iptv.prosto.tv:7000/ch318/video.m3u8
