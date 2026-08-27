@@ -143,14 +143,14 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324915&extension=ts&play_token=KvuAXxUos2
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.uk (m3u4u)" tvg-chno="17",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.uk (m3u4u)",Sky News
+https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-id="I24NWEN.us (m3u4u)",i24NEWS English
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="VIZREUT.us (m3u4u)",Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658" tvg-id="BLOOMHD.us (m3u4u)",BLOOMBERG
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717714&extension=ts&play_token=nhtp7cPBow
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNews.ie@SD",Sky News
-https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPNHD.us (m3u4u)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPNHD.us (m3u4u)",ESPN HD
