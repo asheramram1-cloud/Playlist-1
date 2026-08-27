@@ -29,13 +29,13 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2340/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12231/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",Sport 1
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12249/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",Sport 2
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12250/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",Sport 3
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/12251/index.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",Sport 4
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",ספורט 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2389/index.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="יורוספורט.2.HD.il (src05)" tvg-rec="3",Eurosport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/7203/index.m3u8
@@ -143,7 +143,7 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324915&extension=ts&play_token=KvuAXxUos2
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.uk (m3u4u)" tvg-chno="17",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.uk (m3u4u)",Sky News
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SkyNews.uk (src01)",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-id="I24NWEN.us (m3u4u)",i24NEWS English
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
@@ -165,7 +165,7 @@ https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_cha
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568777&extension=ts&play_token=ZbghfCDEJK
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="Fox Sports 2.us (src09)",FOX SPORTS 2
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568776&extension=ts&play_token=gfut9p6kcd
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0027JLGY.png_dark_360w_270h.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" tvg-id="Sky.Sport.Select.nz (src05)",SkySports Select
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
@@ -183,6 +183,8 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" tvg-id="Sky.Sport.7.nz (src05)",SkySports 7
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/1070.png?81674" tvg-id="TNTSPUL.uk (m3u4u)",TNT SPORTS ULTIMATE UHD
+http://pro.business-cdn-8k.com
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621639&extension=ts&play_token=LI99s7LVky
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
