@@ -103,11 +103,11 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103387_dark_360w_270h.png" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src05)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
@@ -131,9 +131,9 @@ http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=429591&extension=ts&play_token=T5XsGx4PaF
 #EXTINF:-1 group-title="In use" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" tvg-id="FOX.us (src09)" tvg-chno="77",FOX live
 https://amg00488-foxdigital-wfld-lgus-easfb.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wfld-lgus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59611cb864defd3d75a83458723a2099c93a68ace41d1d3c37ea151e0660d087525c9d47bc3fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3817b975a8486272dfa89a9ea4725d708d22c033a965018fc73f/53/1280x720_3000140/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?75252" tvg-id="CNNEUSK.uk (m3u4u)",CNN
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125075_dark_360w_270h.png" tvg-id="CNNEUSK.uk (m3u4u)",CNN
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324963&extension=ts&play_token=9vTpXJ4FrF
-#EXTINF:-1 group-title="In use" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-chno="75",CBS News
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-chno="75",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
@@ -185,13 +185,13 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSportsUltimate.uk (src01)",TNT Sports Ultimate UHD
 http://pro.business-cdn-8k.com
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621639&extension=ts&play_token=LI99s7LVky
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16297.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621638&extension=ts&play_token=qjKSOegbuI
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16298.png" tvg-id="TNTSports3.uk (src09)",TNT SPORTS 3
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621637&extension=ts&play_token=POhbIX5hjK
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.uk (src09)",TNT SPORTS 4
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16299.png" tvg-id="TNTSports4.uk (src09)",TNT SPORTS 4
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621636&extension=ts&play_token=LdiLsx5JyY
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG0025RX2D.png_white_360w_270h.png" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
