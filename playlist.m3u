@@ -183,7 +183,7 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" tvg-id="Sky.Sport.7.nz (src05)",SkySports 7
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
-#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSPUL.uk (m3u4u)",http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1069751&extension=ts&play_token=vSoB4IBNuI
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSportsUltimate.uk (src09)",http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1069751&extension=ts&play_token=vSoB4IBNuI
 http://pro.business-cdn-8k.com
 #EXTINF:-1 group-title="Uncategorized" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621639&extension=ts&play_token=LI99s7LVky
