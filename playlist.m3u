@@ -1,12 +1,4 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/nqryi0ygk0bu24xhifrdb/m3u4u-206621-747644-EPG-Favorites.xml.gz?rlkey=cgqwp67vk258hw9ypxg4w0zfa&st=mbus70r8&dl=1"
-#EXTINF:-1 group-title="Unused" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Kan%2011.png" tvg-id="channel11.il",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="http://picons.cmshulk.com/picons/59336.png" tvg-id="channel12.il",Keshet 12
-http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" tvg-id="channel13.il",Reshet 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/i24news.jpg" tvg-id="i24hebrew.il",i24 News
-https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",Kan11
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2332/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il" tvg-rec="3",Keshet 12
@@ -191,7 +183,7 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&ex
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" tvg-id="Sky.Sport.7.nz (src05)",SkySports 7
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSportsUltimate.uk (src01)",TNT sports main event UHD
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSportsUltimate.uk (src01)",TNT Sports Ultimate UHD
 http://pro.business-cdn-8k.com
 #EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://204.52.191.254:80/play/live.php?mac=00:1A:79:84:A8:47&stream=621639&extension=ts&play_token=LI99s7LVky
