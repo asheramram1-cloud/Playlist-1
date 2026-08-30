@@ -115,18 +115,6 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/bbc-one-uk.png?raw=true" tvg-id="BBCOneHD.uk (src01)" tvg-chno="10",BBC 1
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19176/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://tv.cdnartwhere.eu/images/logos_chaines/17.png" tvg-id="BBC2Wales.uk (src01)" tvg-chno="11",BBC 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19177/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117329_dark_360w_270h.png" tvg-id="ITV.uk (src01)" tvg-chno="13" cuid="",ITV
-http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/19185/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-2-uk.png?raw=true" tvg-id="ITV2.uk (src01)" tvg-chno="14",ITV 2
-http://18d3f41f.cbilant.com/iptv/AL5DDQ6V95N4M8/19186/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-3-uk.png?raw=true" tvg-id="ITV3.uk (src01)" tvg-chno="15" cuid="",ITV 3
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11181
-#EXTINF:-1 group-title="In use" tvg-logo="https://github.com/iprtl/tv-logos/blob/main/countries/united-kingdom/itv-4-uk.png?raw=true" tvg-id="ITV4.uk (src01)" tvg-chno="16" cuid="",ITV 4
-http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" tvg-id="FOXNews.uk (src01)",FOX NEWS
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=429591&extension=ts&play_token=T5XsGx4PaF
 #EXTINF:-1 group-title="In use" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" tvg-id="FOX.us (src09)" tvg-chno="77",FOX live
