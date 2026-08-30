@@ -157,20 +157,6 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=156
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" tvg-id="Sky.Sport.Select.nz (src05)",SkySports Select
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4gZFsogRgbwZdK9k95iHWa/8dee97f8eebca01da8099679b7f42f5c/Sky_Sports_1.png" tvg-id="Sky.Sport.1.nz (src05)",SkySports 1
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809392.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/5sg8cnjJ9ewyw9mBnj4DyP/d889d7e60e7959cb32fb4459c359b310/Sky_Sports_2.png" tvg-id="Sky.Sport.2.nz (src05)",SkySports 2
-https://raw.githubusercontent.com/IPTVFlixBD/OopsTv/refs/heads/main/cha-spo10/809393.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2Li36VKCjeQR5EdxX94vyV/f4e8b1608c57e9f44fc5fead915927b0/Sky_Sports_3.png" tvg-id="Sky.Sport.3.nz (src05)",SkySports 3
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424316&extension=ts&play_token=SIT57qojPv
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3N1SRV2Ju4HmQNtZ4pThVu/c9f535723d2fc60697466d43261f624f/skysport_gold.png" tvg-id="Sky.Sport.4.nz (src05)",SkySports 4
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424315&extension=ts&play_token=t6lyRcjmaz
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3fJO9Xv4cwOvshWTvCVjX6/8c97db357dd3aa0050d7ffdb1ff46259/Sky_Sports_5.png" tvg-id="Sky.Sport.5.nz (src05)",SkySports 5
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424314&extension=ts&play_token=IlUv2zn5ow
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/4neKyKZhBEIzEzEmeWWU96/edcfc922667d86db8a25c087cdea2750/Sky_Sports_6.png" tvg-id="Sky.Sport.6.nz (src05)",SkySports 6
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424313&extension=ts&play_token=DWVCOAe7kM
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/2W3VYD7jLnxWNNztOkEfNn/78f46ff43a7a01580c69d7b8c68a085f/Sky_Sports_7.png" tvg-id="Sky.Sport.7.nz (src05)",SkySports 7
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424312&extension=ts&play_token=Sew6JHxWTD
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s125396_gray_360w_270h.png" tvg-id="TNTSportsUltimate.uk (src01)",TNT Sports Ultimate UHD
 http://pro.business-cdn-8k.com
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
