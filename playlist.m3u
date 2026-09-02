@@ -177,27 +177,3 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19054/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/7a/Kan_11_logo.svg/512px-Kan_11_logo.svg.png" tvg-id="kan11",כאן 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/53/Keshet_12_logo.svg/512px-Keshet_12_logo.svg.png" tvg-id="keshet12",קשת 12
-https://mako-streaming.akamaized.net/stream/hls/live/2033791/k12dvr/profile/5/hdntl=exp=1776714362~acl=%2f*~data=hdntl~hmac=ca58531dba787ebaa1250d1bdb7a750262b9d66e99d5bfce07badaf0f3ed3483/profileManifest.m3u8?_uid=3b54c001-6b1b-41d0-85bc-0d609b401551&rK=b7&_did=b35d1d61-d36b-40f0-86c9-446724222f66
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/4a/Reshet_13_logo.svg/512px-Reshet_13_logo.svg.png" tvg-id="reshet13",רשת 13
-https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/I24NEWS_logo.svg/512px-I24NEWS_logo.svg.png" tvg-id="i24news",חדשות i24
-https://fastly.live.brightcove.com/6386790215112/eu-central-1/5377161796001/playlist-hls.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/0/02/Channel_10_logo.svg/512px-Channel_10_logo.svg.png" tvg-id="calcala10",כלכלה 10
-https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/9/9a/Kan_Educational_logo.svg/512px-Kan_Educational_logo.svg.png" tvg-id="kanedu23",כאן חינוכית 23
-https://r.il.cdn-redge.media/livehls/oil/kancdn-live/live/kan_edu/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/4/4b/Knesset_channel_logo.svg/512px-Knesset_channel_logo.svg.png" tvg-id="knesset99",כנסת 99
-https://kneset.gostreaming.tv/p2-kneset/_definst_/myStream/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/6/67/Channel_9_Israel_logo.svg/512px-Channel_9_Israel_logo.svg.png" tvg-id="ch9",ערוץ 9
-https://contact.gostreaming.tv/Con-11/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/7/73/Channel_24_logo.svg/512px-Channel_24_logo.svg.png" tvg-id="ch24",ערוץ 24 החדש
-https://mako-streaming.akamaized.net/direct/hls/live/2035340/ch24live/index.m3u8?as=1
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/he/thumb/5/52/Big_Brother_logo.svg/512px-Big_Brother_logo.svg.png" tvg-id="bigbrother",האח הגדול
-https://d3snfszc9pg25z.cloudfront.net/media/e1739115-9182-4adc-8d19-8eb7fb6fdd3a/playlist_2.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Reality_TV_logo.svg/512px-Reality_TV_logo.svg.png" tvg-id="reality",ערוץ הריאליטי
-https://d2dffl3588mvfk.cloudfront.net/out/v1/d8e15050ca4148aab0ee387a5e2eb46b/index.m3u8
-#EXTINF:-1 group-title="Unused" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Travel_channel_logo.svg/512px-Travel_channel_logo.svg.png" tvg-id="vacation",ערוץ הנופש
-https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
