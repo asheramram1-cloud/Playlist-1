@@ -5,7 +5,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2332/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2349/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",Reshet13
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2330/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/59e6b4c82f334fb39f9db4c00cdf4436/version/6" tvg-id="עברית.i24.il (src05)" tvg-rec="3",i24 News
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/59e6b4c82f334fb39f9db4c00cdf4436/version/6" tvg-id="I24NEWS.uk (m3u4u)" tvg-rec="3",i24 News
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2386/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/12edebf10c3e4af894a9cb001f98f19d/version/2" tvg-id="נשיונל.ג’יאוגרפיק.il (src05)" tvg-rec="0",נשיונל ג'אוגרפיק
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12247/index.m3u8
@@ -13,9 +13,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12247/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12259/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s56905_dark_360w_270h.png" tvg-id="ערוץ.דיסקברי.il (src05)" tvg-rec="3",ערוץ דיסקברי
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2358/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="Animal.Planet.nz (src05)",Animal Planet
 http://77.137.40.221:8000/play/a00l
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",History HD
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="History.us (src09)" tvg-rec="0",History HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12265/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8 IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12216/index.m3u8
@@ -47,7 +47,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2346/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2343/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network HD IL
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="FOOD.us (m3u4u)" tvg-rec="0",Food Network HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12209/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",Good Life IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2355/index.m3u8
@@ -55,7 +55,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2355/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2339/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://epg.one/img2/2709.png" tvg-id="" tvg-rec="3",ערוץ הבריאות
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2378/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748402.png" tvg-id="music24.il (src09)" tvg-rec="0",Channel 24 HD IL
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748402.png" tvg-id="WATNSTR.us (m3u4u)" tvg-rec="0",Channel 24 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12237/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748399.png" tvg-id="kaneducation.il (src09)" tvg-rec="3",Kan Educational IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2380/index.m3u8
@@ -83,29 +83,29 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12250/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",Sport 4 HD IL
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="יורוספורט.2.HD.il (src05)" tvg-rec="3",Eurosport 2
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="EUSP2FR.de (m3u4u)" tvg-rec="3",Eurosport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBCCVLT.us (m3u4u)",NBC Comedy Vault
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s138448_gray_360w_270h.png" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master_3.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)" tvg-chno="82",BBC America
 http://23.237.104.106:8080/USA_BBC_AMERICA/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLC.HD.uk (src05)",TLC 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLC.nz (src05)",TLC 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717704&extension=ts&play_token=u97gtQ6qGT
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s11207_light_360w_270h.png" tvg-id="USA.us (m3u4u)" tvg-chno="37",USA Network
 http://ax0x2jeb.vexiumis.top/iptv/275EP3V8V4MZHG8KQGLFDPSK/31124/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NATGEO.uk (m3u4u)",NATIONAL GEOGRAPHIC 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NatGeoHD.de (src01)",NATIONAL GEOGRAPHIC 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717708&extension=ts&play_token=pc55HjW4gK
-#EXTINF:-1 group-title="In use" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NatGeoWild.uk (src01)",NAT GEO WILD 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://tv-at-prod.yo-digital.com/prod/images/logos/445/250/7d50f3203586a476c71aeffbbc4b6fe6.86880.PNG" tvg-id="NAT.GEO.WILD.de (src05)",NAT GEO WILD 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="ANIPLN.uk (m3u4u)",ANIMAL PLANET 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="Animal.Planet.nz (src05)",ANIMAL PLANET 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
+#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.nz (src05)",DISCOVERY 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="travelxp.4K.de (src05)",Travelxp 4k
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp.de (src09)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src05)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
@@ -129,29 +129,29 @@ http://hdlocal.de:8080/eurotv/jyrDCMeEZchhnvsWWS2211/11183
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=429591&extension=ts&play_token=T5XsGx4PaF
 #EXTINF:-1 group-title="In use" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" tvg-id="FOX.us (src09)" tvg-chno="77",FOX live
 https://amg00488-foxdigital-wfld-lgus-easfb.amagi.tv/ts-us-w2-n2/playlist/amg00488-foxdigital-wfld-lgus/cb543d1e7e6c64869ed43d66d4ef49a2f94b1fde1d6988693eb5518975d1073edce2a59caa08ff16388f1ede7f0a66413a3e951fda77118fd87eb141453c5728cfffe729a2c05616b7db083429b56a062a866a68ac39437ed0e21f48a238b6720a5aa82a66443d80b846ac725adb80148b61299bce8c37683f03409a5e5afba358b38ab50a5ad968a9af1c56953145f59611cb864defd3d75a83458723a2099c93a68ace41d1d3c37ea151e0660d087525c9d47bc3fbbfd7b0ec01da612b52242474a4cfa0f15b288e07625aeaf6c8be178e79aca803f1aab32662e229a5369862a908dd8e26317398ad2b623caad04e732eafebe2fb93cff29f149985d9a7145b98e3007d49ce27be484f68c1a89c46cdab61e7a77eef03aa9d6160e87b41b4dee1a4ecad00ef04ccd5fd9b3c0d646c0c038853a7896fce3bda420faf793c71425ea49659c5c98c10602207b18950d01c0caa9ba5b79f5f6b8430401adf69d70d51378c2c3a28ac6dd88a2c608c110f871e34ef1760d315b2eb7ab5eff0cd32169992874ef664eaf52dd7f509a6247c7a0aa1fd215a0a1d2988a0364360379305d7d2cce065004fb9a49ab0930578223d101d5ddfbaa920d5de8e796f63ab3911697a1418811796388f722e2e1a894f83e2590eca6c4800efa42d52496390dcc3e8aadfc956ba6cdcc9e943411e5d64b873486659dab88956ea2b09195e589304704cad0d3817b975a8486272dfa89a9ea4725d708d22c033a965018fc73f/53/1280x720_3000140/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?75252" tvg-id="CNNEUSK.uk (m3u4u)",CNN
+#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/234.png?75252" tvg-id="cnn.il (src09)",CNN
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324963&extension=ts&play_token=9vTpXJ4FrF
 #EXTINF:-1 group-title="In use" tvg-logo="https://iptvboss.xyz/logos/USA/CBSNews.us.png" tvg-id="CBSNWBL.us (m3u4u)" tvg-chno="75",CBS News
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master_23.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)",NBC News NOW
 https://d1si3n1st4nkgb.cloudfront.net/10502/88896001/hls/master.m3u8?ads.xumo_channelId=88896001
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002H5PTP.png_dark_360w_270h.png" tvg-id="MSNOW.us (m3u4u)",MSNBC
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002H5PTP.png_dark_360w_270h.png" tvg-id="MSNBC.HD.us2.us (src05)",MSNBC
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324922&extension=ts&play_token=Xf12NP3dzy
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_light_360w_270h.png" tvg-id="ABCNL.us (m3u4u)",abc news
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_light_360w_270h.png" tvg-id="ANSDANZ.au (m3u4u)",abc news
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=324915&extension=ts&play_token=KvuAXxUos2
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEWS.uk (m3u4u)" tvg-chno="17",BBC News
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s19037_dark_360w_270h.png" tvg-id="BBCNEEU.de (m3u4u)" tvg-chno="17",BBC News
 https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-id="I24NWEN.us (m3u4u)",i24NEWS English
+#EXTINF:-1 group-title="In use" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/LOGO_i24NEWS.png/960px-LOGO_i24NEWS.png" tvg-id="i24NEWS.ENGLISH.il (src05)",i24NEWS English
 https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://i.imgur.com/6eQ2nCJ.png" tvg-id="VIZREUT.us (m3u4u)",Reuters
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658" tvg-id="BLOOMHD.us (m3u4u)",BLOOMBERG
+#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658" tvg-id="BLOMANZ.au (m3u4u)",BLOOMBERG
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717714&extension=ts&play_token=nhtp7cPBow
-#EXTINF:-1 group-title="In use" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.uk (m3u4u)",Sky News
+#EXTINF:-1 group-title="In use" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.de (m3u4u)",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPNHD.us (m3u4u)",ESPN 4k
+#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN.us (src09)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPNHD.us (m3u4u)",ESPN HD
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (src09)",ESPN HD
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325020&extension=ts&play_token=hfaiq8JQoy
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?68747" tvg-id="ESPN News.us (src09)",ESPN NEWS HD
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325019&extension=ts&play_token=k7LOqWv8xB
@@ -167,13 +167,13 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=156
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" tvg-id="Sky.Sport.Select.nz (src05)",SkySports Select
 http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2505/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSports2.uk (src09)",TNT SPORTS 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/2506/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16298.png" tvg-id="TNTSports3.uk (src09)",TNT SPORTS 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/6564/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.uk (src09)",TNT SPORTS 4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/43END2X4F4K2GCELEST5Y3NQ/19054/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x833.png" tvg-id="TNTSportsUltimate.uk (src09)",TNT ULTIMATE 4K
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1284552&extension=ts&play_token=9EPn2yvXJx
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578001&extension=ts&play_token=nHj8cQrctW
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_light_360w_270h.png" tvg-id="TNTSP2VM.uk (m3u4u)",TNT SPORTS 2
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578000&extension=ts&play_token=UFld20paQA
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_light_360w_270h.png" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 3
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=577999&extension=ts&play_token=91lasFMxxO
