@@ -15,7 +15,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12259/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2358/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
 http://77.137.40.221:8000/play/a00l
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="history.il (src09)" tvg-rec="0",History
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/759c366b0cfb4063bbc9e490684618e1/version/5" tvg-id="ערוץ.ההיסטוריה.il (src05)" tvg-rec="0",ערוץ ההיסטוריה
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12265/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12216/index.m3u8
@@ -23,8 +23,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12216/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12245/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12215/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2372/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="0",HOT Cinema 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12220/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2356/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
@@ -47,11 +47,11 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2346/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2343/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="FOODN.us (m3u4u)" tvg-rec="0",Food Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12209/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",Good Life
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2355/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748379.png" tvg-id="homeplus.il (src09)" tvg-rec="3",Home Plus
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748379.png" tvg-id="homeplus.il (src09)" tvg-rec="3",בית +
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2339/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://epg.one/img2/2709.png" tvg-id="" tvg-rec="3",ערוץ בריאות
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2378/index.m3u8
@@ -65,7 +65,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12269/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12242/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2341/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1641.png" tvg-id="5sportlive.il (src09)" tvg-rec="0",5Sport Live
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1641.png" tvg-id="ספורט.5.לייב.il (src05)" tvg-rec="0",5Sport Live
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12255/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://epg.one/img2/3994.png" tvg-id="5STARS.il (src05)" tvg-rec="0",5Sport Stars
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12278/index.m3u8
