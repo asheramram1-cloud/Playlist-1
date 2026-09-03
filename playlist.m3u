@@ -49,12 +49,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2343/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="FOODN.us (m3u4u)" tvg-rec="0",Food Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12209/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/ec3e1aa952b34f0c860261bd3f2252b2/version/3" tvg-id="GOOD.LIFE+.il (src05)" tvg-rec="3",החיים הטובים
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2355/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748379.png" tvg-id="homeplus.il (src09)" tvg-rec="3",בית +
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2339/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://epg.one/img2/2709.png" tvg-id="" tvg-rec="3",ערוץ בריאות
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2378/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6e17292cdedc4058918bac1b0eafdee6/version/6" tvg-id="ערוץ.הנופש.il (src05)",ערוץ הנופש
+https://d1yd8hohnldm33.cloudfront.net/out/v1/19dee23c2cc24f689bd4e1288661ee0c/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748402.png" tvg-id="ערוץ.24.בשידור.חי.il (src05)" tvg-rec="0",Channel 24
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12237/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748399.png" tvg-id="kaneducation.il (src09)" tvg-rec="3",כאן חינוכית
