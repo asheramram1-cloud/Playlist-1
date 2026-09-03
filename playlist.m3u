@@ -83,7 +83,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12250/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",ספורט 4
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="EUSP2FR.de (m3u4u)" tvg-rec="3",Eurosport 2
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
@@ -137,7 +137,7 @@ https://i24newsenglish-cdn.encoders.immergo.tv/master.m3u8
 https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playlist/amg00453-reuters-reuters-rakutenuk/playlist.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/11392.png?13658" tvg-id="BLOOMHD.us (m3u4u)",BLOOMBERG
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717714&extension=ts&play_token=nhtp7cPBow
-#EXTINF:-1 group-title="In use" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.de (m3u4u)",Sky News
+#EXTINF:-1 group-title="In use" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.uk (m3u4u)",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN.us (src09)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
@@ -161,7 +161,7 @@ http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&ex
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1284552&extension=ts&play_token=9EPn2yvXJx
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578001&extension=ts&play_token=nHj8cQrctW
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_light_360w_270h.png" tvg-id="TNTSP2VM.uk (m3u4u)",TNT SPORTS 2
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_light_360w_270h.png" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 2
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578000&extension=ts&play_token=UFld20paQA
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_light_360w_270h.png" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 3
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=577999&extension=ts&play_token=91lasFMxxO
