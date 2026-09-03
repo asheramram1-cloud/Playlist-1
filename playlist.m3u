@@ -101,7 +101,7 @@ http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717709&extension=ts&play_token=aEW3oNbwKH
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s20707_dark_360w_270h.png" tvg-id="AnimalPlanet.uk (src01)",ANIMAL PLANET 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=262729&extension=ts&play_token=IjYPw6ehoo
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/3955.jpg?41002" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
+#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103387_dark_360w_270h.png" tvg-id="Discovery.uk (src01)",DISCOVERY 4K
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717711&extension=ts&play_token=v1nuoBDIJs
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s24282_dark_360w_270h.png" tvg-id="DISSCI.uk (m3u4u)",Discovery Science
 http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
@@ -109,7 +109,7 @@ http://line.trxdnscloud.ru:80/9e18617b9a/3dac01ee6b0e/1283277
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TRAVXPH.ca (m3u4u)",Travelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
-#EXTINF:-1 group-title="In use" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src05)",InTravel
+#EXTINF:-1 group-title="In use" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="" tvg-id="",Travel Escapes
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
