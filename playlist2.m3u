@@ -9,6 +9,10 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2330/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2386/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/fcae54b630b544d882529d959580077b/version/0" tvg-id="ערוץ.הכלכלה.il (src05)",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12216/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img2/2972.png" tvg-id="" tvg-rec="0",Yes Docu
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12258/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="ערוץ.נשיונל.גיאוגרפיק.il (src05)" tvg-rec="0",National Geographic HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12247/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s67331_white_360w_270h.png" tvg-id="ngwild.il (src09)" tvg-rec="0",National Geographic Wild HD
@@ -45,26 +49,20 @@ http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=260798&extension=t
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2377/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/FOODIES.png" tvg-id="",FOODIES
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394171&extension=ts&play_token=b5TsrnjO7M
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12217/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=469535&extension=ts&play_token=bjVMkNGKXx
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://image.xumo.com/v1/channels/channel/99951244/56x56.webp?type=color_onBlack" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940334.png" tvg-id="hot8.il (src09)" tvg-rec="0",HOT 8
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12216/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="0",HOT Cinema 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12245/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12215/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2372/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)",HOT Cinema 4
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=872230&extension=ts&play_token=zfYEPXAW2J
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940339.png" tvg-id="hotcomedycentral.il (src09)" tvg-rec="0",HOT Comedy
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12217/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img2/2972.png" tvg-id="" tvg-rec="0",Yes Docu
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12258/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2346/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2343/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="3",Yes Movies Action
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2350/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="3",Yes Movies Comedy
@@ -73,12 +71,14 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2348/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2351/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img2/2974.png" tvg-id="" tvg-rec="3",Yes Israeli
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2342/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2346/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940392.png" tvg-id="yestvdrama.il (src09)" tvg-rec="3",Yes TV Drama
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2343/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="0",HOT Cinema 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12245/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12215/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748511.png" tvg-id="hotcinema3.il (src09)" tvg-rec="3",HOT Cinema 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2372/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)",HOT Cinema 4
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=872230&extension=ts&play_token=zfYEPXAW2J
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2391/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Sport Gold
