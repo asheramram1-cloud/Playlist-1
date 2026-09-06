@@ -1,16 +1,8 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/iapfbiuy79o8tfibu3ot4/m3u4u-206621-750616-EPG-Playlist.xml.gz?rlkey=paxmuaqhz6ds941ytpnorvx00&st=4ec2dioz&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-12-IL.png" tvg-id="",IS - YES CHANNEL 12 KESHET FHD
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=812463&extension=ts&play_token=WIIVPoEPzC
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://51.158.145.100/picons/logos/logos/KESHET.png" tvg-id="",IS - KESHET UHD
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=260714&extension=ts&play_token=tLMIeiUTAF
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://103.176.90.118/picons/logos/CHANNEL-12-IL.png" tvg-id="",IS - KESHET 12 FHD
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=812452&extension=ts&play_token=ub2kYZfA1u
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img2/2670.png" tvg-id="2670" tvg-rec="3",Keshet 12 HD IL
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2329/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-rec="3",Keshet 12
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2349/index.m3u8
+http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",Reshet 13
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2330/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24
