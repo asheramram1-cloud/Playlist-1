@@ -54,7 +54,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12217/ind
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940391.png" tvg-id="yestvcomedy.il (src09)" tvg-rec="3",Yes TV Comedy
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2345/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16123_gray_360w_270h.png" tvg-id="TV Land.us (src09)",TV LAND
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=469535&extension=ts&play_token=bjVMkNGKXx
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325797&extension=ts&play_token=af93MAN7X6
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/3naQ4k9cQFPf92e7hs8HJ2/103abd6604e6cbf1a553ce02675cf9ff/TLC.png" tvg-id="TLCUNK.uk (m3u4u)",TLC 4K
+http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717704&extension=ts&play_token=u97gtQ6qGT
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://image.xumo.com/v1/channels/channel/99951244/56x56.webp?type=color_onBlack" tvg-id="NBC.Comedy.Vault.us2.us (src05)",NBC Comedy Vault
 https://xumo-xumoent-vc-105-z0vpm.fast.nbcuni.com/live/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940390.png" tvg-id="yestvaction.il (src09)" tvg-rec="3",Yes TV Action
