@@ -1,4 +1,4 @@
-name: update Favorites
+name: update Sports & News
 
 on:
   schedule:
@@ -22,10 +22,10 @@ jobs:
       - name: Download and Format M3U
         run: |
           # --- הגדרת המשתנים ---
-          EPG_URL="https://www.dropbox.com/scl/fi/nqryi0ygk0bu24xhifrdb/m3u4u-206621-747644-EPG-Favorites.xml.gz?rlkey=cgqwp67vk258hw9ypxg4w0zfa&st=mbus70r8&dl=1"
+          EPG_URL="https://www.dropbox.com/scl/fi/7k2m4zgucusbsej3h0lgf/m3u4u-206621-747644-EPG-Sports-News.xml.gz?rlkey=vllugwi5v7cq54rqsovcgys2u&st=v8qvqutv&dl=1"
           
           # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
-          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/owg4fgnthyur1bjz0ae0q/m3u4u-206621-747644-Playlist-Favorites.m3u?rlkey=emr0s6mbuhw1qt59sts0ddddt&st=qtqm27e4&dl=1"
+          M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/mr0okwz0xdx4mbvtdz1b0/m3u4u-206621-747644-Playlist-Sports-News.m3u?rlkey=qoxevlat4k9x25ks8o993i7cw&st=tb73bbmx&dl=1"
           OUTPUT_FILE="playlist.m3u"
           # ----------------------
 
@@ -52,7 +52,7 @@ jobs:
           git config --local user.email "github-actions[bot]@users.noreply.github.com"
           git config --local user.name "github-actions[bot]"
           
-          git add playlist.m3u
+          git add playlist1.m3u
           
           if git diff --staged --quiet; then
             echo "No changes found in M3U playlist."
