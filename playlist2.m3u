@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-chno="11",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-chno="12",Keshet 12
-http://stream.mcquack.net/294/index.m3u8
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2349/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-chno="13",Reshet 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-chno="14",i24 News
@@ -33,7 +33,7 @@ http://23.239.31.26:8989/bbcamerica/index.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",TRAVELXP 4K
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1409093&extension=ts&play_token=kYAjJ0qLGF
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",TRAVELXP HD
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",Traxelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TRAVXPH.ca (m3u4u)",Travelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
