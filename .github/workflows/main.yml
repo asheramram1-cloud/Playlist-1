@@ -1,4 +1,4 @@
-name: update Sports & News
+name: update Sports&News
 
 on:
   schedule:
@@ -26,7 +26,7 @@ jobs:
           
           # החלף את הקישור למטה בקישור ל-M3U של הערוצים שלך:
           M3U_SOURCE_URL="https://www.dropbox.com/scl/fi/mr0okwz0xdx4mbvtdz1b0/m3u4u-206621-747644-Playlist-Sports-News.m3u?rlkey=qoxevlat4k9x25ks8o993i7cw&st=tb73bbmx&dl=1"
-          OUTPUT_FILE="playlist.m3u"
+          OUTPUT_FILE="playlist1.m3u"
           # ----------------------
 
           # הורדת הקובץ המקורי תוך שמישות ב-User-Agent למניעת חסימות
