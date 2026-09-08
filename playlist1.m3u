@@ -1,18 +1,4 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/7k2m4zgucusbsej3h0lgf/m3u4u-206621-747644-EPG-Sports-News.xml.gz?rlkey=vllugwi5v7cq54rqsovcgys2u&st=v8qvqutv&dl=1"
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="ONE.il" tvg-rec="3",One il
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2340/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12231/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12249/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12250/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",ספורט 4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/750.jpg?ver=56209" tvg-id="FOXNews.uk (src01)",FOX NEWS
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=429591&extension=ts&play_token=T5XsGx4PaF
 #EXTINF:-1 group-title="In use" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s28719_dark_360w_270h.png" tvg-id="FOX.us (src09)" tvg-chno="77",FOX live
@@ -37,6 +23,20 @@ https://amg00453-reuters-amg00453c1-rakuten-uk-2110.playouts.now.amagi.tv/playli
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=717714&extension=ts&play_token=nhtp7cPBow
 #EXTINF:-1 group-title="In use" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1404.png" tvg-id="SKYNEWS.uk (m3u4u)",Sky News
 https://jmp2.uk/plu-55b285cd2665de274553d66f.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="ONE.il" tvg-rec="3",One il
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2340/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12231/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12249/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12250/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",ספורט 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
+#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN.us (src09)",ESPN 4k
 http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
 #EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (src09)",ESPN
