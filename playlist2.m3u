@@ -1,8 +1,6 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/iapfbiuy79o8tfibu3ot4/m3u4u-206621-750616-EPG-Playlist.xml.gz?rlkey=paxmuaqhz6ds941ytpnorvx00&st=4ec2dioz&dl=1"
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-chno="11",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" tvg-id="קשת.il (src05)" tvg-chno="12",Keshet 12
-http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)",קשת 12
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/VCQ4ADX96VH4G8PY7URBWRQU/2349/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-chno="13",Reshet 13
@@ -93,7 +91,5 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12254/ind
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394189&extension=ts&play_token=3sTauP7PfY
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x457.png" tvg-id="BLOOMBERGTV.ca (src09)",Bloomberg TV
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/82f0b16a33ba4512bbfd53d3ba6c8d28/version/2" tvg-id="כאן.חינוכית.il (src05)" tvg-rec="3",כאן חינוכית
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2380/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748455.png" tvg-id="knesset.il (src09)" tvg-rec="0",ערוץ הכנסת
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12269/index.m3u8
