@@ -35,6 +35,8 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12265/ind
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1726.png" tvg-id="travel.il (src09)",ערוץ הטיולים
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=260761&extension=ts&play_token=ACKuetOv5y
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="Travelxp4K.de (src09)",TRAVELXP 4K
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1409093&extension=ts&play_token=kYAjJ0qLGF
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
