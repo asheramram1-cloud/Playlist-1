@@ -81,9 +81,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2372/inde
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=872230&extension=ts&play_token=zfYEPXAW2J
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2391/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103250_dark_360w_270h.png" tvg-id="BLOMANZ.au (m3u4u)",BLOOMBERG
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394189&extension=ts&play_token=3sTauP7PfY
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x457.png" tvg-id="BLOOMBERGTV.ca (src09)",Bloomberg TV
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x457.png" tvg-id="BLOOMBERGTV.ca (src09)",Bloomberg
 http://23.237.104.106:8080/USA_BLOOMBERG/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748455.png" tvg-id="knesset.il (src09)" tvg-rec="0",ערוץ הכנסת
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12269/index.m3u8
