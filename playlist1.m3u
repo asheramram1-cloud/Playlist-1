@@ -19,15 +19,5 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x833.png" tvg-id="TNTSportsUltimate.uk (src09)",TNT ULTIMATE 4K
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1284552&extension=ts&play_token=9EPn2yvXJx
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578001&extension=ts&play_token=nHj8cQrctW
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82449_light_360w_270h.png" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 2
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=578000&extension=ts&play_token=UFld20paQA
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s117230_light_360w_270h.png" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 3
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=577999&extension=ts&play_token=91lasFMxxO
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/13794.png?ver=89391" tvg-id="MLA1.us (m3u4u)",HBO MAX PPV 1
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1918673&extension=ts&play_token=OBKbAb7Rgu
 #EXTINF:-1 group-title="" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
 http://77.137.40.221:8000/play/a00l
