@@ -19,24 +19,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?85252" tvg-id="ESPN.us (src09)",ESPN 4k
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1544250&extension=ts&play_token=dIof6HSN2r
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10179_white_360w_270h.png" tvg-id="ESPN.us (src09)",ESPN
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325020&extension=ts&play_token=hfaiq8JQoy
-#EXTINF:-1 group-title="In use" tvg-logo="http://photo-tmdb.com/stalker_portal/misc/logos/320/8260.png?68747" tvg-id="ESPN News.us (src09)",ESPN NEWS
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=325019&extension=ts&play_token=k7LOqWv8xB
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s45654_light_360w_270h.png" tvg-id="ESPNU.us (src09)",ESPNU
-http://23.237.104.106:8080/USA_ESPNU/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114140_white_360w_270h.png" tvg-id="NBC.Sports.Now.us2.us (src05)",NBC Sports NOW
-https://d4whmvwm0rdvi.cloudfront.net/10007/99993008/hls/master.m3u8?ads.xumo_channelId=99993008
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s82541_dark_360w_270h.png" tvg-id="Fox Sports 1.us (src09)",FOX SPORTS 1
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568777&extension=ts&play_token=ZbghfCDEJK
-#EXTINF:-1 group-title="In use" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG002KWQJ6.png_white_360w_270h.png" tvg-id="Fox Sports 2.us (src09)",FOX SPORTS 2
-http://pro.business-cdn-8k.com:80/play/live.php?mac=00:1A:79:7E:DE:42&stream=1568776&extension=ts&play_token=gfut9p6kcd
-#EXTINF:-1 group-title="In use" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SKYMEUK.uk (m3u4u)",SkySports MainEvents UHD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1608071&extension=ts&play_token=CwkOoO9orG
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7nDLn3jd7sFlVOsWo81cL0/ff39abec2569729c132e2c75a3e6839f/Sky_Sports_Select.png" tvg-id="Sky.Sport.Select.nz (src05)",SkySports Select
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1424309&extension=ts&play_token=xOWDX0pNeK
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x833.png" tvg-id="TNTSportsUltimate.uk (src09)",TNT ULTIMATE 4K
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1284552&extension=ts&play_token=9EPn2yvXJx
 #EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/16296.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
