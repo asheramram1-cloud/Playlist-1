@@ -79,8 +79,6 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2350/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2348/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="3",Yes Movies Drama
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2351/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2974.png" tvg-id="" tvg-rec="3",Yes Israeli
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2342/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748509.png" tvg-id="hotcinema1.il (src09)" tvg-rec="0",HOT Cinema 1
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/12245/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748510.png" tvg-id="hotcinema2.il (src09)" tvg-rec="0",HOT Cinema 2
@@ -91,6 +89,16 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2372/inde
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/2356/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11987.png" tvg-id="" tvg-rec="0",HOT Cinema 5
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SVAYUTY5LNAF4S/32137/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN.us (m3u4u)" tvg-chno="21",CNN
+https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" tvg-id="ABCNL.us (m3u4u)" tvg-chno="22",ABC News
+https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-chno="23",NBC News
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="foxnews.il (src09)" tvg-chno="24",Fox News
+https://tvsen6.aynaott.com/foxnews/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNews.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-chno="25",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-chno="11",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-chno="12",Keshet 12
