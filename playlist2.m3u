@@ -7,8 +7,8 @@ http://stream.mcquack.net/294/index.m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-chno="14",i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="",National Geographic
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394147&extension=ts&play_token=TXkSIsSGvs
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb4031.png" tvg-id="Nat.Geo.HD.uk (src05)",NAT GEO
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=843898&extension=ts&play_token=VlRTaCpY59
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",נשיונל ג'יאוגרפיק ווילד
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)",דיסקברי
@@ -17,8 +17,8 @@ http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=260778&extension=t
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=469374&extension=ts&play_token=inVN9JbTYv
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/80/35/skychb2402.png" tvg-id="Animal.Planet.uk (src05)",animal planet
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=577882&extension=ts&play_token=qAx19CNqs1
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83593_gray_360w_270h.png" tvg-id="",HISTORY
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=699421&extension=ts&play_token=bGmO9Rpys7
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://51.158.145.100/picons/logos/AFRICANEW/HISTORY.png" tvg-id="HSTRYHD.us (m3u4u)",HISTORY
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394170&extension=ts&play_token=3THrTKOqP2
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s135387_gray_360w_270h.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)",BBC America
