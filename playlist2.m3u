@@ -7,8 +7,8 @@ http://stream.mcquack.net/294/index.m3u8
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-chno="14",i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://www.movistarplus.es/recorte/m-DPBLAN/guiamovil/NATGEO.png" tvg-id="נשיונל.ג’יאוגרפיק.il (src05)",NAT GEO
-http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=577909&extension=ts&play_token=qfYgm6Q3qB
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/12edebf10c3e4af894a9cb001f98f19d/version/2" tvg-id="נשיונל.ג’יאוגרפיק.il (src05)",NATIONAL GEOGRAPHIC
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=812492&extension=ts&play_token=zQNZ5XcCcZ
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",נשיונל ג'יאוגרפיק ווילד
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748356.png" tvg-id="discovery.il (src09)",דיסקברי
