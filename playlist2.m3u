@@ -1,36 +1,68 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/iapfbiuy79o8tfibu3ot4/m3u4u-206621-750616-EPG-Playlist.xml.gz?rlkey=paxmuaqhz6ds941ytpnorvx00&st=bgg3aako&dl=1"
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-chno="11",Kan 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",IL: YES ISRAELI CINEMA FHD
+http://7c263.faststream.link:80/PaIbNtc95l/qDHfRtXlCM/687435
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-chno="12",Keshet 12
 http://stream.mcquack.net/294/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",IL: Yes Movies Action FHD
+http://7c263.faststream.link:80/PaIbNtc95l/qDHfRtXlCM/687434
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-chno="13",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",IR: Israel Pars TV
+http://7c263.faststream.link:80/PaIbNtc95l/qDHfRtXlCM/526948.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-chno="14",i24 News
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",NICKELODEON IL EN
+http://7c263.faststream.link:80/PaIbNtc95l/qDHfRtXlCM/462958
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",SKY NICKELODEON +1
+http://7c263.faststream.link:80/PaIbNtc95l/qDHfRtXlCM/462960
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s135387_gray_360w_270h.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|RU| DISCOVERY CHANNEL HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567479.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s18332_dark_360w_270h.png" tvg-id="BBCA.us (m3u4u)",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|RU| ANIMAL PLANET HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567480.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://picons.cmshulk.com/picons/97100.png" tvg-id="Travelxp4K.de (src09)",TRAVELXP 4K
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1409093&extension=ts&play_token=kYAjJ0qLGF
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|RU| EUROSPORT 1 HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567481.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|RU| EUROSPORT 2 HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567482.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TXPE.us (m3u4u)",Traxelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TXPE.us (m3u4u)",Travelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|RU| MATCH PREMYER HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567483.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|US| FOX LIFE
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567461.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="" tvg-id="",Travel Escapes
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|USA TV 1000 HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567462.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|USA| POBEDA HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567463.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CNN.png" tvg-id="CNN.us (m3u4u)" tvg-chno="21",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|CN| TV 1000 PREMIUM HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567464.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" tvg-id="ABCNL.us (m3u4u)" tvg-chno="22",ABC News
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|CDN| TLC
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567465.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-chno="23",NBC News
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Uncategorized" tvg-logo="" tvg-id="",|GER| PARAMOUNT CHANNEL HD
+http://0636823616.com:88/02060244120966/RbDhzZacjfCIiCb/567466.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="foxnews.il (src09)" tvg-chno="24",Fox News
 https://tvsen6.aynaott.com/foxnews/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/CBSNews.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-chno="25",CBS News
