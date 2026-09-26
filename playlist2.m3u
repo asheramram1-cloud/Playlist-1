@@ -5,9 +5,9 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 http://stream.mcquack.net/293/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
 https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12 (2)
 http://stream.mcquack.net/294/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" tvg-id="Reshet%2013" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Reshet%2013.jpg" tvg-id="רשת.il (src05)" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13 (2)
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
@@ -15,7 +15,7 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/in
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13 (4)
 http://stream.mcquack.net/295/index.m3u8|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/133.0.0.0 Safari/537.36 Edg/133.0.0.0&Origin=https://kondoplay.cfd&Referer=https://kondoplay.cfd/
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-provider="WGP" tvg-backup-provider="i24",חדשות איי 24
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-provider="WGP" tvg-backup-provider="i24",i24
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBC.Earth.nz (src05)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
@@ -35,18 +35,18 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="CNN.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",סי אן אן
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="CNN.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748500.png" tvg-id="foxnews.il (src09)" tvg-provider="Text",חדשות קיו 13
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748500.png" tvg-id="WTVTFST.us (m3u4u)" tvg-provider="Text",Fox
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us-privacy=%7bUSPRIVACY%7d&ifa-type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app-name=%7bAPP-NAME%7d&app-bundle=%7bAPP-BUNDLE%7d&app-store-url=%7bAPP-STORE-URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device-make=%7bDEVICE-MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_light_360w_270h.png" tvg-id="ABCNL.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="abc-news-us-hd",איי בי סי ניוז
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s113380_light_360w_270h.png" tvg-id="ABCNL.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="abc-news-us-hd",NBC
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",אן בי סי ניוז
-https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",אן בי סי ניוז (2)
-https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo-channelId=99984003
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cbs-news-us-hd",סי בי אס ניוז
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cbs-news-us-hd",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",ABC
+https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s114174_light_360w_270h.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",ABC (2)
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8?ads.xumo-channelId=99984003
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/fcae54b630b544d882529d959580077b/version/0" tvg-id="ערוץ.הכלכלה.il (src05)",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s103250_dark_360w_270h.png" tvg-id="BLOMANZ.au (m3u4u)",Bloomberg
