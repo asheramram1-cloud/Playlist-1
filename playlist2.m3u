@@ -41,7 +41,7 @@ https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="CNN.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748500.png" tvg-id="WTVTFST.us (m3u4u)" tvg-provider="Text",Fox
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748500.png" tvg-id="WTVTFST.us (m3u4u)" tvg-provider="Text",Fox News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us-privacy=%7bUSPRIVACY%7d&ifa-type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app-name=%7bAPP-NAME%7d&app-bundle=%7bAPP-BUNDLE%7d&app-store-url=%7bAPP-STORE-URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device-make=%7bDEVICE-MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" tvg-id="ABCNL.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="abc-news-us-hd",ABC
 https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
