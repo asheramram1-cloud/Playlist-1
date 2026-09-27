@@ -5,7 +5,7 @@ http://stream.mcquack.net/293/index.m3u8
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-provider="WGP" tvg-backup-provider="XMLTV" tvg-backup-id="11-kanal-il",כאן 11 (3)
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" tvg-id="" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/Keshet%2012.png" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
 https://mako-streaming.akamaized.net@@MAKO:lp=@@/stream/hls/live/20000821/k12n12wad/index.m3u8@@?@@TICKET@@|Origin=https://www.n12.co.il&Referer=https://www.n12.co.il/&User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
@@ -13,17 +13,17 @@ https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/in
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)",i24 news (2)
 https://i24newshebrew-cdn.encoders.immergo.tv/master.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBC.Earth.nz (src05)",BBC Earth
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/GNLZZGG003NJBYN.png_light_360w_270h.png" tvg-id="BBCA.us (m3u4u)",BBC America
 http://23.239.31.26:8989/bbcamerica/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",TRAVELXP 4K
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="Travelxp4K.de (src09)",TRAVELXP 4K
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1409093&extension=ts&play_token=kYAjJ0qLGF
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",Travelxp 4k
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TXPE.us (m3u4u)",Traxelxp HD
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TRAVXPH.ca (m3u4u)",Traxelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TravelXP.ca (src09)",Travelxp HD
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18431731.png" tvg-id="TRAVXPH.ca (m3u4u)",Travelxp HD
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
@@ -31,7 +31,7 @@ https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
 https://videoelephantlimited-travelescapes-1-us.ohlscdn.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/13232.png" tvg-id="WildEarth.uk (src09)",Wild Earth
 https://wildearth-ono.amagi.tv/playlist/amg01290-wildearth-oando/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="CNN.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="CNN HD.us (src09)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748500.png" tvg-id="WTVTFST.us (m3u4u)" tvg-provider="Text",Fox News
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00488-foxdigital-fox13seattlekcpq-vizious/playlist.m3u8?did=%7bADID%7d&us-privacy=%7bUSPRIVACY%7d&ifa-type=%7bIFATYPE%7d&lmt=%7bLMT%7d&app-name=%7bAPP-NAME%7d&app-bundle=%7bAPP-BUNDLE%7d&app-store-url=%7bAPP-STORE-URL%7d&url=%7bDOMAIN%7d&dnt=%7bDNT%7d&coppa=%7bCOPPA%7d&device-make=%7bDEVICE-MAKE%7d&w=%7bWIDTH%7d&h=%7bHEIGHT%7d&skip=%7bSKIPPABLE%7d&vizdartoken=eyJhdWQiOiI5MyIsIndmcGNpZCI6NDAzODYwOTY1MH0
