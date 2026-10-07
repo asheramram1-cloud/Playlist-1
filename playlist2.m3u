@@ -1,10 +1,10 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/iapfbiuy79o8tfibu3ot4/m3u4u-206621-750616-EPG-Playlist.xml.gz?rlkey=paxmuaqhz6ds941ytpnorvx00&st=bgg3aako&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-provider="WGP" tvg-backup-provider="XMLTV" tvg-backup-id="11-kanal-il",כאן 11
-http://stream.mcquack.net/293/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)",כאן 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)",רשת 13
-https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-provider="WGP" tvg-backup-provider="i24",i24 news
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/fcae54b630b544d882529d959580077b/version/0" tvg-id="ערוץ.הכלכלה.il (src05)",כלכלה 10
@@ -27,3 +27,5 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",NBC
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940338.png" tvg-id="hotcinema4.il (src09)" tvg-rec="3",HOT Cinema 4
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/G8HSPYL2U5KEF6/2356/index.m3u8
