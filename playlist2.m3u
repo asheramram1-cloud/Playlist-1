@@ -5,7 +5,7 @@ https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playli
 http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)",רשת 13
 https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-provider="WGP" tvg-backup-provider="i24",i24 news
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="עברית.i24.il (src05)" tvg-provider="WGP" tvg-backup-provider="i24",i24 news
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/fcae54b630b544d882529d959580077b/version/0" tvg-id="ערוץ.הכלכלה.il (src05)",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
