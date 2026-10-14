@@ -25,3 +25,5 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",NBC
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="foxnews.il (src09)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",פוקס ניוז
+https://tvsen6.aynaott.com/foxnews/index.m3u8
