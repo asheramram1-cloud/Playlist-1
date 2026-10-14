@@ -1,23 +1,19 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/49bvskwvb7vtsqxkix579/m3u4u-206621-761877-EPG-Premium.xml.gz?rlkey=gqyti6suuc0d1sy3tso2lfwnw&st=02zjog8m&dl=1"
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3fd17f2b9f4c469d95fed1446f198474/version/3" tvg-id="5LIVE.HD.il (src05)" tvg-rec="3",5Sport Live
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2362/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/06c47e53fc4d40d494c62a1c905c59d8/version/3" tvg-id="5STARS.il (src05)" tvg-rec="0",5Sport Stars
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12278/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/d6f1b8f20ab64fa79342639eb7603cc5/version/3" tvg-id="5GOLD.il (src05)" tvg-rec="0",5Sport Gold
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12254/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="ONE.il" tvg-rec="3",One il
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2340/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12231/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1713.png" tvg-id="sport1.il (src09)" tvg-rec="0",ספורט 1
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12249/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1714.png" tvg-id="sport2.il (src09)" tvg-rec="0",ספורט 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12250/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1715.png" tvg-id="sport3.il (src09)" tvg-rec="0",ספורט 3
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/12251/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.open-epg.com/x1716.png" tvg-id="sport4.il (src09)" tvg-rec="3",ספורט 4
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/2389/index.m3u8
-#EXTINF:-1 group-title="In use" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/552e80e74e484144b8522fedd6d5a4b8/version/2" tvg-id="eurosport2.il (src09)" tvg-rec="3",Eurosport 2
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/SSZE2XUAX2DSTN/7203/index.m3u8
-#EXTINF:-1 group-title="" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e183574c34774a9fbc576e7367217296/version/3" tvg-id="animal.planet.il (src05)",Animal Planet
-http://77.137.40.221:8000/play/a00l
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="nationalgeographic.il (src09)",National Geographic
+http://198.58.104.90:8989/natgeo/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/4311.png" tvg-id="נשיונל.ג’יאוגרפיק.il (src05)" tvg-rec="0",נשיונל ג'יאוגרפיק ווילד
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-id="NGEOWG.de (m3u4u)",National Geographic Wild
+http://198.58.104.90:8989/natgeowild/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBC.Earth.nz (src05)",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/pTiiPz0.png" tvg-id="BBCA.us (m3u4u)",BBC America
+http://23.239.31.26:8989/bbcamerica/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2708.png" tvg-id="FOOD.us (m3u4u)" tvg-rec="0",Food Network
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12209/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s139282_dark_360w_270h.png" tvg-id="TRAVXPH.ca (m3u4u)",Travelxp HD
+http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=1394132&extension=ts&play_token=Gi98htZnt1
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://www.fetchtv.com.au/v2/epg/channels/2611/image" tvg-id="InTravel.au (src09)",InTravel
+https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
