@@ -3,8 +3,6 @@
 http://198.58.104.90:8989/natgeo/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/4311.png" tvg-id="ngwild.il (src09)" tvg-rec="0",נשיונל ג'יאוגרפיק ווילד
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/960px-National_Geographic_Wild_logo.svg.png" tvg-id="Nat Geo Wild.us (src09)",National Geographic Wild
-http://198.58.104.90:8989/natgeowild/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/pTiiPz0.png" tvg-id="BBCA.us (m3u4u)",BBC America
