@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/49bvskwvb7vtsqxkix579/m3u4u-206621-761877-EPG-Premium.xml.gz?rlkey=gqyti6suuc0d1sy3tso2lfwnw&st=02zjog8m&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="NGCHD.us (m3u4u)",National Geographic
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="NGLATHD.mx (m3u4u)",National Geographic
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e96dde86b1534315a53698647135e7b1/version/2" tvg-id="נ..ג’יאוגרפיק.WILD.HD.il (src05)" tvg-rec="0",Nat Geo Wild
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_light_360w_270h.png" tvg-id="FOOD.us (m3u4u)" tvg-rec="0",Food Network
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_light_360w_270h.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12209/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
