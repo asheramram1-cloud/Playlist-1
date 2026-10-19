@@ -1,29 +1,19 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/49bvskwvb7vtsqxkix579/m3u4u-206621-761877-EPG-Premium.xml.gz?rlkey=gqyti6suuc0d1sy3tso2lfwnw&st=02zjog8m&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s49438_light_360w_270h.png" tvg-id="NGC.us (m3u4u)",National Geographic
-http://198.58.104.90:8989/natgeo/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940360.png" tvg-id="ngwild.il (src09)" tvg-rec="0",Nat Geo Wild
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/960px-Natgeologo.svg.png" tvg-id="NGCHD.us (m3u4u)",National Geographic
+http://15.204.246.24:8080/NatGeoHD/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e96dde86b1534315a53698647135e7b1/version/2" tvg-id="נ..ג’יאוגרפיק.WILD.HD.il (src05)" tvg-rec="0",Nat Geo Wild
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-id="Animal Planet.us (src09)",Animal Planet
-http://23.239.31.26:8989/animalplanet/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s135387_gray_360w_270h.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-id="",Animal Planet
+http://190.128.214.97:64333/play/a01n/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-id="",Discovery
+http://168.196.127.137:6001/play/a097/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-id="",Discovery Science
+http://45.171.64.30:6060/play/a007/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_light_360w_270h.png" tvg-id="foodnetwork.il (src09)" tvg-rec="0",Food Network
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_light_360w_270h.png" tvg-id="FOOD.us (m3u4u)" tvg-rec="0",Food Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12209/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp4K.de (src09)",Travelxp 4k
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/U3PFTYPG76MSLWDDT2ZW8A6H/20031/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1599.png" tvg-id="InTravel.au (src09)",InTravel
 https://amg00861-amg00861c10-rakuten-uk-3152.playouts.now.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fqpgjg1726847016.png" tvg-id="SkySportsMainEvent.uk (src09)",SkySports MainEvents UHD
-http://weaseltv.live:80/play/live.php?mac=00:1B:79:FA:1E:32&stream=1608071&extension=ts&play_token=ZZKu989GGq
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/tr/5/52/BeIN_4K_logo.jpg" tvg-id="beIN Sports.us (src09)",Bein Sports UHD
-http://vpn.tvmoderne.ca:80/play/live.php?mac=00:1B:79:F8:A4:0D&stream=1948627&extension=ts&play_token=rxO7eb9WWu
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/a8/TNT_Sports_Ultimate_%282023%29_II.svg/revision/latest/scale-to-width-down/250?cb=20230719041550" tvg-id="TNTSPUHD.uk (m3u4u)",TNT Sports UHD
-http://weaseltv.live:80/play/live.php?mac=00:1A:79:0E:16:C3&stream=1595637&extension=ts&play_token=UmnHBp6btx
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://media.info/l/o/1/1539.1690027797.png" tvg-id="TNTSports1.uk (src09)",TNT SPORTS 1
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174231&extension=ts&play_token=ZPeMeXOcYK
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://media.info/l/o/1/1540.1690027877.png" tvg-id="TNTSP2VM.uk (m3u4u)",TNT SPORTS 2
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174232&extension=ts&play_token=xbiNJqbJ1N
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6d/TNT_Sports_3_%282023%29.svg/revision/latest/scale-to-width-down/300?cb=20230717230836" tvg-id="TNTSPORT3.uk (m3u4u)",TNT SPORTS 3
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174233&extension=ts&play_token=YRImEdMzzb
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://media.info/l/o/1/1491.1690027975.png" tvg-id="TNTSports4.uk (src09)",TNT SPORTS 4
-http://mag.tiger-ott.net:80/play/live.php?mac=00:1A:79:c0:0b:3f&stream=1174234&extension=ts&play_token=Zo2dV426mS
