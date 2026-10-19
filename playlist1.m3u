@@ -3,12 +3,6 @@
 http://15.204.246.24:8080/NatGeoHD/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/e96dde86b1534315a53698647135e7b1/version/2" tvg-id="נ..ג’יאוגרפיק.WILD.HD.il (src05)" tvg-rec="0",Nat Geo Wild
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12248/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/2018_Animal_Planet_logo.svg/960px-2018_Animal_Planet_logo.svg.png" tvg-id="",Animal Planet
-http://190.128.214.97:64333/play/a01n/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/yNFmUkE.png" tvg-id="",Discovery
-http://168.196.127.137:6001/play/a097/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Discovery_science_new_logo_2017.png/960px-Discovery_science_new_logo_2017.png" tvg-id="",Discovery Science
-http://45.171.64.30:6060/play/a007/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://i.imgur.com/nGSsUd4.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
 https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_light_360w_270h.png" tvg-id="FOOD.us (m3u4u)" tvg-rec="0",Food Network
