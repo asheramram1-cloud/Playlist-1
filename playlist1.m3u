@@ -1,19 +1,19 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/49bvskwvb7vtsqxkix579/m3u4u-206621-761877-EPG-Premium.xml.gz?rlkey=gqyti6suuc0d1sy3tso2lfwnw&st=02zjog8m&dl=1"
-#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2673.png" tvg-id="" tvg-rec="3",Channel 11 (1)
+#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2673.png" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2332/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2670.png" tvg-id="" tvg-rec="3",Keshet 12 (1)
+#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2670.png" tvg-id="קשת.il (src05)" tvg-rec="3",קשת 12
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2349/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2671.png" tvg-id="" tvg-rec="3",Reshet 13
+#EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2671.png" tvg-id="רשת.il (src05)" tvg-rec="3",רשת 13
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2330/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87374_dark_360w_270h.png" tvg-id="I24NEWS.uk (m3u4u)" tvg-rec="3",i24 News
+#EXTINF:-1 group-title="Israel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87374_dark_360w_270h.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2386/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="3",National Geographic (1)
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="3",National Geographic
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2387/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="0",National Geographic Wild
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12259/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/16051.png" tvg-id="DiscoveryChannel.uk (src09)" tvg-rec="0",Discovery Channel
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12241/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83593_gray_360w_270h.png" tvg-id="" tvg-rec="0",History
+#EXTINF:-1 group-title="Israel" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s83593_gray_360w_270h.png" tvg-id="HistoryEurope.eu (src01)" tvg-rec="0",History
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12223/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2972.png" tvg-id="" tvg-rec="0",Yes דוקו
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12258/index.m3u8
@@ -25,9 +25,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32129/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2345/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940387.png" tvg-id="yesmoviesdrama.il (src09)" tvg-rec="0",Yes Movies Drama
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12282/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="3",Yes Movies Comedy (1)
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940386.png" tvg-id="yesmoviescomedy.il (src09)" tvg-rec="3",Yes Movies Comedy
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2348/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="3",Yes Movies Action (1)
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940385.png" tvg-id="yesmoviesaction.il (src09)" tvg-rec="3",Yes Movies Action
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2350/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="http://epg.one/img/2974.png" tvg-id="" tvg-rec="3",Yes Israeli
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2342/index.m3u8
@@ -73,7 +73,7 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32147/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12254/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/16019/index.m3u8
-#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One
+#EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18940362.png" tvg-id="one.il (src09)" tvg-rec="3",One il
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2340/index.m3u8
 #EXTINF:-1 group-title="Israel" tvg-logo="https://images.open-epg.com/18748372.png" tvg-id="one2.il (src09)" tvg-rec="0",One 2
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12231/index.m3u8
