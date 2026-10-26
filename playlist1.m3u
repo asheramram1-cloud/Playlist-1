@@ -1,11 +1,11 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/49bvskwvb7vtsqxkix579/m3u4u-206621-761877-EPG-Premium.xml.gz?rlkey=gqyti6suuc0d1sy3tso2lfwnw&st=02zjog8m&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2673.png" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)" tvg-rec="3",כאן 11
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2332/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2670.png" tvg-id="קשת.il (src05)" tvg-rec="3",קשת 12
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-rec="3",קשת 12
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2349/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2671.png" tvg-id="רשת.il (src05)" tvg-rec="3",רשת 13
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-rec="3",רשת 13
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2330/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s87374_dark_360w_270h.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="i24hebrew.il (src09)" tvg-rec="3",i24 News
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2386/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18940359.png" tvg-id="nationalgeographic.il (src09)" tvg-rec="3",National Geographic
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2387/index.m3u8
@@ -43,33 +43,33 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12220/ind
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2356/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11987.png" tvg-id="" tvg-rec="0",HOT Cinema 5
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32137/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11988.png" tvg-id="ערוץ.הקולנוע.הישראלי.il (src05)" tvg-rec="0",HOT Israeli Cinema
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/f53ca55a5b454260bc82ccd7e45ba5d8/version/7" tvg-id="ערוץ.הקולנוע.הישראלי.il (src05)" tvg-rec="0",HOT Israeli Cinema
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32138/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6aa1d8c8af7e45fdb18138b03faba8f6/version/3" tvg-id="FOODY.il (src05)" tvg-rec="0",Foody
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32154/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748362.png" tvg-id="foodnetwork.il (src09)" tvg-rec="3",Food Network
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2377/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/12004.png" tvg-id="ערוץ.הנופש.il (src05)" tvg-rec="0",The Vacation Channel
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/6e17292cdedc4058918bac1b0eafdee6/version/6" tvg-id="ערוץ.הנופש.il (src05)" tvg-rec="0",The Vacation Channel
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32160/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/93262.png" tvg-id="ערוץ.ההומור.il (src05)" tvg-rec="0",The Humor Channel
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/8781715136df4f87bdd00310b95cdd26/version/4" tvg-id="ערוץ.ההומור.il (src05)" tvg-rec="0",The Humor Channel
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32161/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11986.png" tvg-id="ערוץ.הקומדיות.הקלאסיות.il (src05)" tvg-rec="0",Classic Comedy Channel
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/66d7f82d48b54005bb5e28f001de0798/version/9" tvg-id="ערוץ.הקומדיות.הקלאסיות.il (src05)" tvg-rec="0",Classic Comedy Channel
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32136/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2707.png" tvg-id="ego.il (src09)" tvg-rec="0",Ego Total
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/x1722.png" tvg-id="ego.il (src09)" tvg-rec="0",Ego Total
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32317/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/9049.png" tvg-id="music24.il (src09)" tvg-rec="0",ערוץ 24
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748402.png" tvg-id="music24.il (src09)" tvg-rec="0",ערוץ 24
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12237/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/2682.png" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="5SPORT.HD.il (src05)" tvg-rec="3",5Sport
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/2391/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11997.png" tvg-id="sport5plus.il (src09)" tvg-rec="0",Sport 5 Plus
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748471.png" tvg-id="sport5plus.il (src09)" tvg-rec="0",Sport 5 Plus
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32151/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/3993.png" tvg-id="sport5live.il (src09)" tvg-rec="0",Sport 5 Live
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748470.png" tvg-id="sport5live.il (src09)" tvg-rec="0",Sport 5 Live
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12255/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/3994.png" tvg-id="sport5stars.il (src09)" tvg-rec="0",Sport 5 Stars
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748474.png" tvg-id="sport5stars.il (src09)" tvg-rec="0",Sport 5 Stars
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12232/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/11995.png" tvg-id="" tvg-rec="0",Sport 5 Max
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/32147/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="http://epg.one/img/3992.png" tvg-id="sport5gold.il (src09)" tvg-rec="0",Sport 5 Gold
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748469.png" tvg-id="sport5gold.il (src09)" tvg-rec="0",Sport 5 Gold
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/12254/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/c45c03d518464658af8776260fbfec99/version/3" tvg-id="sport54k.il (src09)" tvg-rec="0",Sport 5 4K
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/XFKTEFMC42W8Z9/16019/index.m3u8
