@@ -9,6 +9,8 @@ https://d2xg1g9o5vns8m.cloudfront.net/out/v1/66d4ac8748ce4a9298b4e40e48d1ae2f/in
 https://i24newshebrew-cdn.encoders.immergo.tv/2/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/he/1/1f/Logo-calclatv.svg?utm_source=he.wikipedia.org&utm_campaign=index&utm_content=original" tvg-id="ערוץ.הכלכלה.il (src05)",כלכלה 10
 https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/playlist.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s10149_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="ComedyCentral.us",Comedy Central
+https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s49438_light_360w_270h.png?v=3407281be3ae95939749" tvg-id="NATG1.uk (m3u4u)",National Geographic
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/14002/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s66804_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="Nat Geo Wild.us (src09)",National Geographic Wild
@@ -19,14 +21,6 @@ http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/9011/index.m3u8
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/136/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s16331_dark_360w_270h.png?v=3407281be3ae95939749" tvg-id="APL.us (m3u4u)",Animal Planet
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/218/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s139282_dark_360w_270h.png?v=3407281be3ae95939749" tvg-id="Travelxp4K.de (src09)",TravelXP 4K
-http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/20031/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s139282_dark_360w_270h.png?v=3407281be3ae95939749" tvg-id="Travelxp4K.de (src09)",TravelXP 4K
-http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/14026/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s110863_dark_360w_270h.png?v=b413205d8c868193274e" tvg-id="TRVLXPE.uk (m3u4u)",TravelXP HD
-http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/15018/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp.de (src09)",TravelXP HD DE
-http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/31427/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="cnn.il (src09)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="FNC.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News
@@ -37,3 +31,9 @@ https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2a
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",NBC
 https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-xumo-linear-nbcu-hlsv3/master.m3u8?ads.channelId=99991247
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s139282_dark_360w_270h.png?v=3407281be3ae95939749" tvg-id="Travelxp4K.de (src09)",TravelXP 4K
+http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/20031/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s110863_dark_360w_270h.png?v=b413205d8c868193274e" tvg-id="TRVLXPE.uk (m3u4u)",TravelXP HD
+http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/15018/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/8130.png" tvg-id="Travelxp.de (src09)",TravelXP HD DE
+http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/31427/index.m3u8
