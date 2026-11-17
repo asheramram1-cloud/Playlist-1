@@ -13,8 +13,6 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s49438_light_360w_270h.png?v=3407281be3ae95939749" tvg-id="NatGeo.uk (src01)",National Geographic
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/14002/index.m3u8
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
-https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s66804_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="Nat Geo Wild.us (src09)",National Geographic Wild
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/9264/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s83572_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="DiscoveryChannel.uk (src09)",Discovery Channel
@@ -23,6 +21,8 @@ http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/9011/index.m3u8
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/136/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s16331_dark_360w_270h.png?v=3407281be3ae95939749" tvg-id="Animal Planet.us (src09)",Animal Planet
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/218/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10142_gray_360w_270h.png" tvg-id="cnn.il (src09)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cnn",CNN
 https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ury0meh5m4nzm/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="FNC.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News
