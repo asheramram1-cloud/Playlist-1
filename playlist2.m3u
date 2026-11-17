@@ -1,6 +1,4 @@
 #EXTM3U x-tvg-url="https://www.dropbox.com/scl/fi/iapfbiuy79o8tfibu3ot4/m3u4u-206621-750616-EPG-Playlist.xml.gz?rlkey=paxmuaqhz6ds941ytpnorvx00&st=bgg3aako&dl=1"
-#EXTINF:-1 group-title="Favorites" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Kan11Logo.svg/960px-Kan11Logo.svg.png" tvg-id="כאן.11.il (src05)",Kan 11
-https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/3ee36e3305694613b4b82aa97703ac2a/version/4" tvg-id="כאן.11.il (src05)",כאן 11
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת 12
@@ -15,6 +13,8 @@ https://r.il.cdn-redge.media/livehls/oil/calcala-live/live/channel10/live.livx/p
 https://jmp2.uk/plu-64f8a408bd341e000818fcda.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s49438_light_360w_270h.png?v=3407281be3ae95939749" tvg-id="NatGeo.uk (src01)",National Geographic
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/14002/index.m3u8
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.skyone.co.nz/contentful/dcojl03mw8gy/7EyTd3S3yodkmPc54wjkqN/1b523700a611e74c923d6bfb5c3210d3/074_1920x1080.png" tvg-id="BBCERTH.us (m3u4u)",BBC Earth
+https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s66804_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="Nat Geo Wild.us (src09)",National Geographic Wild
 http://b5f21858.rostelekom.xyz/iptv/96PGDSQPURKY458WPYZ788ZH/9264/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://logos.json.schedulesdirect.org/stationLogos/s83572_gray_360w_270h.png?v=3407281be3ae95939749" tvg-id="DiscoveryChannel.uk (src09)",Discovery Channel
