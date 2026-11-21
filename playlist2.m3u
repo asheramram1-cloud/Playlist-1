@@ -3,6 +3,8 @@
 https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)",קשת 12
 http://wowtv.cc:80/play/live.php?mac=00:1A:79:48:83:CD&stream=260714&extension=ts&play_token=tLMIeiUTAF
+#EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/a3ff442c67a84f8c904cd4636eecbdd8/version/4" tvg-id="קשת.il (src05)" tvg-provider="Mako" tvg-backup-provider="WGP" tvg-backup-id="Keshet%2012",קשת
+http://stream.mcquack.net/294/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.frp1.ott.kaltura.com/Service.svc/GetImage/p/3197/entry_id/7ed219e2533e4e719fff2385ea24d6ae/version/8" tvg-id="רשת.il (src05)" tvg-provider="WGP" tvg-backup-provider="Reshet",רשת 13
 https://d18b0e6mopany4.cloudfront.net/out/v1/2f2bc414a3db4698a8e94b89eaf2da2a/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://images.open-epg.com/18748421.png" tvg-id="עברית.i24.il (src05)" tvg-provider="WGP" tvg-backup-provider="i24",i24 news
@@ -26,7 +28,7 @@ https://d3bp6dwmpbdajl.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/FoxNews.png" tvg-id="FNC.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="fox-news-hd",Fox News
 http://103.253.74.210:7070/stream/124/index.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/ABCNews.jpg" tvg-id="ABCNL.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="abc-news-us-hd",ABC
-https://live-manifest.production-public.tubi.io/live/14e4f5f2-9787-4c49-8554-f2ad109764a7/playlist.m3u8
+https://dbrb49pjoymg4.cloudfront.net/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/d9710f6e-d1e5-4f6f-b55f-35150724d8b1/5.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s104846_dark_360w_270h.png" tvg-id="CBSNSTR.us (m3u4u)" tvg-provider="WGP.ENG" tvg-backup-provider="XMLTV" tvg-backup-id="cbs-news-us-hd",CBS
 https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Favorites" tvg-logo="https://raw.githubusercontent.com/RokuIL/Live-From-Israel/master/Logos/NBCNews.png" tvg-id="NBCNN.us (m3u4u)" tvg-provider="NBC News ENG" tvg-backup-provider="XMLTV" tvg-backup-id="nbc-news-us-hd",NBC
